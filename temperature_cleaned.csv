@@ -1,4 +1,4 @@
-Country,Year,Annual_Mean,Five_Year_Smooth,Code
+country,year,annual_mean,five_year_smooth,code
 Dominican Republic,1901-01-01,23.71,23.65,DOM
 Dominican Republic,1902-01-01,23.4,23.52,DOM
 Dominican Republic,1903-01-01,23.45,23.38,DOM
@@ -1707,128 +1707,128 @@ Nauru,2019-01-01,28.07,27.98,NRU
 Nauru,2020-01-01,28.15,28.0,NRU
 Nauru,2021-01-01,28.11,28.01,NRU
 Nauru,2022-01-01,27.87,28.03,NRU
-Trinidad And Tobago,1901-01-01,25.98,25.89,TTO
-Trinidad And Tobago,1902-01-01,25.7,25.79,TTO
-Trinidad And Tobago,1903-01-01,25.74,25.69,TTO
-Trinidad And Tobago,1904-01-01,25.44,25.61,TTO
-Trinidad And Tobago,1905-01-01,25.6,25.54,TTO
-Trinidad And Tobago,1906-01-01,25.59,25.49,TTO
-Trinidad And Tobago,1907-01-01,25.45,25.47,TTO
-Trinidad And Tobago,1908-01-01,25.46,25.47,TTO
-Trinidad And Tobago,1909-01-01,25.47,25.49,TTO
-Trinidad And Tobago,1910-01-01,25.49,25.51,TTO
-Trinidad And Tobago,1911-01-01,25.61,25.53,TTO
-Trinidad And Tobago,1912-01-01,25.72,25.55,TTO
-Trinidad And Tobago,1913-01-01,25.42,25.55,TTO
-Trinidad And Tobago,1914-01-01,25.3,25.53,TTO
-Trinidad And Tobago,1915-01-01,25.71,25.51,TTO
-Trinidad And Tobago,1916-01-01,25.35,25.49,TTO
-Trinidad And Tobago,1917-01-01,25.48,25.47,TTO
-Trinidad And Tobago,1918-01-01,25.57,25.45,TTO
-Trinidad And Tobago,1919-01-01,25.49,25.43,TTO
-Trinidad And Tobago,1920-01-01,25.35,25.41,TTO
-Trinidad And Tobago,1921-01-01,25.47,25.4,TTO
-Trinidad And Tobago,1922-01-01,25.29,25.4,TTO
-Trinidad And Tobago,1923-01-01,25.39,25.41,TTO
-Trinidad And Tobago,1924-01-01,25.34,25.43,TTO
-Trinidad And Tobago,1925-01-01,25.42,25.45,TTO
-Trinidad And Tobago,1926-01-01,25.87,25.48,TTO
-Trinidad And Tobago,1927-01-01,25.39,25.51,TTO
-Trinidad And Tobago,1928-01-01,25.47,25.54,TTO
-Trinidad And Tobago,1929-01-01,25.25,25.58,TTO
-Trinidad And Tobago,1930-01-01,25.54,25.61,TTO
-Trinidad And Tobago,1931-01-01,25.97,25.65,TTO
-Trinidad And Tobago,1932-01-01,26.14,25.68,TTO
-Trinidad And Tobago,1933-01-01,25.51,25.71,TTO
-Trinidad And Tobago,1934-01-01,25.65,25.74,TTO
-Trinidad And Tobago,1935-01-01,25.59,25.77,TTO
-Trinidad And Tobago,1936-01-01,25.73,25.81,TTO
-Trinidad And Tobago,1937-01-01,25.99,25.86,TTO
-Trinidad And Tobago,1938-01-01,25.7,25.93,TTO
-Trinidad And Tobago,1939-01-01,25.78,26.01,TTO
-Trinidad And Tobago,1940-01-01,26.45,26.1,TTO
-Trinidad And Tobago,1941-01-01,26.59,26.17,TTO
-Trinidad And Tobago,1942-01-01,26.46,26.23,TTO
-Trinidad And Tobago,1943-01-01,25.95,26.25,TTO
-Trinidad And Tobago,1944-01-01,26.16,26.23,TTO
-Trinidad And Tobago,1945-01-01,25.92,26.18,TTO
-Trinidad And Tobago,1946-01-01,25.91,26.09,TTO
-Trinidad And Tobago,1947-01-01,26.2,26.0,TTO
-Trinidad And Tobago,1948-01-01,25.92,25.9,TTO
-Trinidad And Tobago,1949-01-01,25.75,25.82,TTO
-Trinidad And Tobago,1950-01-01,25.59,25.76,TTO
-Trinidad And Tobago,1951-01-01,25.91,25.71,TTO
-Trinidad And Tobago,1952-01-01,26.09,25.69,TTO
-Trinidad And Tobago,1953-01-01,25.93,25.7,TTO
-Trinidad And Tobago,1954-01-01,25.5,25.73,TTO
-Trinidad And Tobago,1955-01-01,25.56,25.79,TTO
-Trinidad And Tobago,1956-01-01,25.57,25.86,TTO
-Trinidad And Tobago,1957-01-01,25.81,25.94,TTO
-Trinidad And Tobago,1958-01-01,26.3,25.99,TTO
-Trinidad And Tobago,1959-01-01,25.99,26.02,TTO
-Trinidad And Tobago,1960-01-01,26.1,26.02,TTO
-Trinidad And Tobago,1961-01-01,26.02,25.99,TTO
-Trinidad And Tobago,1962-01-01,25.94,25.95,TTO
-Trinidad And Tobago,1963-01-01,26.12,25.91,TTO
-Trinidad And Tobago,1964-01-01,25.78,25.89,TTO
-Trinidad And Tobago,1965-01-01,25.79,25.89,TTO
-Trinidad And Tobago,1966-01-01,26.01,25.91,TTO
-Trinidad And Tobago,1967-01-01,25.67,25.94,TTO
-Trinidad And Tobago,1968-01-01,25.75,25.97,TTO
-Trinidad And Tobago,1969-01-01,26.47,25.97,TTO
-Trinidad And Tobago,1970-01-01,26.03,25.94,TTO
-Trinidad And Tobago,1971-01-01,25.56,25.89,TTO
-Trinidad And Tobago,1972-01-01,25.79,25.83,TTO
-Trinidad And Tobago,1973-01-01,26.15,25.79,TTO
-Trinidad And Tobago,1974-01-01,25.71,25.78,TTO
-Trinidad And Tobago,1975-01-01,25.76,25.83,TTO
-Trinidad And Tobago,1976-01-01,25.68,25.93,TTO
-Trinidad And Tobago,1977-01-01,26.16,26.07,TTO
-Trinidad And Tobago,1978-01-01,26.26,26.21,TTO
-Trinidad And Tobago,1979-01-01,26.43,26.33,TTO
-Trinidad And Tobago,1980-01-01,26.48,26.4,TTO
-Trinidad And Tobago,1981-01-01,26.49,26.39,TTO
-Trinidad And Tobago,1982-01-01,26.21,26.34,TTO
-Trinidad And Tobago,1983-01-01,26.39,26.27,TTO
-Trinidad And Tobago,1984-01-01,25.87,26.19,TTO
-Trinidad And Tobago,1985-01-01,25.7,26.13,TTO
-Trinidad And Tobago,1986-01-01,26.01,26.12,TTO
-Trinidad And Tobago,1987-01-01,26.88,26.15,TTO
-Trinidad And Tobago,1988-01-01,26.56,26.2,TTO
-Trinidad And Tobago,1989-01-01,25.99,26.26,TTO
-Trinidad And Tobago,1990-01-01,26.37,26.32,TTO
-Trinidad And Tobago,1991-01-01,26.37,26.36,TTO
-Trinidad And Tobago,1992-01-01,26.06,26.38,TTO
-Trinidad And Tobago,1993-01-01,26.42,26.38,TTO
-Trinidad And Tobago,1994-01-01,26.12,26.38,TTO
-Trinidad And Tobago,1995-01-01,26.55,26.38,TTO
-Trinidad And Tobago,1996-01-01,26.23,26.38,TTO
-Trinidad And Tobago,1997-01-01,26.37,26.38,TTO
-Trinidad And Tobago,1998-01-01,26.99,26.4,TTO
-Trinidad And Tobago,1999-01-01,26.5,26.42,TTO
-Trinidad And Tobago,2000-01-01,26.12,26.45,TTO
-Trinidad And Tobago,2001-01-01,26.38,26.48,TTO
-Trinidad And Tobago,2002-01-01,26.34,26.51,TTO
-Trinidad And Tobago,2003-01-01,26.77,26.55,TTO
-Trinidad And Tobago,2004-01-01,26.46,26.58,TTO
-Trinidad And Tobago,2005-01-01,26.74,26.6,TTO
-Trinidad And Tobago,2006-01-01,26.67,26.61,TTO
-Trinidad And Tobago,2007-01-01,26.4,26.61,TTO
-Trinidad And Tobago,2008-01-01,26.43,26.6,TTO
-Trinidad And Tobago,2009-01-01,26.73,26.59,TTO
-Trinidad And Tobago,2010-01-01,27.03,26.58,TTO
-Trinidad And Tobago,2011-01-01,26.57,26.59,TTO
-Trinidad And Tobago,2012-01-01,26.33,26.61,TTO
-Trinidad And Tobago,2013-01-01,26.47,26.65,TTO
-Trinidad And Tobago,2014-01-01,26.6,26.69,TTO
-Trinidad And Tobago,2015-01-01,26.97,26.73,TTO
-Trinidad And Tobago,2016-01-01,26.94,26.76,TTO
-Trinidad And Tobago,2017-01-01,26.79,26.77,TTO
-Trinidad And Tobago,2018-01-01,26.43,26.75,TTO
-Trinidad And Tobago,2019-01-01,26.75,26.71,TTO
-Trinidad And Tobago,2020-01-01,26.82,26.65,TTO
-Trinidad And Tobago,2021-01-01,26.58,26.59,TTO
-Trinidad And Tobago,2022-01-01,26.46,26.51,TTO
+Trinidad and Tobago,1901-01-01,25.98,25.89,TTO
+Trinidad and Tobago,1902-01-01,25.7,25.79,TTO
+Trinidad and Tobago,1903-01-01,25.74,25.69,TTO
+Trinidad and Tobago,1904-01-01,25.44,25.61,TTO
+Trinidad and Tobago,1905-01-01,25.6,25.54,TTO
+Trinidad and Tobago,1906-01-01,25.59,25.49,TTO
+Trinidad and Tobago,1907-01-01,25.45,25.47,TTO
+Trinidad and Tobago,1908-01-01,25.46,25.47,TTO
+Trinidad and Tobago,1909-01-01,25.47,25.49,TTO
+Trinidad and Tobago,1910-01-01,25.49,25.51,TTO
+Trinidad and Tobago,1911-01-01,25.61,25.53,TTO
+Trinidad and Tobago,1912-01-01,25.72,25.55,TTO
+Trinidad and Tobago,1913-01-01,25.42,25.55,TTO
+Trinidad and Tobago,1914-01-01,25.3,25.53,TTO
+Trinidad and Tobago,1915-01-01,25.71,25.51,TTO
+Trinidad and Tobago,1916-01-01,25.35,25.49,TTO
+Trinidad and Tobago,1917-01-01,25.48,25.47,TTO
+Trinidad and Tobago,1918-01-01,25.57,25.45,TTO
+Trinidad and Tobago,1919-01-01,25.49,25.43,TTO
+Trinidad and Tobago,1920-01-01,25.35,25.41,TTO
+Trinidad and Tobago,1921-01-01,25.47,25.4,TTO
+Trinidad and Tobago,1922-01-01,25.29,25.4,TTO
+Trinidad and Tobago,1923-01-01,25.39,25.41,TTO
+Trinidad and Tobago,1924-01-01,25.34,25.43,TTO
+Trinidad and Tobago,1925-01-01,25.42,25.45,TTO
+Trinidad and Tobago,1926-01-01,25.87,25.48,TTO
+Trinidad and Tobago,1927-01-01,25.39,25.51,TTO
+Trinidad and Tobago,1928-01-01,25.47,25.54,TTO
+Trinidad and Tobago,1929-01-01,25.25,25.58,TTO
+Trinidad and Tobago,1930-01-01,25.54,25.61,TTO
+Trinidad and Tobago,1931-01-01,25.97,25.65,TTO
+Trinidad and Tobago,1932-01-01,26.14,25.68,TTO
+Trinidad and Tobago,1933-01-01,25.51,25.71,TTO
+Trinidad and Tobago,1934-01-01,25.65,25.74,TTO
+Trinidad and Tobago,1935-01-01,25.59,25.77,TTO
+Trinidad and Tobago,1936-01-01,25.73,25.81,TTO
+Trinidad and Tobago,1937-01-01,25.99,25.86,TTO
+Trinidad and Tobago,1938-01-01,25.7,25.93,TTO
+Trinidad and Tobago,1939-01-01,25.78,26.01,TTO
+Trinidad and Tobago,1940-01-01,26.45,26.1,TTO
+Trinidad and Tobago,1941-01-01,26.59,26.17,TTO
+Trinidad and Tobago,1942-01-01,26.46,26.23,TTO
+Trinidad and Tobago,1943-01-01,25.95,26.25,TTO
+Trinidad and Tobago,1944-01-01,26.16,26.23,TTO
+Trinidad and Tobago,1945-01-01,25.92,26.18,TTO
+Trinidad and Tobago,1946-01-01,25.91,26.09,TTO
+Trinidad and Tobago,1947-01-01,26.2,26.0,TTO
+Trinidad and Tobago,1948-01-01,25.92,25.9,TTO
+Trinidad and Tobago,1949-01-01,25.75,25.82,TTO
+Trinidad and Tobago,1950-01-01,25.59,25.76,TTO
+Trinidad and Tobago,1951-01-01,25.91,25.71,TTO
+Trinidad and Tobago,1952-01-01,26.09,25.69,TTO
+Trinidad and Tobago,1953-01-01,25.93,25.7,TTO
+Trinidad and Tobago,1954-01-01,25.5,25.73,TTO
+Trinidad and Tobago,1955-01-01,25.56,25.79,TTO
+Trinidad and Tobago,1956-01-01,25.57,25.86,TTO
+Trinidad and Tobago,1957-01-01,25.81,25.94,TTO
+Trinidad and Tobago,1958-01-01,26.3,25.99,TTO
+Trinidad and Tobago,1959-01-01,25.99,26.02,TTO
+Trinidad and Tobago,1960-01-01,26.1,26.02,TTO
+Trinidad and Tobago,1961-01-01,26.02,25.99,TTO
+Trinidad and Tobago,1962-01-01,25.94,25.95,TTO
+Trinidad and Tobago,1963-01-01,26.12,25.91,TTO
+Trinidad and Tobago,1964-01-01,25.78,25.89,TTO
+Trinidad and Tobago,1965-01-01,25.79,25.89,TTO
+Trinidad and Tobago,1966-01-01,26.01,25.91,TTO
+Trinidad and Tobago,1967-01-01,25.67,25.94,TTO
+Trinidad and Tobago,1968-01-01,25.75,25.97,TTO
+Trinidad and Tobago,1969-01-01,26.47,25.97,TTO
+Trinidad and Tobago,1970-01-01,26.03,25.94,TTO
+Trinidad and Tobago,1971-01-01,25.56,25.89,TTO
+Trinidad and Tobago,1972-01-01,25.79,25.83,TTO
+Trinidad and Tobago,1973-01-01,26.15,25.79,TTO
+Trinidad and Tobago,1974-01-01,25.71,25.78,TTO
+Trinidad and Tobago,1975-01-01,25.76,25.83,TTO
+Trinidad and Tobago,1976-01-01,25.68,25.93,TTO
+Trinidad and Tobago,1977-01-01,26.16,26.07,TTO
+Trinidad and Tobago,1978-01-01,26.26,26.21,TTO
+Trinidad and Tobago,1979-01-01,26.43,26.33,TTO
+Trinidad and Tobago,1980-01-01,26.48,26.4,TTO
+Trinidad and Tobago,1981-01-01,26.49,26.39,TTO
+Trinidad and Tobago,1982-01-01,26.21,26.34,TTO
+Trinidad and Tobago,1983-01-01,26.39,26.27,TTO
+Trinidad and Tobago,1984-01-01,25.87,26.19,TTO
+Trinidad and Tobago,1985-01-01,25.7,26.13,TTO
+Trinidad and Tobago,1986-01-01,26.01,26.12,TTO
+Trinidad and Tobago,1987-01-01,26.88,26.15,TTO
+Trinidad and Tobago,1988-01-01,26.56,26.2,TTO
+Trinidad and Tobago,1989-01-01,25.99,26.26,TTO
+Trinidad and Tobago,1990-01-01,26.37,26.32,TTO
+Trinidad and Tobago,1991-01-01,26.37,26.36,TTO
+Trinidad and Tobago,1992-01-01,26.06,26.38,TTO
+Trinidad and Tobago,1993-01-01,26.42,26.38,TTO
+Trinidad and Tobago,1994-01-01,26.12,26.38,TTO
+Trinidad and Tobago,1995-01-01,26.55,26.38,TTO
+Trinidad and Tobago,1996-01-01,26.23,26.38,TTO
+Trinidad and Tobago,1997-01-01,26.37,26.38,TTO
+Trinidad and Tobago,1998-01-01,26.99,26.4,TTO
+Trinidad and Tobago,1999-01-01,26.5,26.42,TTO
+Trinidad and Tobago,2000-01-01,26.12,26.45,TTO
+Trinidad and Tobago,2001-01-01,26.38,26.48,TTO
+Trinidad and Tobago,2002-01-01,26.34,26.51,TTO
+Trinidad and Tobago,2003-01-01,26.77,26.55,TTO
+Trinidad and Tobago,2004-01-01,26.46,26.58,TTO
+Trinidad and Tobago,2005-01-01,26.74,26.6,TTO
+Trinidad and Tobago,2006-01-01,26.67,26.61,TTO
+Trinidad and Tobago,2007-01-01,26.4,26.61,TTO
+Trinidad and Tobago,2008-01-01,26.43,26.6,TTO
+Trinidad and Tobago,2009-01-01,26.73,26.59,TTO
+Trinidad and Tobago,2010-01-01,27.03,26.58,TTO
+Trinidad and Tobago,2011-01-01,26.57,26.59,TTO
+Trinidad and Tobago,2012-01-01,26.33,26.61,TTO
+Trinidad and Tobago,2013-01-01,26.47,26.65,TTO
+Trinidad and Tobago,2014-01-01,26.6,26.69,TTO
+Trinidad and Tobago,2015-01-01,26.97,26.73,TTO
+Trinidad and Tobago,2016-01-01,26.94,26.76,TTO
+Trinidad and Tobago,2017-01-01,26.79,26.77,TTO
+Trinidad and Tobago,2018-01-01,26.43,26.75,TTO
+Trinidad and Tobago,2019-01-01,26.75,26.71,TTO
+Trinidad and Tobago,2020-01-01,26.82,26.65,TTO
+Trinidad and Tobago,2021-01-01,26.58,26.59,TTO
+Trinidad and Tobago,2022-01-01,26.46,26.51,TTO
 Bangladesh,1901-01-01,25.27,25.18,BGD
 Bangladesh,1902-01-01,25.12,25.15,BGD
 Bangladesh,1903-01-01,25.25,25.12,BGD
@@ -3049,128 +3049,128 @@ Nicaragua,2019-01-01,26.02,26.07,NIC
 Nicaragua,2020-01-01,26.26,26.03,NIC
 Nicaragua,2021-01-01,26.09,25.97,NIC
 Nicaragua,2022-01-01,25.81,25.91,NIC
-Russian Federation,1901-01-01,-5.17,-5.61,RUS
-Russian Federation,1902-01-01,-6.54,-5.54,RUS
-Russian Federation,1903-01-01,-5.15,-5.49,RUS
-Russian Federation,1904-01-01,-5.25,-5.44,RUS
-Russian Federation,1905-01-01,-5.33,-5.41,RUS
-Russian Federation,1906-01-01,-4.87,-5.41,RUS
-Russian Federation,1907-01-01,-5.82,-5.43,RUS
-Russian Federation,1908-01-01,-5.87,-5.48,RUS
-Russian Federation,1909-01-01,-5.52,-5.54,RUS
-Russian Federation,1910-01-01,-5.5,-5.61,RUS
-Russian Federation,1911-01-01,-5.52,-5.68,RUS
-Russian Federation,1912-01-01,-6.42,-5.73,RUS
-Russian Federation,1913-01-01,-5.38,-5.76,RUS
-Russian Federation,1914-01-01,-5.14,-5.77,RUS
-Russian Federation,1915-01-01,-6.03,-5.75,RUS
-Russian Federation,1916-01-01,-5.85,-5.7,RUS
-Russian Federation,1917-01-01,-5.34,-5.6,RUS
-Russian Federation,1918-01-01,-5.47,-5.48,RUS
-Russian Federation,1919-01-01,-5.9,-5.33,RUS
-Russian Federation,1920-01-01,-5.03,-5.19,RUS
-Russian Federation,1921-01-01,-4.78,-5.08,RUS
-Russian Federation,1922-01-01,-5.42,-5.01,RUS
-Russian Federation,1923-01-01,-5.09,-5.01,RUS
-Russian Federation,1924-01-01,-5.03,-5.06,RUS
-Russian Federation,1925-01-01,-4.69,-5.14,RUS
-Russian Federation,1926-01-01,-4.99,-5.22,RUS
-Russian Federation,1927-01-01,-5.25,-5.28,RUS
-Russian Federation,1928-01-01,-5.46,-5.31,RUS
-Russian Federation,1929-01-01,-5.87,-5.3,RUS
-Russian Federation,1930-01-01,-5.11,-5.25,RUS
-Russian Federation,1931-01-01,-5.39,-5.19,RUS
-Russian Federation,1932-01-01,-4.41,-5.11,RUS
-Russian Federation,1933-01-01,-5.85,-5.02,RUS
-Russian Federation,1934-01-01,-4.39,-4.95,RUS
-Russian Federation,1935-01-01,-4.96,-4.88,RUS
-Russian Federation,1936-01-01,-4.8,-4.83,RUS
-Russian Federation,1937-01-01,-4.96,-4.82,RUS
-Russian Federation,1938-01-01,-4.36,-4.84,RUS
-Russian Federation,1939-01-01,-4.47,-4.9,RUS
-Russian Federation,1940-01-01,-5.44,-4.98,RUS
-Russian Federation,1941-01-01,-6.22,-5.06,RUS
-Russian Federation,1942-01-01,-5.43,-5.12,RUS
-Russian Federation,1943-01-01,-3.98,-5.14,RUS
-Russian Federation,1944-01-01,-4.4,-5.1,RUS
-Russian Federation,1945-01-01,-5.25,-5.02,RUS
-Russian Federation,1946-01-01,-5.61,-4.93,RUS
-Russian Federation,1947-01-01,-5.18,-4.86,RUS
-Russian Federation,1948-01-01,-4.19,-4.83,RUS
-Russian Federation,1949-01-01,-4.7,-4.87,RUS
-Russian Federation,1950-01-01,-5.38,-4.97,RUS
-Russian Federation,1951-01-01,-4.85,-5.1,RUS
-Russian Federation,1952-01-01,-6.0,-5.24,RUS
-Russian Federation,1953-01-01,-4.61,-5.36,RUS
-Russian Federation,1954-01-01,-5.16,-5.42,RUS
-Russian Federation,1955-01-01,-5.44,-5.42,RUS
-Russian Federation,1956-01-01,-5.75,-5.37,RUS
-Russian Federation,1957-01-01,-5.14,-5.3,RUS
-Russian Federation,1958-01-01,-5.87,-5.23,RUS
-Russian Federation,1959-01-01,-4.69,-5.16,RUS
-Russian Federation,1960-01-01,-5.79,-5.13,RUS
-Russian Federation,1961-01-01,-4.83,-5.12,RUS
-Russian Federation,1962-01-01,-4.24,-5.13,RUS
-Russian Federation,1963-01-01,-4.79,-5.16,RUS
-Russian Federation,1964-01-01,-5.65,-5.2,RUS
-Russian Federation,1965-01-01,-5.72,-5.26,RUS
-Russian Federation,1966-01-01,-6.09,-5.33,RUS
-Russian Federation,1967-01-01,-4.17,-5.39,RUS
-Russian Federation,1968-01-01,-5.48,-5.43,RUS
-Russian Federation,1969-01-01,-6.5,-5.45,RUS
-Russian Federation,1970-01-01,-5.32,-5.43,RUS
-Russian Federation,1971-01-01,-4.78,-5.38,RUS
-Russian Federation,1972-01-01,-5.53,-5.3,RUS
-Russian Federation,1973-01-01,-4.66,-5.22,RUS
-Russian Federation,1974-01-01,-5.44,-5.13,RUS
-Russian Federation,1975-01-01,-3.93,-5.05,RUS
-Russian Federation,1976-01-01,-5.81,-4.99,RUS
-Russian Federation,1977-01-01,-5.37,-4.94,RUS
-Russian Federation,1978-01-01,-5.0,-4.91,RUS
-Russian Federation,1979-01-01,-5.56,-4.9,RUS
-Russian Federation,1980-01-01,-5.23,-4.9,RUS
-Russian Federation,1981-01-01,-3.92,-4.91,RUS
-Russian Federation,1982-01-01,-4.88,-4.92,RUS
-Russian Federation,1983-01-01,-3.79,-4.93,RUS
-Russian Federation,1984-01-01,-5.13,-4.91,RUS
-Russian Federation,1985-01-01,-5.35,-4.86,RUS
-Russian Federation,1986-01-01,-4.66,-4.76,RUS
-Russian Federation,1987-01-01,-6.03,-4.64,RUS
-Russian Federation,1988-01-01,-4.16,-4.5,RUS
-Russian Federation,1989-01-01,-3.79,-4.37,RUS
-Russian Federation,1990-01-01,-3.76,-4.26,RUS
-Russian Federation,1991-01-01,-4.08,-4.19,RUS
-Russian Federation,1992-01-01,-4.73,-4.17,RUS
-Russian Federation,1993-01-01,-4.41,-4.18,RUS
-Russian Federation,1994-01-01,-4.7,-4.22,RUS
-Russian Federation,1995-01-01,-3.03,-4.27,RUS
-Russian Federation,1996-01-01,-4.61,-4.32,RUS
-Russian Federation,1997-01-01,-4.09,-4.36,RUS
-Russian Federation,1998-01-01,-4.95,-4.39,RUS
-Russian Federation,1999-01-01,-4.57,-4.39,RUS
-Russian Federation,2000-01-01,-4.38,-4.36,RUS
-Russian Federation,2001-01-01,-4.29,-4.28,RUS
-Russian Federation,2002-01-01,-3.84,-4.16,RUS
-Russian Federation,2003-01-01,-3.64,-4.0,RUS
-Russian Federation,2004-01-01,-4.29,-3.85,RUS
-Russian Federation,2005-01-01,-3.39,-3.72,RUS
-Russian Federation,2006-01-01,-4.56,-3.65,RUS
-Russian Federation,2007-01-01,-2.83,-3.65,RUS
-Russian Federation,2008-01-01,-3.24,-3.7,RUS
-Russian Federation,2009-01-01,-4.46,-3.77,RUS
-Russian Federation,2010-01-01,-4.36,-3.83,RUS
-Russian Federation,2011-01-01,-3.26,-3.85,RUS
-Russian Federation,2012-01-01,-3.89,-3.78,RUS
-Russian Federation,2013-01-01,-3.5,-3.64,RUS
-Russian Federation,2014-01-01,-3.56,-3.44,RUS
-Russian Federation,2015-01-01,-2.88,-3.24,RUS
-Russian Federation,2016-01-01,-3.21,-3.05,RUS
-Russian Federation,2017-01-01,-2.89,-2.91,RUS
-Russian Federation,2018-01-01,-3.41,-2.83,RUS
-Russian Federation,2019-01-01,-2.85,-2.82,RUS
-Russian Federation,2020-01-01,-1.74,-2.85,RUS
-Russian Federation,2021-01-01,-3.65,-2.9,RUS
-Russian Federation,2022-01-01,-2.87,-2.97,RUS
+Russia,1901-01-01,-5.17,-5.61,RUS
+Russia,1902-01-01,-6.54,-5.54,RUS
+Russia,1903-01-01,-5.15,-5.49,RUS
+Russia,1904-01-01,-5.25,-5.44,RUS
+Russia,1905-01-01,-5.33,-5.41,RUS
+Russia,1906-01-01,-4.87,-5.41,RUS
+Russia,1907-01-01,-5.82,-5.43,RUS
+Russia,1908-01-01,-5.87,-5.48,RUS
+Russia,1909-01-01,-5.52,-5.54,RUS
+Russia,1910-01-01,-5.5,-5.61,RUS
+Russia,1911-01-01,-5.52,-5.68,RUS
+Russia,1912-01-01,-6.42,-5.73,RUS
+Russia,1913-01-01,-5.38,-5.76,RUS
+Russia,1914-01-01,-5.14,-5.77,RUS
+Russia,1915-01-01,-6.03,-5.75,RUS
+Russia,1916-01-01,-5.85,-5.7,RUS
+Russia,1917-01-01,-5.34,-5.6,RUS
+Russia,1918-01-01,-5.47,-5.48,RUS
+Russia,1919-01-01,-5.9,-5.33,RUS
+Russia,1920-01-01,-5.03,-5.19,RUS
+Russia,1921-01-01,-4.78,-5.08,RUS
+Russia,1922-01-01,-5.42,-5.01,RUS
+Russia,1923-01-01,-5.09,-5.01,RUS
+Russia,1924-01-01,-5.03,-5.06,RUS
+Russia,1925-01-01,-4.69,-5.14,RUS
+Russia,1926-01-01,-4.99,-5.22,RUS
+Russia,1927-01-01,-5.25,-5.28,RUS
+Russia,1928-01-01,-5.46,-5.31,RUS
+Russia,1929-01-01,-5.87,-5.3,RUS
+Russia,1930-01-01,-5.11,-5.25,RUS
+Russia,1931-01-01,-5.39,-5.19,RUS
+Russia,1932-01-01,-4.41,-5.11,RUS
+Russia,1933-01-01,-5.85,-5.02,RUS
+Russia,1934-01-01,-4.39,-4.95,RUS
+Russia,1935-01-01,-4.96,-4.88,RUS
+Russia,1936-01-01,-4.8,-4.83,RUS
+Russia,1937-01-01,-4.96,-4.82,RUS
+Russia,1938-01-01,-4.36,-4.84,RUS
+Russia,1939-01-01,-4.47,-4.9,RUS
+Russia,1940-01-01,-5.44,-4.98,RUS
+Russia,1941-01-01,-6.22,-5.06,RUS
+Russia,1942-01-01,-5.43,-5.12,RUS
+Russia,1943-01-01,-3.98,-5.14,RUS
+Russia,1944-01-01,-4.4,-5.1,RUS
+Russia,1945-01-01,-5.25,-5.02,RUS
+Russia,1946-01-01,-5.61,-4.93,RUS
+Russia,1947-01-01,-5.18,-4.86,RUS
+Russia,1948-01-01,-4.19,-4.83,RUS
+Russia,1949-01-01,-4.7,-4.87,RUS
+Russia,1950-01-01,-5.38,-4.97,RUS
+Russia,1951-01-01,-4.85,-5.1,RUS
+Russia,1952-01-01,-6.0,-5.24,RUS
+Russia,1953-01-01,-4.61,-5.36,RUS
+Russia,1954-01-01,-5.16,-5.42,RUS
+Russia,1955-01-01,-5.44,-5.42,RUS
+Russia,1956-01-01,-5.75,-5.37,RUS
+Russia,1957-01-01,-5.14,-5.3,RUS
+Russia,1958-01-01,-5.87,-5.23,RUS
+Russia,1959-01-01,-4.69,-5.16,RUS
+Russia,1960-01-01,-5.79,-5.13,RUS
+Russia,1961-01-01,-4.83,-5.12,RUS
+Russia,1962-01-01,-4.24,-5.13,RUS
+Russia,1963-01-01,-4.79,-5.16,RUS
+Russia,1964-01-01,-5.65,-5.2,RUS
+Russia,1965-01-01,-5.72,-5.26,RUS
+Russia,1966-01-01,-6.09,-5.33,RUS
+Russia,1967-01-01,-4.17,-5.39,RUS
+Russia,1968-01-01,-5.48,-5.43,RUS
+Russia,1969-01-01,-6.5,-5.45,RUS
+Russia,1970-01-01,-5.32,-5.43,RUS
+Russia,1971-01-01,-4.78,-5.38,RUS
+Russia,1972-01-01,-5.53,-5.3,RUS
+Russia,1973-01-01,-4.66,-5.22,RUS
+Russia,1974-01-01,-5.44,-5.13,RUS
+Russia,1975-01-01,-3.93,-5.05,RUS
+Russia,1976-01-01,-5.81,-4.99,RUS
+Russia,1977-01-01,-5.37,-4.94,RUS
+Russia,1978-01-01,-5.0,-4.91,RUS
+Russia,1979-01-01,-5.56,-4.9,RUS
+Russia,1980-01-01,-5.23,-4.9,RUS
+Russia,1981-01-01,-3.92,-4.91,RUS
+Russia,1982-01-01,-4.88,-4.92,RUS
+Russia,1983-01-01,-3.79,-4.93,RUS
+Russia,1984-01-01,-5.13,-4.91,RUS
+Russia,1985-01-01,-5.35,-4.86,RUS
+Russia,1986-01-01,-4.66,-4.76,RUS
+Russia,1987-01-01,-6.03,-4.64,RUS
+Russia,1988-01-01,-4.16,-4.5,RUS
+Russia,1989-01-01,-3.79,-4.37,RUS
+Russia,1990-01-01,-3.76,-4.26,RUS
+Russia,1991-01-01,-4.08,-4.19,RUS
+Russia,1992-01-01,-4.73,-4.17,RUS
+Russia,1993-01-01,-4.41,-4.18,RUS
+Russia,1994-01-01,-4.7,-4.22,RUS
+Russia,1995-01-01,-3.03,-4.27,RUS
+Russia,1996-01-01,-4.61,-4.32,RUS
+Russia,1997-01-01,-4.09,-4.36,RUS
+Russia,1998-01-01,-4.95,-4.39,RUS
+Russia,1999-01-01,-4.57,-4.39,RUS
+Russia,2000-01-01,-4.38,-4.36,RUS
+Russia,2001-01-01,-4.29,-4.28,RUS
+Russia,2002-01-01,-3.84,-4.16,RUS
+Russia,2003-01-01,-3.64,-4.0,RUS
+Russia,2004-01-01,-4.29,-3.85,RUS
+Russia,2005-01-01,-3.39,-3.72,RUS
+Russia,2006-01-01,-4.56,-3.65,RUS
+Russia,2007-01-01,-2.83,-3.65,RUS
+Russia,2008-01-01,-3.24,-3.7,RUS
+Russia,2009-01-01,-4.46,-3.77,RUS
+Russia,2010-01-01,-4.36,-3.83,RUS
+Russia,2011-01-01,-3.26,-3.85,RUS
+Russia,2012-01-01,-3.89,-3.78,RUS
+Russia,2013-01-01,-3.5,-3.64,RUS
+Russia,2014-01-01,-3.56,-3.44,RUS
+Russia,2015-01-01,-2.88,-3.24,RUS
+Russia,2016-01-01,-3.21,-3.05,RUS
+Russia,2017-01-01,-2.89,-2.91,RUS
+Russia,2018-01-01,-3.41,-2.83,RUS
+Russia,2019-01-01,-2.85,-2.82,RUS
+Russia,2020-01-01,-1.74,-2.85,RUS
+Russia,2021-01-01,-3.65,-2.9,RUS
+Russia,2022-01-01,-2.87,-2.97,RUS
 Tanzania,1901-01-01,22.19,22.43,TZA
 Tanzania,1902-01-01,22.5,22.29,TZA
 Tanzania,1903-01-01,22.3,22.16,TZA
@@ -4269,128 +4269,128 @@ Thailand,2019-01-01,27.49,27.17,THA
 Thailand,2020-01-01,27.42,27.1,THA
 Thailand,2021-01-01,26.9,27.01,THA
 Thailand,2022-01-01,26.78,26.91,THA
-Korea-,1901-01-01,10.53,10.85,KOR
-Korea-,1902-01-01,11.06,10.85,KOR
-Korea-,1903-01-01,11.0,10.84,KOR
-Korea-,1904-01-01,10.85,10.83,KOR
-Korea-,1905-01-01,11.08,10.81,KOR
-Korea-,1906-01-01,10.55,10.77,KOR
-Korea-,1907-01-01,10.75,10.73,KOR
-Korea-,1908-01-01,10.55,10.68,KOR
-Korea-,1909-01-01,10.63,10.63,KOR
-Korea-,1910-01-01,10.35,10.59,KOR
-Korea-,1911-01-01,10.74,10.57,KOR
-Korea-,1912-01-01,10.46,10.58,KOR
-Korea-,1913-01-01,10.1,10.62,KOR
-Korea-,1914-01-01,11.64,10.67,KOR
-Korea-,1915-01-01,10.94,10.73,KOR
-Korea-,1916-01-01,11.02,10.77,KOR
-Korea-,1917-01-01,9.9,10.79,KOR
-Korea-,1918-01-01,10.37,10.79,KOR
-Korea-,1919-01-01,10.94,10.76,KOR
-Korea-,1920-01-01,11.21,10.73,KOR
-Korea-,1921-01-01,10.66,10.71,KOR
-Korea-,1922-01-01,11.04,10.7,KOR
-Korea-,1923-01-01,10.67,10.72,KOR
-Korea-,1924-01-01,10.65,10.76,KOR
-Korea-,1925-01-01,10.6,10.81,KOR
-Korea-,1926-01-01,10.54,10.85,KOR
-Korea-,1927-01-01,10.87,10.88,KOR
-Korea-,1928-01-01,10.81,10.89,KOR
-Korea-,1929-01-01,11.07,10.87,KOR
-Korea-,1930-01-01,11.41,10.85,KOR
-Korea-,1931-01-01,10.76,10.83,KOR
-Korea-,1932-01-01,11.01,10.83,KOR
-Korea-,1933-01-01,10.79,10.86,KOR
-Korea-,1934-01-01,10.5,10.92,KOR
-Korea-,1935-01-01,11.34,10.99,KOR
-Korea-,1936-01-01,10.12,11.06,KOR
-Korea-,1937-01-01,11.52,11.13,KOR
-Korea-,1938-01-01,11.1,11.17,KOR
-Korea-,1939-01-01,11.59,11.17,KOR
-Korea-,1940-01-01,11.0,11.15,KOR
-Korea-,1941-01-01,11.19,11.13,KOR
-Korea-,1942-01-01,11.28,11.11,KOR
-Korea-,1943-01-01,11.41,11.11,KOR
-Korea-,1944-01-01,11.16,11.13,KOR
-Korea-,1945-01-01,10.68,11.18,KOR
-Korea-,1946-01-01,11.54,11.24,KOR
-Korea-,1947-01-01,10.1,11.29,KOR
-Korea-,1948-01-01,11.78,11.33,KOR
-Korea-,1949-01-01,11.37,11.35,KOR
-Korea-,1950-01-01,11.7,11.34,KOR
-Korea-,1951-01-01,11.66,11.31,KOR
-Korea-,1952-01-01,11.18,11.28,KOR
-Korea-,1953-01-01,11.42,11.27,KOR
-Korea-,1954-01-01,11.46,11.27,KOR
-Korea-,1955-01-01,11.59,11.29,KOR
-Korea-,1956-01-01,10.32,11.34,KOR
-Korea-,1957-01-01,10.68,11.4,KOR
-Korea-,1958-01-01,11.55,11.46,KOR
-Korea-,1959-01-01,12.09,11.52,KOR
-Korea-,1960-01-01,11.91,11.57,KOR
-Korea-,1961-01-01,12.18,11.6,KOR
-Korea-,1962-01-01,11.42,11.62,KOR
-Korea-,1963-01-01,10.86,11.6,KOR
-Korea-,1964-01-01,11.88,11.54,KOR
-Korea-,1965-01-01,11.13,11.45,KOR
-Korea-,1966-01-01,11.42,11.33,KOR
-Korea-,1967-01-01,11.41,11.2,KOR
-Korea-,1968-01-01,11.27,11.1,KOR
-Korea-,1969-01-01,10.74,11.03,KOR
-Korea-,1970-01-01,10.92,11.04,KOR
-Korea-,1971-01-01,11.15,11.1,KOR
-Korea-,1972-01-01,11.35,11.19,KOR
-Korea-,1973-01-01,11.71,11.31,KOR
-Korea-,1974-01-01,10.77,11.42,KOR
-Korea-,1975-01-01,11.84,11.5,KOR
-Korea-,1976-01-01,10.95,11.54,KOR
-Korea-,1977-01-01,11.64,11.54,KOR
-Korea-,1978-01-01,12.15,11.52,KOR
-Korea-,1979-01-01,12.01,11.48,KOR
-Korea-,1980-01-01,10.59,11.43,KOR
-Korea-,1981-01-01,10.82,11.37,KOR
-Korea-,1982-01-01,11.81,11.32,KOR
-Korea-,1983-01-01,11.65,11.28,KOR
-Korea-,1984-01-01,11.07,11.28,KOR
-Korea-,1985-01-01,11.44,11.31,KOR
-Korea-,1986-01-01,10.88,11.39,KOR
-Korea-,1987-01-01,11.66,11.51,KOR
-Korea-,1988-01-01,11.48,11.65,KOR
-Korea-,1989-01-01,12.15,11.79,KOR
-Korea-,1990-01-01,12.51,11.91,KOR
-Korea-,1991-01-01,11.71,11.99,KOR
-Korea-,1992-01-01,11.94,12.04,KOR
-Korea-,1993-01-01,11.27,12.06,KOR
-Korea-,1994-01-01,12.77,12.07,KOR
-Korea-,1995-01-01,11.77,12.07,KOR
-Korea-,1996-01-01,11.58,12.09,KOR
-Korea-,1997-01-01,12.3,12.12,KOR
-Korea-,1998-01-01,12.96,12.16,KOR
-Korea-,1999-01-01,12.3,12.2,KOR
-Korea-,2000-01-01,12.07,12.24,KOR
-Korea-,2001-01-01,12.35,12.28,KOR
-Korea-,2002-01-01,12.19,12.29,KOR
-Korea-,2003-01-01,11.91,12.29,KOR
-Korea-,2004-01-01,12.57,12.28,KOR
-Korea-,2005-01-01,11.65,12.25,KOR
-Korea-,2006-01-01,12.13,12.2,KOR
-Korea-,2007-01-01,12.61,12.13,KOR
-Korea-,2008-01-01,12.27,12.06,KOR
-Korea-,2009-01-01,12.25,12.0,KOR
-Korea-,2010-01-01,11.98,11.96,KOR
-Korea-,2011-01-01,11.63,11.97,KOR
-Korea-,2012-01-01,11.63,12.03,KOR
-Korea-,2013-01-01,12.25,12.15,KOR
-Korea-,2014-01-01,12.38,12.3,KOR
-Korea-,2015-01-01,12.66,12.46,KOR
-Korea-,2016-01-01,12.89,12.61,KOR
-Korea-,2017-01-01,12.56,12.73,KOR
-Korea-,2018-01-01,12.46,12.8,KOR
-Korea-,2019-01-01,13.03,12.84,KOR
-Korea-,2020-01-01,12.63,12.86,KOR
-Korea-,2021-01-01,13.14,12.85,KOR
-Korea-,2022-01-01,12.76,12.84,KOR
+North Korea,1901-01-01,10.53,10.85,KOR
+North Korea,1902-01-01,11.06,10.85,KOR
+North Korea,1903-01-01,11.0,10.84,KOR
+North Korea,1904-01-01,10.85,10.83,KOR
+North Korea,1905-01-01,11.08,10.81,KOR
+North Korea,1906-01-01,10.55,10.77,KOR
+North Korea,1907-01-01,10.75,10.73,KOR
+North Korea,1908-01-01,10.55,10.68,KOR
+North Korea,1909-01-01,10.63,10.63,KOR
+North Korea,1910-01-01,10.35,10.59,KOR
+North Korea,1911-01-01,10.74,10.57,KOR
+North Korea,1912-01-01,10.46,10.58,KOR
+North Korea,1913-01-01,10.1,10.62,KOR
+North Korea,1914-01-01,11.64,10.67,KOR
+North Korea,1915-01-01,10.94,10.73,KOR
+North Korea,1916-01-01,11.02,10.77,KOR
+North Korea,1917-01-01,9.9,10.79,KOR
+North Korea,1918-01-01,10.37,10.79,KOR
+North Korea,1919-01-01,10.94,10.76,KOR
+North Korea,1920-01-01,11.21,10.73,KOR
+North Korea,1921-01-01,10.66,10.71,KOR
+North Korea,1922-01-01,11.04,10.7,KOR
+North Korea,1923-01-01,10.67,10.72,KOR
+North Korea,1924-01-01,10.65,10.76,KOR
+North Korea,1925-01-01,10.6,10.81,KOR
+North Korea,1926-01-01,10.54,10.85,KOR
+North Korea,1927-01-01,10.87,10.88,KOR
+North Korea,1928-01-01,10.81,10.89,KOR
+North Korea,1929-01-01,11.07,10.87,KOR
+North Korea,1930-01-01,11.41,10.85,KOR
+North Korea,1931-01-01,10.76,10.83,KOR
+North Korea,1932-01-01,11.01,10.83,KOR
+North Korea,1933-01-01,10.79,10.86,KOR
+North Korea,1934-01-01,10.5,10.92,KOR
+North Korea,1935-01-01,11.34,10.99,KOR
+North Korea,1936-01-01,10.12,11.06,KOR
+North Korea,1937-01-01,11.52,11.13,KOR
+North Korea,1938-01-01,11.1,11.17,KOR
+North Korea,1939-01-01,11.59,11.17,KOR
+North Korea,1940-01-01,11.0,11.15,KOR
+North Korea,1941-01-01,11.19,11.13,KOR
+North Korea,1942-01-01,11.28,11.11,KOR
+North Korea,1943-01-01,11.41,11.11,KOR
+North Korea,1944-01-01,11.16,11.13,KOR
+North Korea,1945-01-01,10.68,11.18,KOR
+North Korea,1946-01-01,11.54,11.24,KOR
+North Korea,1947-01-01,10.1,11.29,KOR
+North Korea,1948-01-01,11.78,11.33,KOR
+North Korea,1949-01-01,11.37,11.35,KOR
+North Korea,1950-01-01,11.7,11.34,KOR
+North Korea,1951-01-01,11.66,11.31,KOR
+North Korea,1952-01-01,11.18,11.28,KOR
+North Korea,1953-01-01,11.42,11.27,KOR
+North Korea,1954-01-01,11.46,11.27,KOR
+North Korea,1955-01-01,11.59,11.29,KOR
+North Korea,1956-01-01,10.32,11.34,KOR
+North Korea,1957-01-01,10.68,11.4,KOR
+North Korea,1958-01-01,11.55,11.46,KOR
+North Korea,1959-01-01,12.09,11.52,KOR
+North Korea,1960-01-01,11.91,11.57,KOR
+North Korea,1961-01-01,12.18,11.6,KOR
+North Korea,1962-01-01,11.42,11.62,KOR
+North Korea,1963-01-01,10.86,11.6,KOR
+North Korea,1964-01-01,11.88,11.54,KOR
+North Korea,1965-01-01,11.13,11.45,KOR
+North Korea,1966-01-01,11.42,11.33,KOR
+North Korea,1967-01-01,11.41,11.2,KOR
+North Korea,1968-01-01,11.27,11.1,KOR
+North Korea,1969-01-01,10.74,11.03,KOR
+North Korea,1970-01-01,10.92,11.04,KOR
+North Korea,1971-01-01,11.15,11.1,KOR
+North Korea,1972-01-01,11.35,11.19,KOR
+North Korea,1973-01-01,11.71,11.31,KOR
+North Korea,1974-01-01,10.77,11.42,KOR
+North Korea,1975-01-01,11.84,11.5,KOR
+North Korea,1976-01-01,10.95,11.54,KOR
+North Korea,1977-01-01,11.64,11.54,KOR
+North Korea,1978-01-01,12.15,11.52,KOR
+North Korea,1979-01-01,12.01,11.48,KOR
+North Korea,1980-01-01,10.59,11.43,KOR
+North Korea,1981-01-01,10.82,11.37,KOR
+North Korea,1982-01-01,11.81,11.32,KOR
+North Korea,1983-01-01,11.65,11.28,KOR
+North Korea,1984-01-01,11.07,11.28,KOR
+North Korea,1985-01-01,11.44,11.31,KOR
+North Korea,1986-01-01,10.88,11.39,KOR
+North Korea,1987-01-01,11.66,11.51,KOR
+North Korea,1988-01-01,11.48,11.65,KOR
+North Korea,1989-01-01,12.15,11.79,KOR
+North Korea,1990-01-01,12.51,11.91,KOR
+North Korea,1991-01-01,11.71,11.99,KOR
+North Korea,1992-01-01,11.94,12.04,KOR
+North Korea,1993-01-01,11.27,12.06,KOR
+North Korea,1994-01-01,12.77,12.07,KOR
+North Korea,1995-01-01,11.77,12.07,KOR
+North Korea,1996-01-01,11.58,12.09,KOR
+North Korea,1997-01-01,12.3,12.12,KOR
+North Korea,1998-01-01,12.96,12.16,KOR
+North Korea,1999-01-01,12.3,12.2,KOR
+North Korea,2000-01-01,12.07,12.24,KOR
+North Korea,2001-01-01,12.35,12.28,KOR
+North Korea,2002-01-01,12.19,12.29,KOR
+North Korea,2003-01-01,11.91,12.29,KOR
+North Korea,2004-01-01,12.57,12.28,KOR
+North Korea,2005-01-01,11.65,12.25,KOR
+North Korea,2006-01-01,12.13,12.2,KOR
+North Korea,2007-01-01,12.61,12.13,KOR
+North Korea,2008-01-01,12.27,12.06,KOR
+North Korea,2009-01-01,12.25,12.0,KOR
+North Korea,2010-01-01,11.98,11.96,KOR
+North Korea,2011-01-01,11.63,11.97,KOR
+North Korea,2012-01-01,11.63,12.03,KOR
+North Korea,2013-01-01,12.25,12.15,KOR
+North Korea,2014-01-01,12.38,12.3,KOR
+North Korea,2015-01-01,12.66,12.46,KOR
+North Korea,2016-01-01,12.89,12.61,KOR
+North Korea,2017-01-01,12.56,12.73,KOR
+North Korea,2018-01-01,12.46,12.8,KOR
+North Korea,2019-01-01,13.03,12.84,KOR
+North Korea,2020-01-01,12.63,12.86,KOR
+North Korea,2021-01-01,13.14,12.85,KOR
+North Korea,2022-01-01,12.76,12.84,KOR
 Guatemala,1901-01-01,22.98,23.06,GTM
 Guatemala,1902-01-01,23.08,23.03,GTM
 Guatemala,1903-01-01,23.08,23.0,GTM
@@ -6953,128 +6953,128 @@ Romania,2019-01-01,11.7,11.06,ROU
 Romania,2020-01-01,11.3,11.06,ROU
 Romania,2021-01-01,10.35,11.05,ROU
 Romania,2022-01-01,11.2,11.03,ROU
-"Yemen, Rep.",1901-01-01,25.12,25.11,YEM
-"Yemen, Rep.",1902-01-01,25.11,25.1,YEM
-"Yemen, Rep.",1903-01-01,25.1,25.1,YEM
-"Yemen, Rep.",1904-01-01,25.06,25.09,YEM
-"Yemen, Rep.",1905-01-01,25.1,25.09,YEM
-"Yemen, Rep.",1906-01-01,25.09,25.08,YEM
-"Yemen, Rep.",1907-01-01,25.05,25.08,YEM
-"Yemen, Rep.",1908-01-01,25.12,25.08,YEM
-"Yemen, Rep.",1909-01-01,25.05,25.07,YEM
-"Yemen, Rep.",1910-01-01,25.1,25.07,YEM
-"Yemen, Rep.",1911-01-01,25.09,25.07,YEM
-"Yemen, Rep.",1912-01-01,25.05,25.08,YEM
-"Yemen, Rep.",1913-01-01,25.05,25.08,YEM
-"Yemen, Rep.",1914-01-01,25.08,25.09,YEM
-"Yemen, Rep.",1915-01-01,25.12,25.1,YEM
-"Yemen, Rep.",1916-01-01,25.1,25.1,YEM
-"Yemen, Rep.",1917-01-01,25.12,25.11,YEM
-"Yemen, Rep.",1918-01-01,25.12,25.11,YEM
-"Yemen, Rep.",1919-01-01,25.12,25.11,YEM
-"Yemen, Rep.",1920-01-01,25.1,25.11,YEM
-"Yemen, Rep.",1921-01-01,25.12,25.11,YEM
-"Yemen, Rep.",1922-01-01,25.12,25.11,YEM
-"Yemen, Rep.",1923-01-01,25.12,25.11,YEM
-"Yemen, Rep.",1924-01-01,25.1,25.11,YEM
-"Yemen, Rep.",1925-01-01,25.12,25.11,YEM
-"Yemen, Rep.",1926-01-01,25.12,25.11,YEM
-"Yemen, Rep.",1927-01-01,25.12,25.11,YEM
-"Yemen, Rep.",1928-01-01,25.08,25.1,YEM
-"Yemen, Rep.",1929-01-01,25.1,25.09,YEM
-"Yemen, Rep.",1930-01-01,25.09,25.08,YEM
-"Yemen, Rep.",1931-01-01,25.09,25.08,YEM
-"Yemen, Rep.",1932-01-01,25.06,25.07,YEM
-"Yemen, Rep.",1933-01-01,25.06,25.07,YEM
-"Yemen, Rep.",1934-01-01,25.08,25.08,YEM
-"Yemen, Rep.",1935-01-01,25.11,25.08,YEM
-"Yemen, Rep.",1936-01-01,25.06,25.09,YEM
-"Yemen, Rep.",1937-01-01,25.08,25.09,YEM
-"Yemen, Rep.",1938-01-01,25.09,25.08,YEM
-"Yemen, Rep.",1939-01-01,25.09,25.07,YEM
-"Yemen, Rep.",1940-01-01,25.09,25.05,YEM
-"Yemen, Rep.",1941-01-01,25.08,25.03,YEM
-"Yemen, Rep.",1942-01-01,24.91,25.0,YEM
-"Yemen, Rep.",1943-01-01,24.8,24.97,YEM
-"Yemen, Rep.",1944-01-01,25.01,24.93,YEM
-"Yemen, Rep.",1945-01-01,24.87,24.9,YEM
-"Yemen, Rep.",1946-01-01,25.03,24.87,YEM
-"Yemen, Rep.",1947-01-01,24.9,24.85,YEM
-"Yemen, Rep.",1948-01-01,24.97,24.85,YEM
-"Yemen, Rep.",1949-01-01,24.71,24.86,YEM
-"Yemen, Rep.",1950-01-01,24.68,24.9,YEM
-"Yemen, Rep.",1951-01-01,25.04,24.94,YEM
-"Yemen, Rep.",1952-01-01,24.82,24.98,YEM
-"Yemen, Rep.",1953-01-01,25.17,25.01,YEM
-"Yemen, Rep.",1954-01-01,25.23,25.03,YEM
-"Yemen, Rep.",1955-01-01,25.05,25.02,YEM
-"Yemen, Rep.",1956-01-01,24.86,25.01,YEM
-"Yemen, Rep.",1957-01-01,24.76,24.98,YEM
-"Yemen, Rep.",1958-01-01,25.15,24.95,YEM
-"Yemen, Rep.",1959-01-01,24.79,24.93,YEM
-"Yemen, Rep.",1960-01-01,25.04,24.92,YEM
-"Yemen, Rep.",1961-01-01,24.97,24.92,YEM
-"Yemen, Rep.",1962-01-01,24.92,24.93,YEM
-"Yemen, Rep.",1963-01-01,25.07,24.94,YEM
-"Yemen, Rep.",1964-01-01,24.68,24.95,YEM
-"Yemen, Rep.",1965-01-01,25.02,24.97,YEM
-"Yemen, Rep.",1966-01-01,25.17,24.99,YEM
-"Yemen, Rep.",1967-01-01,24.84,25.01,YEM
-"Yemen, Rep.",1968-01-01,24.8,25.02,YEM
-"Yemen, Rep.",1969-01-01,25.36,25.03,YEM
-"Yemen, Rep.",1970-01-01,25.23,25.03,YEM
-"Yemen, Rep.",1971-01-01,24.7,25.03,YEM
-"Yemen, Rep.",1972-01-01,24.98,25.03,YEM
-"Yemen, Rep.",1973-01-01,25.2,25.03,YEM
-"Yemen, Rep.",1974-01-01,24.93,25.04,YEM
-"Yemen, Rep.",1975-01-01,25.0,25.07,YEM
-"Yemen, Rep.",1976-01-01,25.14,25.1,YEM
-"Yemen, Rep.",1977-01-01,25.26,25.14,YEM
-"Yemen, Rep.",1978-01-01,25.14,25.18,YEM
-"Yemen, Rep.",1979-01-01,25.2,25.21,YEM
-"Yemen, Rep.",1980-01-01,25.38,25.23,YEM
-"Yemen, Rep.",1981-01-01,25.19,25.22,YEM
-"Yemen, Rep.",1982-01-01,25.2,25.2,YEM
-"Yemen, Rep.",1983-01-01,25.12,25.18,YEM
-"Yemen, Rep.",1984-01-01,24.86,25.16,YEM
-"Yemen, Rep.",1985-01-01,25.16,25.14,YEM
-"Yemen, Rep.",1986-01-01,25.15,25.15,YEM
-"Yemen, Rep.",1987-01-01,25.46,25.17,YEM
-"Yemen, Rep.",1988-01-01,25.38,25.2,YEM
-"Yemen, Rep.",1989-01-01,24.98,25.23,YEM
-"Yemen, Rep.",1990-01-01,25.51,25.27,YEM
-"Yemen, Rep.",1991-01-01,25.26,25.29,YEM
-"Yemen, Rep.",1992-01-01,25.07,25.31,YEM
-"Yemen, Rep.",1993-01-01,25.28,25.32,YEM
-"Yemen, Rep.",1994-01-01,25.32,25.34,YEM
-"Yemen, Rep.",1995-01-01,25.39,25.36,YEM
-"Yemen, Rep.",1996-01-01,25.32,25.39,YEM
-"Yemen, Rep.",1997-01-01,25.39,25.43,YEM
-"Yemen, Rep.",1998-01-01,25.91,25.47,YEM
-"Yemen, Rep.",1999-01-01,25.45,25.52,YEM
-"Yemen, Rep.",2000-01-01,25.39,25.56,YEM
-"Yemen, Rep.",2001-01-01,25.5,25.59,YEM
-"Yemen, Rep.",2002-01-01,25.61,25.6,YEM
-"Yemen, Rep.",2003-01-01,25.73,25.6,YEM
-"Yemen, Rep.",2004-01-01,25.52,25.59,YEM
-"Yemen, Rep.",2005-01-01,25.51,25.57,YEM
-"Yemen, Rep.",2006-01-01,25.58,25.56,YEM
-"Yemen, Rep.",2007-01-01,25.66,25.55,YEM
-"Yemen, Rep.",2008-01-01,25.24,25.55,YEM
-"Yemen, Rep.",2009-01-01,25.77,25.56,YEM
-"Yemen, Rep.",2010-01-01,25.79,25.57,YEM
-"Yemen, Rep.",2011-01-01,25.56,25.59,YEM
-"Yemen, Rep.",2012-01-01,25.52,25.62,YEM
-"Yemen, Rep.",2013-01-01,25.49,25.65,YEM
-"Yemen, Rep.",2014-01-01,25.6,25.68,YEM
-"Yemen, Rep.",2015-01-01,25.95,25.7,YEM
-"Yemen, Rep.",2016-01-01,25.65,25.72,YEM
-"Yemen, Rep.",2017-01-01,25.75,25.73,YEM
-"Yemen, Rep.",2018-01-01,25.5,25.71,YEM
-"Yemen, Rep.",2019-01-01,25.94,25.69,YEM
-"Yemen, Rep.",2020-01-01,25.62,25.65,YEM
-"Yemen, Rep.",2021-01-01,25.64,25.61,YEM
-"Yemen, Rep.",2022-01-01,25.51,25.57,YEM
+Yemen,1901-01-01,25.12,25.11,YEM
+Yemen,1902-01-01,25.11,25.1,YEM
+Yemen,1903-01-01,25.1,25.1,YEM
+Yemen,1904-01-01,25.06,25.09,YEM
+Yemen,1905-01-01,25.1,25.09,YEM
+Yemen,1906-01-01,25.09,25.08,YEM
+Yemen,1907-01-01,25.05,25.08,YEM
+Yemen,1908-01-01,25.12,25.08,YEM
+Yemen,1909-01-01,25.05,25.07,YEM
+Yemen,1910-01-01,25.1,25.07,YEM
+Yemen,1911-01-01,25.09,25.07,YEM
+Yemen,1912-01-01,25.05,25.08,YEM
+Yemen,1913-01-01,25.05,25.08,YEM
+Yemen,1914-01-01,25.08,25.09,YEM
+Yemen,1915-01-01,25.12,25.1,YEM
+Yemen,1916-01-01,25.1,25.1,YEM
+Yemen,1917-01-01,25.12,25.11,YEM
+Yemen,1918-01-01,25.12,25.11,YEM
+Yemen,1919-01-01,25.12,25.11,YEM
+Yemen,1920-01-01,25.1,25.11,YEM
+Yemen,1921-01-01,25.12,25.11,YEM
+Yemen,1922-01-01,25.12,25.11,YEM
+Yemen,1923-01-01,25.12,25.11,YEM
+Yemen,1924-01-01,25.1,25.11,YEM
+Yemen,1925-01-01,25.12,25.11,YEM
+Yemen,1926-01-01,25.12,25.11,YEM
+Yemen,1927-01-01,25.12,25.11,YEM
+Yemen,1928-01-01,25.08,25.1,YEM
+Yemen,1929-01-01,25.1,25.09,YEM
+Yemen,1930-01-01,25.09,25.08,YEM
+Yemen,1931-01-01,25.09,25.08,YEM
+Yemen,1932-01-01,25.06,25.07,YEM
+Yemen,1933-01-01,25.06,25.07,YEM
+Yemen,1934-01-01,25.08,25.08,YEM
+Yemen,1935-01-01,25.11,25.08,YEM
+Yemen,1936-01-01,25.06,25.09,YEM
+Yemen,1937-01-01,25.08,25.09,YEM
+Yemen,1938-01-01,25.09,25.08,YEM
+Yemen,1939-01-01,25.09,25.07,YEM
+Yemen,1940-01-01,25.09,25.05,YEM
+Yemen,1941-01-01,25.08,25.03,YEM
+Yemen,1942-01-01,24.91,25.0,YEM
+Yemen,1943-01-01,24.8,24.97,YEM
+Yemen,1944-01-01,25.01,24.93,YEM
+Yemen,1945-01-01,24.87,24.9,YEM
+Yemen,1946-01-01,25.03,24.87,YEM
+Yemen,1947-01-01,24.9,24.85,YEM
+Yemen,1948-01-01,24.97,24.85,YEM
+Yemen,1949-01-01,24.71,24.86,YEM
+Yemen,1950-01-01,24.68,24.9,YEM
+Yemen,1951-01-01,25.04,24.94,YEM
+Yemen,1952-01-01,24.82,24.98,YEM
+Yemen,1953-01-01,25.17,25.01,YEM
+Yemen,1954-01-01,25.23,25.03,YEM
+Yemen,1955-01-01,25.05,25.02,YEM
+Yemen,1956-01-01,24.86,25.01,YEM
+Yemen,1957-01-01,24.76,24.98,YEM
+Yemen,1958-01-01,25.15,24.95,YEM
+Yemen,1959-01-01,24.79,24.93,YEM
+Yemen,1960-01-01,25.04,24.92,YEM
+Yemen,1961-01-01,24.97,24.92,YEM
+Yemen,1962-01-01,24.92,24.93,YEM
+Yemen,1963-01-01,25.07,24.94,YEM
+Yemen,1964-01-01,24.68,24.95,YEM
+Yemen,1965-01-01,25.02,24.97,YEM
+Yemen,1966-01-01,25.17,24.99,YEM
+Yemen,1967-01-01,24.84,25.01,YEM
+Yemen,1968-01-01,24.8,25.02,YEM
+Yemen,1969-01-01,25.36,25.03,YEM
+Yemen,1970-01-01,25.23,25.03,YEM
+Yemen,1971-01-01,24.7,25.03,YEM
+Yemen,1972-01-01,24.98,25.03,YEM
+Yemen,1973-01-01,25.2,25.03,YEM
+Yemen,1974-01-01,24.93,25.04,YEM
+Yemen,1975-01-01,25.0,25.07,YEM
+Yemen,1976-01-01,25.14,25.1,YEM
+Yemen,1977-01-01,25.26,25.14,YEM
+Yemen,1978-01-01,25.14,25.18,YEM
+Yemen,1979-01-01,25.2,25.21,YEM
+Yemen,1980-01-01,25.38,25.23,YEM
+Yemen,1981-01-01,25.19,25.22,YEM
+Yemen,1982-01-01,25.2,25.2,YEM
+Yemen,1983-01-01,25.12,25.18,YEM
+Yemen,1984-01-01,24.86,25.16,YEM
+Yemen,1985-01-01,25.16,25.14,YEM
+Yemen,1986-01-01,25.15,25.15,YEM
+Yemen,1987-01-01,25.46,25.17,YEM
+Yemen,1988-01-01,25.38,25.2,YEM
+Yemen,1989-01-01,24.98,25.23,YEM
+Yemen,1990-01-01,25.51,25.27,YEM
+Yemen,1991-01-01,25.26,25.29,YEM
+Yemen,1992-01-01,25.07,25.31,YEM
+Yemen,1993-01-01,25.28,25.32,YEM
+Yemen,1994-01-01,25.32,25.34,YEM
+Yemen,1995-01-01,25.39,25.36,YEM
+Yemen,1996-01-01,25.32,25.39,YEM
+Yemen,1997-01-01,25.39,25.43,YEM
+Yemen,1998-01-01,25.91,25.47,YEM
+Yemen,1999-01-01,25.45,25.52,YEM
+Yemen,2000-01-01,25.39,25.56,YEM
+Yemen,2001-01-01,25.5,25.59,YEM
+Yemen,2002-01-01,25.61,25.6,YEM
+Yemen,2003-01-01,25.73,25.6,YEM
+Yemen,2004-01-01,25.52,25.59,YEM
+Yemen,2005-01-01,25.51,25.57,YEM
+Yemen,2006-01-01,25.58,25.56,YEM
+Yemen,2007-01-01,25.66,25.55,YEM
+Yemen,2008-01-01,25.24,25.55,YEM
+Yemen,2009-01-01,25.77,25.56,YEM
+Yemen,2010-01-01,25.79,25.57,YEM
+Yemen,2011-01-01,25.56,25.59,YEM
+Yemen,2012-01-01,25.52,25.62,YEM
+Yemen,2013-01-01,25.49,25.65,YEM
+Yemen,2014-01-01,25.6,25.68,YEM
+Yemen,2015-01-01,25.95,25.7,YEM
+Yemen,2016-01-01,25.65,25.72,YEM
+Yemen,2017-01-01,25.75,25.73,YEM
+Yemen,2018-01-01,25.5,25.71,YEM
+Yemen,2019-01-01,25.94,25.69,YEM
+Yemen,2020-01-01,25.62,25.65,YEM
+Yemen,2021-01-01,25.64,25.61,YEM
+Yemen,2022-01-01,25.51,25.57,YEM
 Madagascar,1901-01-01,22.63,22.81,MDG
 Madagascar,1902-01-01,23.05,22.8,MDG
 Madagascar,1903-01-01,22.74,22.8,MDG
@@ -7685,128 +7685,128 @@ Kiribati,2019-01-01,27.87,27.85,KIR
 Kiribati,2020-01-01,27.92,27.85,KIR
 Kiribati,2021-01-01,27.89,27.84,KIR
 Kiribati,2022-01-01,27.77,27.83,KIR
-Timor Leste,1901-01-01,24.68,24.61,TLS
-Timor Leste,1902-01-01,24.69,24.7,TLS
-Timor Leste,1903-01-01,24.91,24.79,TLS
-Timor Leste,1904-01-01,24.44,24.86,TLS
-Timor Leste,1905-01-01,24.96,24.91,TLS
-Timor Leste,1906-01-01,25.27,24.93,TLS
-Timor Leste,1907-01-01,24.74,24.91,TLS
-Timor Leste,1908-01-01,24.83,24.87,TLS
-Timor Leste,1909-01-01,24.9,24.8,TLS
-Timor Leste,1910-01-01,24.83,24.74,TLS
-Timor Leste,1911-01-01,24.62,24.7,TLS
-Timor Leste,1912-01-01,24.82,24.68,TLS
-Timor Leste,1913-01-01,24.39,24.69,TLS
-Timor Leste,1914-01-01,24.59,24.73,TLS
-Timor Leste,1915-01-01,25.03,24.76,TLS
-Timor Leste,1916-01-01,25.05,24.8,TLS
-Timor Leste,1917-01-01,24.68,24.81,TLS
-Timor Leste,1918-01-01,24.62,24.8,TLS
-Timor Leste,1919-01-01,24.5,24.77,TLS
-Timor Leste,1920-01-01,25.11,24.74,TLS
-Timor Leste,1921-01-01,24.89,24.71,TLS
-Timor Leste,1922-01-01,24.55,24.69,TLS
-Timor Leste,1923-01-01,24.45,24.68,TLS
-Timor Leste,1924-01-01,24.95,24.7,TLS
-Timor Leste,1925-01-01,24.36,24.72,TLS
-Timor Leste,1926-01-01,24.99,24.75,TLS
-Timor Leste,1927-01-01,24.96,24.77,TLS
-Timor Leste,1928-01-01,24.81,24.78,TLS
-Timor Leste,1929-01-01,24.51,24.78,TLS
-Timor Leste,1930-01-01,24.71,24.78,TLS
-Timor Leste,1931-01-01,24.91,24.77,TLS
-Timor Leste,1932-01-01,24.79,24.75,TLS
-Timor Leste,1933-01-01,24.68,24.74,TLS
-Timor Leste,1934-01-01,24.66,24.73,TLS
-Timor Leste,1935-01-01,24.61,24.71,TLS
-Timor Leste,1936-01-01,25.01,24.69,TLS
-Timor Leste,1937-01-01,24.64,24.65,TLS
-Timor Leste,1938-01-01,24.73,24.59,TLS
-Timor Leste,1939-01-01,24.34,24.52,TLS
-Timor Leste,1940-01-01,24.22,24.43,TLS
-Timor Leste,1941-01-01,24.02,24.34,TLS
-Timor Leste,1942-01-01,24.87,24.23,TLS
-Timor Leste,1943-01-01,24.04,24.13,TLS
-Timor Leste,1944-01-01,24.02,24.04,TLS
-Timor Leste,1945-01-01,23.9,23.96,TLS
-Timor Leste,1946-01-01,23.75,23.89,TLS
-Timor Leste,1947-01-01,24.1,23.85,TLS
-Timor Leste,1948-01-01,23.88,23.84,TLS
-Timor Leste,1949-01-01,23.61,23.87,TLS
-Timor Leste,1950-01-01,23.75,23.93,TLS
-Timor Leste,1951-01-01,24.22,24.01,TLS
-Timor Leste,1952-01-01,24.45,24.1,TLS
-Timor Leste,1953-01-01,24.1,24.19,TLS
-Timor Leste,1954-01-01,24.12,24.28,TLS
-Timor Leste,1955-01-01,24.43,24.35,TLS
-Timor Leste,1956-01-01,24.2,24.41,TLS
-Timor Leste,1957-01-01,24.32,24.45,TLS
-Timor Leste,1958-01-01,24.85,24.46,TLS
-Timor Leste,1959-01-01,24.45,24.45,TLS
-Timor Leste,1960-01-01,24.22,24.42,TLS
-Timor Leste,1961-01-01,24.27,24.37,TLS
-Timor Leste,1962-01-01,24.57,24.32,TLS
-Timor Leste,1963-01-01,24.17,24.28,TLS
-Timor Leste,1964-01-01,24.49,24.28,TLS
-Timor Leste,1965-01-01,24.27,24.31,TLS
-Timor Leste,1966-01-01,24.52,24.38,TLS
-Timor Leste,1967-01-01,24.09,24.45,TLS
-Timor Leste,1968-01-01,24.41,24.52,TLS
-Timor Leste,1969-01-01,24.56,24.56,TLS
-Timor Leste,1970-01-01,24.7,24.56,TLS
-Timor Leste,1971-01-01,24.36,24.51,TLS
-Timor Leste,1972-01-01,24.55,24.45,TLS
-Timor Leste,1973-01-01,24.91,24.39,TLS
-Timor Leste,1974-01-01,24.1,24.34,TLS
-Timor Leste,1975-01-01,24.5,24.32,TLS
-Timor Leste,1976-01-01,23.94,24.35,TLS
-Timor Leste,1977-01-01,24.02,24.4,TLS
-Timor Leste,1978-01-01,24.62,24.46,TLS
-Timor Leste,1979-01-01,24.79,24.52,TLS
-Timor Leste,1980-01-01,24.65,24.57,TLS
-Timor Leste,1981-01-01,24.8,24.59,TLS
-Timor Leste,1982-01-01,24.27,24.59,TLS
-Timor Leste,1983-01-01,24.62,24.58,TLS
-Timor Leste,1984-01-01,24.35,24.58,TLS
-Timor Leste,1985-01-01,24.57,24.59,TLS
-Timor Leste,1986-01-01,24.86,24.62,TLS
-Timor Leste,1987-01-01,24.67,24.67,TLS
-Timor Leste,1988-01-01,24.91,24.73,TLS
-Timor Leste,1989-01-01,24.59,24.76,TLS
-Timor Leste,1990-01-01,24.72,24.77,TLS
-Timor Leste,1991-01-01,24.58,24.74,TLS
-Timor Leste,1992-01-01,24.88,24.67,TLS
-Timor Leste,1993-01-01,24.76,24.59,TLS
-Timor Leste,1994-01-01,24.2,24.5,TLS
-Timor Leste,1995-01-01,24.45,24.43,TLS
-Timor Leste,1996-01-01,24.49,24.4,TLS
-Timor Leste,1997-01-01,24.3,24.41,TLS
-Timor Leste,1998-01-01,25.06,24.46,TLS
-Timor Leste,1999-01-01,24.12,24.51,TLS
-Timor Leste,2000-01-01,24.21,24.56,TLS
-Timor Leste,2001-01-01,24.47,24.59,TLS
-Timor Leste,2002-01-01,24.72,24.58,TLS
-Timor Leste,2003-01-01,24.86,24.55,TLS
-Timor Leste,2004-01-01,24.51,24.49,TLS
-Timor Leste,2005-01-01,24.79,24.44,TLS
-Timor Leste,2006-01-01,23.95,24.38,TLS
-Timor Leste,2007-01-01,24.2,24.34,TLS
-Timor Leste,2008-01-01,24.27,24.32,TLS
-Timor Leste,2009-01-01,24.46,24.32,TLS
-Timor Leste,2010-01-01,24.55,24.35,TLS
-Timor Leste,2011-01-01,24.1,24.39,TLS
-Timor Leste,2012-01-01,24.36,24.47,TLS
-Timor Leste,2013-01-01,24.8,24.56,TLS
-Timor Leste,2014-01-01,24.65,24.66,TLS
-Timor Leste,2015-01-01,24.65,24.75,TLS
-Timor Leste,2016-01-01,25.2,24.84,TLS
-Timor Leste,2017-01-01,24.78,24.89,TLS
-Timor Leste,2018-01-01,24.74,24.92,TLS
-Timor Leste,2019-01-01,24.78,24.92,TLS
-Timor Leste,2020-01-01,24.98,24.9,TLS
-Timor Leste,2021-01-01,24.9,24.86,TLS
-Timor Leste,2022-01-01,24.85,24.82,TLS
+Timor-Leste,1901-01-01,24.68,24.61,TLS
+Timor-Leste,1902-01-01,24.69,24.7,TLS
+Timor-Leste,1903-01-01,24.91,24.79,TLS
+Timor-Leste,1904-01-01,24.44,24.86,TLS
+Timor-Leste,1905-01-01,24.96,24.91,TLS
+Timor-Leste,1906-01-01,25.27,24.93,TLS
+Timor-Leste,1907-01-01,24.74,24.91,TLS
+Timor-Leste,1908-01-01,24.83,24.87,TLS
+Timor-Leste,1909-01-01,24.9,24.8,TLS
+Timor-Leste,1910-01-01,24.83,24.74,TLS
+Timor-Leste,1911-01-01,24.62,24.7,TLS
+Timor-Leste,1912-01-01,24.82,24.68,TLS
+Timor-Leste,1913-01-01,24.39,24.69,TLS
+Timor-Leste,1914-01-01,24.59,24.73,TLS
+Timor-Leste,1915-01-01,25.03,24.76,TLS
+Timor-Leste,1916-01-01,25.05,24.8,TLS
+Timor-Leste,1917-01-01,24.68,24.81,TLS
+Timor-Leste,1918-01-01,24.62,24.8,TLS
+Timor-Leste,1919-01-01,24.5,24.77,TLS
+Timor-Leste,1920-01-01,25.11,24.74,TLS
+Timor-Leste,1921-01-01,24.89,24.71,TLS
+Timor-Leste,1922-01-01,24.55,24.69,TLS
+Timor-Leste,1923-01-01,24.45,24.68,TLS
+Timor-Leste,1924-01-01,24.95,24.7,TLS
+Timor-Leste,1925-01-01,24.36,24.72,TLS
+Timor-Leste,1926-01-01,24.99,24.75,TLS
+Timor-Leste,1927-01-01,24.96,24.77,TLS
+Timor-Leste,1928-01-01,24.81,24.78,TLS
+Timor-Leste,1929-01-01,24.51,24.78,TLS
+Timor-Leste,1930-01-01,24.71,24.78,TLS
+Timor-Leste,1931-01-01,24.91,24.77,TLS
+Timor-Leste,1932-01-01,24.79,24.75,TLS
+Timor-Leste,1933-01-01,24.68,24.74,TLS
+Timor-Leste,1934-01-01,24.66,24.73,TLS
+Timor-Leste,1935-01-01,24.61,24.71,TLS
+Timor-Leste,1936-01-01,25.01,24.69,TLS
+Timor-Leste,1937-01-01,24.64,24.65,TLS
+Timor-Leste,1938-01-01,24.73,24.59,TLS
+Timor-Leste,1939-01-01,24.34,24.52,TLS
+Timor-Leste,1940-01-01,24.22,24.43,TLS
+Timor-Leste,1941-01-01,24.02,24.34,TLS
+Timor-Leste,1942-01-01,24.87,24.23,TLS
+Timor-Leste,1943-01-01,24.04,24.13,TLS
+Timor-Leste,1944-01-01,24.02,24.04,TLS
+Timor-Leste,1945-01-01,23.9,23.96,TLS
+Timor-Leste,1946-01-01,23.75,23.89,TLS
+Timor-Leste,1947-01-01,24.1,23.85,TLS
+Timor-Leste,1948-01-01,23.88,23.84,TLS
+Timor-Leste,1949-01-01,23.61,23.87,TLS
+Timor-Leste,1950-01-01,23.75,23.93,TLS
+Timor-Leste,1951-01-01,24.22,24.01,TLS
+Timor-Leste,1952-01-01,24.45,24.1,TLS
+Timor-Leste,1953-01-01,24.1,24.19,TLS
+Timor-Leste,1954-01-01,24.12,24.28,TLS
+Timor-Leste,1955-01-01,24.43,24.35,TLS
+Timor-Leste,1956-01-01,24.2,24.41,TLS
+Timor-Leste,1957-01-01,24.32,24.45,TLS
+Timor-Leste,1958-01-01,24.85,24.46,TLS
+Timor-Leste,1959-01-01,24.45,24.45,TLS
+Timor-Leste,1960-01-01,24.22,24.42,TLS
+Timor-Leste,1961-01-01,24.27,24.37,TLS
+Timor-Leste,1962-01-01,24.57,24.32,TLS
+Timor-Leste,1963-01-01,24.17,24.28,TLS
+Timor-Leste,1964-01-01,24.49,24.28,TLS
+Timor-Leste,1965-01-01,24.27,24.31,TLS
+Timor-Leste,1966-01-01,24.52,24.38,TLS
+Timor-Leste,1967-01-01,24.09,24.45,TLS
+Timor-Leste,1968-01-01,24.41,24.52,TLS
+Timor-Leste,1969-01-01,24.56,24.56,TLS
+Timor-Leste,1970-01-01,24.7,24.56,TLS
+Timor-Leste,1971-01-01,24.36,24.51,TLS
+Timor-Leste,1972-01-01,24.55,24.45,TLS
+Timor-Leste,1973-01-01,24.91,24.39,TLS
+Timor-Leste,1974-01-01,24.1,24.34,TLS
+Timor-Leste,1975-01-01,24.5,24.32,TLS
+Timor-Leste,1976-01-01,23.94,24.35,TLS
+Timor-Leste,1977-01-01,24.02,24.4,TLS
+Timor-Leste,1978-01-01,24.62,24.46,TLS
+Timor-Leste,1979-01-01,24.79,24.52,TLS
+Timor-Leste,1980-01-01,24.65,24.57,TLS
+Timor-Leste,1981-01-01,24.8,24.59,TLS
+Timor-Leste,1982-01-01,24.27,24.59,TLS
+Timor-Leste,1983-01-01,24.62,24.58,TLS
+Timor-Leste,1984-01-01,24.35,24.58,TLS
+Timor-Leste,1985-01-01,24.57,24.59,TLS
+Timor-Leste,1986-01-01,24.86,24.62,TLS
+Timor-Leste,1987-01-01,24.67,24.67,TLS
+Timor-Leste,1988-01-01,24.91,24.73,TLS
+Timor-Leste,1989-01-01,24.59,24.76,TLS
+Timor-Leste,1990-01-01,24.72,24.77,TLS
+Timor-Leste,1991-01-01,24.58,24.74,TLS
+Timor-Leste,1992-01-01,24.88,24.67,TLS
+Timor-Leste,1993-01-01,24.76,24.59,TLS
+Timor-Leste,1994-01-01,24.2,24.5,TLS
+Timor-Leste,1995-01-01,24.45,24.43,TLS
+Timor-Leste,1996-01-01,24.49,24.4,TLS
+Timor-Leste,1997-01-01,24.3,24.41,TLS
+Timor-Leste,1998-01-01,25.06,24.46,TLS
+Timor-Leste,1999-01-01,24.12,24.51,TLS
+Timor-Leste,2000-01-01,24.21,24.56,TLS
+Timor-Leste,2001-01-01,24.47,24.59,TLS
+Timor-Leste,2002-01-01,24.72,24.58,TLS
+Timor-Leste,2003-01-01,24.86,24.55,TLS
+Timor-Leste,2004-01-01,24.51,24.49,TLS
+Timor-Leste,2005-01-01,24.79,24.44,TLS
+Timor-Leste,2006-01-01,23.95,24.38,TLS
+Timor-Leste,2007-01-01,24.2,24.34,TLS
+Timor-Leste,2008-01-01,24.27,24.32,TLS
+Timor-Leste,2009-01-01,24.46,24.32,TLS
+Timor-Leste,2010-01-01,24.55,24.35,TLS
+Timor-Leste,2011-01-01,24.1,24.39,TLS
+Timor-Leste,2012-01-01,24.36,24.47,TLS
+Timor-Leste,2013-01-01,24.8,24.56,TLS
+Timor-Leste,2014-01-01,24.65,24.66,TLS
+Timor-Leste,2015-01-01,24.65,24.75,TLS
+Timor-Leste,2016-01-01,25.2,24.84,TLS
+Timor-Leste,2017-01-01,24.78,24.89,TLS
+Timor-Leste,2018-01-01,24.74,24.92,TLS
+Timor-Leste,2019-01-01,24.78,24.92,TLS
+Timor-Leste,2020-01-01,24.98,24.9,TLS
+Timor-Leste,2021-01-01,24.9,24.86,TLS
+Timor-Leste,2022-01-01,24.85,24.82,TLS
 Sudan,1901-01-01,27.74,27.24,SDN
 Sudan,1902-01-01,27.02,27.18,SDN
 Sudan,1903-01-01,26.62,27.13,SDN
@@ -8783,128 +8783,128 @@ Monaco,2019-01-01,14.13,14.21,MCO
 Monaco,2020-01-01,14.21,14.28,MCO
 Monaco,2021-01-01,13.62,14.35,MCO
 Monaco,2022-01-01,15.01,14.42,MCO
-Syrian Arab Republic,1901-01-01,17.92,17.55,SYR
-Syrian Arab Republic,1902-01-01,17.46,17.44,SYR
-Syrian Arab Republic,1903-01-01,16.74,17.32,SYR
-Syrian Arab Republic,1904-01-01,17.02,17.22,SYR
-Syrian Arab Republic,1905-01-01,17.21,17.14,SYR
-Syrian Arab Republic,1906-01-01,17.36,17.07,SYR
-Syrian Arab Republic,1907-01-01,16.84,17.02,SYR
-Syrian Arab Republic,1908-01-01,16.81,17.01,SYR
-Syrian Arab Republic,1909-01-01,17.88,17.02,SYR
-Syrian Arab Republic,1910-01-01,17.22,17.08,SYR
-Syrian Arab Republic,1911-01-01,16.54,17.17,SYR
-Syrian Arab Republic,1912-01-01,17.4,17.3,SYR
-Syrian Arab Republic,1913-01-01,17.08,17.47,SYR
-Syrian Arab Republic,1914-01-01,17.58,17.64,SYR
-Syrian Arab Republic,1915-01-01,18.07,17.8,SYR
-Syrian Arab Republic,1916-01-01,18.25,17.92,SYR
-Syrian Arab Republic,1917-01-01,18.05,17.97,SYR
-Syrian Arab Republic,1918-01-01,17.88,17.95,SYR
-Syrian Arab Republic,1919-01-01,18.09,17.88,SYR
-Syrian Arab Republic,1920-01-01,17.27,17.8,SYR
-Syrian Arab Republic,1921-01-01,17.07,17.73,SYR
-Syrian Arab Republic,1922-01-01,18.1,17.71,SYR
-Syrian Arab Republic,1923-01-01,18.15,17.75,SYR
-Syrian Arab Republic,1924-01-01,18.03,17.85,SYR
-Syrian Arab Republic,1925-01-01,18.05,17.97,SYR
-Syrian Arab Republic,1926-01-01,17.95,18.06,SYR
-Syrian Arab Republic,1927-01-01,18.1,18.11,SYR
-Syrian Arab Republic,1928-01-01,17.77,18.08,SYR
-Syrian Arab Republic,1929-01-01,17.6,17.98,SYR
-Syrian Arab Republic,1930-01-01,18.5,17.85,SYR
-Syrian Arab Republic,1931-01-01,17.81,17.73,SYR
-Syrian Arab Republic,1932-01-01,17.8,17.65,SYR
-Syrian Arab Republic,1933-01-01,16.93,17.66,SYR
-Syrian Arab Republic,1934-01-01,17.68,17.75,SYR
-Syrian Arab Republic,1935-01-01,18.4,17.89,SYR
-Syrian Arab Republic,1936-01-01,18.04,18.04,SYR
-Syrian Arab Republic,1937-01-01,18.51,18.17,SYR
-Syrian Arab Republic,1938-01-01,17.76,18.24,SYR
-Syrian Arab Republic,1939-01-01,18.33,18.24,SYR
-Syrian Arab Republic,1940-01-01,18.23,18.17,SYR
-Syrian Arab Republic,1941-01-01,18.01,18.06,SYR
-Syrian Arab Republic,1942-01-01,17.83,17.93,SYR
-Syrian Arab Republic,1943-01-01,17.59,17.81,SYR
-Syrian Arab Republic,1944-01-01,17.9,17.71,SYR
-Syrian Arab Republic,1945-01-01,17.33,17.65,SYR
-Syrian Arab Republic,1946-01-01,17.87,17.61,SYR
-Syrian Arab Republic,1947-01-01,18.7,17.61,SYR
-Syrian Arab Republic,1948-01-01,17.18,17.64,SYR
-Syrian Arab Republic,1949-01-01,17.12,17.7,SYR
-Syrian Arab Republic,1950-01-01,17.4,17.78,SYR
-Syrian Arab Republic,1951-01-01,18.19,17.88,SYR
-Syrian Arab Republic,1952-01-01,18.38,17.97,SYR
-Syrian Arab Republic,1953-01-01,17.42,18.05,SYR
-Syrian Arab Republic,1954-01-01,18.38,18.1,SYR
-Syrian Arab Republic,1955-01-01,19.06,18.12,SYR
-Syrian Arab Republic,1956-01-01,17.46,18.12,SYR
-Syrian Arab Republic,1957-01-01,17.88,18.1,SYR
-Syrian Arab Republic,1958-01-01,18.13,18.08,SYR
-Syrian Arab Republic,1959-01-01,17.31,18.08,SYR
-Syrian Arab Republic,1960-01-01,18.72,18.09,SYR
-Syrian Arab Republic,1961-01-01,17.87,18.1,SYR
-Syrian Arab Republic,1962-01-01,19.1,18.12,SYR
-Syrian Arab Republic,1963-01-01,18.32,18.13,SYR
-Syrian Arab Republic,1964-01-01,17.32,18.12,SYR
-Syrian Arab Republic,1965-01-01,17.78,18.08,SYR
-Syrian Arab Republic,1966-01-01,18.91,18.03,SYR
-Syrian Arab Republic,1967-01-01,16.82,17.96,SYR
-Syrian Arab Republic,1968-01-01,17.98,17.89,SYR
-Syrian Arab Republic,1969-01-01,18.19,17.82,SYR
-Syrian Arab Republic,1970-01-01,18.45,17.76,SYR
-Syrian Arab Republic,1971-01-01,17.71,17.71,SYR
-Syrian Arab Republic,1972-01-01,16.85,17.67,SYR
-Syrian Arab Republic,1973-01-01,17.75,17.65,SYR
-Syrian Arab Republic,1974-01-01,17.82,17.65,SYR
-Syrian Arab Republic,1975-01-01,17.6,17.66,SYR
-Syrian Arab Republic,1976-01-01,17.22,17.69,SYR
-Syrian Arab Republic,1977-01-01,17.82,17.72,SYR
-Syrian Arab Republic,1978-01-01,18.17,17.76,SYR
-Syrian Arab Republic,1979-01-01,18.54,17.8,SYR
-Syrian Arab Republic,1980-01-01,17.55,17.82,SYR
-Syrian Arab Republic,1981-01-01,18.17,17.84,SYR
-Syrian Arab Republic,1982-01-01,17.04,17.84,SYR
-Syrian Arab Republic,1983-01-01,17.32,17.84,SYR
-Syrian Arab Republic,1984-01-01,17.62,17.83,SYR
-Syrian Arab Republic,1985-01-01,18.03,17.82,SYR
-Syrian Arab Republic,1986-01-01,18.26,17.81,SYR
-Syrian Arab Republic,1987-01-01,18.05,17.81,SYR
-Syrian Arab Republic,1988-01-01,17.63,17.81,SYR
-Syrian Arab Republic,1989-01-01,18.15,17.83,SYR
-Syrian Arab Republic,1990-01-01,18.19,17.86,SYR
-Syrian Arab Republic,1991-01-01,18.08,17.91,SYR
-Syrian Arab Republic,1992-01-01,16.69,17.98,SYR
-Syrian Arab Republic,1993-01-01,17.78,18.07,SYR
-Syrian Arab Republic,1994-01-01,18.96,18.16,SYR
-Syrian Arab Republic,1995-01-01,18.27,18.27,SYR
-Syrian Arab Republic,1996-01-01,18.67,18.39,SYR
-Syrian Arab Republic,1997-01-01,17.61,18.52,SYR
-Syrian Arab Republic,1998-01-01,19.22,18.63,SYR
-Syrian Arab Republic,1999-01-01,19.1,18.73,SYR
-Syrian Arab Republic,2000-01-01,18.46,18.8,SYR
-Syrian Arab Republic,2001-01-01,19.25,18.82,SYR
-Syrian Arab Republic,2002-01-01,18.58,18.8,SYR
-Syrian Arab Republic,2003-01-01,18.65,18.75,SYR
-Syrian Arab Republic,2004-01-01,18.47,18.68,SYR
-Syrian Arab Republic,2005-01-01,18.52,18.63,SYR
-Syrian Arab Republic,2006-01-01,18.49,18.61,SYR
-Syrian Arab Republic,2007-01-01,18.68,18.64,SYR
-Syrian Arab Republic,2008-01-01,18.81,18.72,SYR
-Syrian Arab Republic,2009-01-01,18.75,18.82,SYR
-Syrian Arab Republic,2010-01-01,20.3,18.93,SYR
-Syrian Arab Republic,2011-01-01,18.19,19.04,SYR
-Syrian Arab Republic,2012-01-01,19.06,19.12,SYR
-Syrian Arab Republic,2013-01-01,18.89,19.17,SYR
-Syrian Arab Republic,2014-01-01,19.31,19.2,SYR
-Syrian Arab Republic,2015-01-01,19.0,19.22,SYR
-Syrian Arab Republic,2016-01-01,19.13,19.23,SYR
-Syrian Arab Republic,2017-01-01,19.07,19.25,SYR
-Syrian Arab Republic,2018-01-01,19.94,19.28,SYR
-Syrian Arab Republic,2019-01-01,19.21,19.32,SYR
-Syrian Arab Republic,2020-01-01,19.36,19.37,SYR
-Syrian Arab Republic,2021-01-01,19.67,19.42,SYR
-Syrian Arab Republic,2022-01-01,19.17,19.47,SYR
+Syria,1901-01-01,17.92,17.55,SYR
+Syria,1902-01-01,17.46,17.44,SYR
+Syria,1903-01-01,16.74,17.32,SYR
+Syria,1904-01-01,17.02,17.22,SYR
+Syria,1905-01-01,17.21,17.14,SYR
+Syria,1906-01-01,17.36,17.07,SYR
+Syria,1907-01-01,16.84,17.02,SYR
+Syria,1908-01-01,16.81,17.01,SYR
+Syria,1909-01-01,17.88,17.02,SYR
+Syria,1910-01-01,17.22,17.08,SYR
+Syria,1911-01-01,16.54,17.17,SYR
+Syria,1912-01-01,17.4,17.3,SYR
+Syria,1913-01-01,17.08,17.47,SYR
+Syria,1914-01-01,17.58,17.64,SYR
+Syria,1915-01-01,18.07,17.8,SYR
+Syria,1916-01-01,18.25,17.92,SYR
+Syria,1917-01-01,18.05,17.97,SYR
+Syria,1918-01-01,17.88,17.95,SYR
+Syria,1919-01-01,18.09,17.88,SYR
+Syria,1920-01-01,17.27,17.8,SYR
+Syria,1921-01-01,17.07,17.73,SYR
+Syria,1922-01-01,18.1,17.71,SYR
+Syria,1923-01-01,18.15,17.75,SYR
+Syria,1924-01-01,18.03,17.85,SYR
+Syria,1925-01-01,18.05,17.97,SYR
+Syria,1926-01-01,17.95,18.06,SYR
+Syria,1927-01-01,18.1,18.11,SYR
+Syria,1928-01-01,17.77,18.08,SYR
+Syria,1929-01-01,17.6,17.98,SYR
+Syria,1930-01-01,18.5,17.85,SYR
+Syria,1931-01-01,17.81,17.73,SYR
+Syria,1932-01-01,17.8,17.65,SYR
+Syria,1933-01-01,16.93,17.66,SYR
+Syria,1934-01-01,17.68,17.75,SYR
+Syria,1935-01-01,18.4,17.89,SYR
+Syria,1936-01-01,18.04,18.04,SYR
+Syria,1937-01-01,18.51,18.17,SYR
+Syria,1938-01-01,17.76,18.24,SYR
+Syria,1939-01-01,18.33,18.24,SYR
+Syria,1940-01-01,18.23,18.17,SYR
+Syria,1941-01-01,18.01,18.06,SYR
+Syria,1942-01-01,17.83,17.93,SYR
+Syria,1943-01-01,17.59,17.81,SYR
+Syria,1944-01-01,17.9,17.71,SYR
+Syria,1945-01-01,17.33,17.65,SYR
+Syria,1946-01-01,17.87,17.61,SYR
+Syria,1947-01-01,18.7,17.61,SYR
+Syria,1948-01-01,17.18,17.64,SYR
+Syria,1949-01-01,17.12,17.7,SYR
+Syria,1950-01-01,17.4,17.78,SYR
+Syria,1951-01-01,18.19,17.88,SYR
+Syria,1952-01-01,18.38,17.97,SYR
+Syria,1953-01-01,17.42,18.05,SYR
+Syria,1954-01-01,18.38,18.1,SYR
+Syria,1955-01-01,19.06,18.12,SYR
+Syria,1956-01-01,17.46,18.12,SYR
+Syria,1957-01-01,17.88,18.1,SYR
+Syria,1958-01-01,18.13,18.08,SYR
+Syria,1959-01-01,17.31,18.08,SYR
+Syria,1960-01-01,18.72,18.09,SYR
+Syria,1961-01-01,17.87,18.1,SYR
+Syria,1962-01-01,19.1,18.12,SYR
+Syria,1963-01-01,18.32,18.13,SYR
+Syria,1964-01-01,17.32,18.12,SYR
+Syria,1965-01-01,17.78,18.08,SYR
+Syria,1966-01-01,18.91,18.03,SYR
+Syria,1967-01-01,16.82,17.96,SYR
+Syria,1968-01-01,17.98,17.89,SYR
+Syria,1969-01-01,18.19,17.82,SYR
+Syria,1970-01-01,18.45,17.76,SYR
+Syria,1971-01-01,17.71,17.71,SYR
+Syria,1972-01-01,16.85,17.67,SYR
+Syria,1973-01-01,17.75,17.65,SYR
+Syria,1974-01-01,17.82,17.65,SYR
+Syria,1975-01-01,17.6,17.66,SYR
+Syria,1976-01-01,17.22,17.69,SYR
+Syria,1977-01-01,17.82,17.72,SYR
+Syria,1978-01-01,18.17,17.76,SYR
+Syria,1979-01-01,18.54,17.8,SYR
+Syria,1980-01-01,17.55,17.82,SYR
+Syria,1981-01-01,18.17,17.84,SYR
+Syria,1982-01-01,17.04,17.84,SYR
+Syria,1983-01-01,17.32,17.84,SYR
+Syria,1984-01-01,17.62,17.83,SYR
+Syria,1985-01-01,18.03,17.82,SYR
+Syria,1986-01-01,18.26,17.81,SYR
+Syria,1987-01-01,18.05,17.81,SYR
+Syria,1988-01-01,17.63,17.81,SYR
+Syria,1989-01-01,18.15,17.83,SYR
+Syria,1990-01-01,18.19,17.86,SYR
+Syria,1991-01-01,18.08,17.91,SYR
+Syria,1992-01-01,16.69,17.98,SYR
+Syria,1993-01-01,17.78,18.07,SYR
+Syria,1994-01-01,18.96,18.16,SYR
+Syria,1995-01-01,18.27,18.27,SYR
+Syria,1996-01-01,18.67,18.39,SYR
+Syria,1997-01-01,17.61,18.52,SYR
+Syria,1998-01-01,19.22,18.63,SYR
+Syria,1999-01-01,19.1,18.73,SYR
+Syria,2000-01-01,18.46,18.8,SYR
+Syria,2001-01-01,19.25,18.82,SYR
+Syria,2002-01-01,18.58,18.8,SYR
+Syria,2003-01-01,18.65,18.75,SYR
+Syria,2004-01-01,18.47,18.68,SYR
+Syria,2005-01-01,18.52,18.63,SYR
+Syria,2006-01-01,18.49,18.61,SYR
+Syria,2007-01-01,18.68,18.64,SYR
+Syria,2008-01-01,18.81,18.72,SYR
+Syria,2009-01-01,18.75,18.82,SYR
+Syria,2010-01-01,20.3,18.93,SYR
+Syria,2011-01-01,18.19,19.04,SYR
+Syria,2012-01-01,19.06,19.12,SYR
+Syria,2013-01-01,18.89,19.17,SYR
+Syria,2014-01-01,19.31,19.2,SYR
+Syria,2015-01-01,19.0,19.22,SYR
+Syria,2016-01-01,19.13,19.23,SYR
+Syria,2017-01-01,19.07,19.25,SYR
+Syria,2018-01-01,19.94,19.28,SYR
+Syria,2019-01-01,19.21,19.32,SYR
+Syria,2020-01-01,19.36,19.37,SYR
+Syria,2021-01-01,19.67,19.42,SYR
+Syria,2022-01-01,19.17,19.47,SYR
 Ethiopia,1901-01-01,22.95,22.95,ETH
 Ethiopia,1902-01-01,22.88,22.91,ETH
 Ethiopia,1903-01-01,22.96,22.86,ETH
@@ -12565,128 +12565,128 @@ Kazakhstan,2019-01-01,7.83,7.73,KAZ
 Kazakhstan,2020-01-01,8.31,7.84,KAZ
 Kazakhstan,2021-01-01,7.83,7.94,KAZ
 Kazakhstan,2022-01-01,8.06,8.04,KAZ
-"Gambia,",1901-01-01,27.8,27.96,GMB
-"Gambia,",1902-01-01,28.07,27.88,GMB
-"Gambia,",1903-01-01,27.88,27.81,GMB
-"Gambia,",1904-01-01,27.61,27.75,GMB
-"Gambia,",1905-01-01,27.82,27.71,GMB
-"Gambia,",1906-01-01,27.92,27.69,GMB
-"Gambia,",1907-01-01,27.18,27.7,GMB
-"Gambia,",1908-01-01,27.98,27.74,GMB
-"Gambia,",1909-01-01,27.73,27.78,GMB
-"Gambia,",1910-01-01,27.94,27.83,GMB
-"Gambia,",1911-01-01,27.72,27.87,GMB
-"Gambia,",1912-01-01,27.99,27.89,GMB
-"Gambia,",1913-01-01,27.97,27.89,GMB
-"Gambia,",1914-01-01,27.66,27.88,GMB
-"Gambia,",1915-01-01,28.15,27.86,GMB
-"Gambia,",1916-01-01,27.65,27.82,GMB
-"Gambia,",1917-01-01,27.56,27.78,GMB
-"Gambia,",1918-01-01,27.82,27.74,GMB
-"Gambia,",1919-01-01,28.16,27.69,GMB
-"Gambia,",1920-01-01,27.51,27.65,GMB
-"Gambia,",1921-01-01,27.49,27.61,GMB
-"Gambia,",1922-01-01,27.17,27.57,GMB
-"Gambia,",1923-01-01,27.73,27.54,GMB
-"Gambia,",1924-01-01,27.41,27.51,GMB
-"Gambia,",1925-01-01,27.58,27.49,GMB
-"Gambia,",1926-01-01,27.95,27.47,GMB
-"Gambia,",1927-01-01,27.54,27.46,GMB
-"Gambia,",1928-01-01,27.27,27.45,GMB
-"Gambia,",1929-01-01,27.16,27.45,GMB
-"Gambia,",1930-01-01,27.07,27.46,GMB
-"Gambia,",1931-01-01,27.73,27.47,GMB
-"Gambia,",1932-01-01,27.65,27.5,GMB
-"Gambia,",1933-01-01,27.72,27.54,GMB
-"Gambia,",1934-01-01,27.49,27.6,GMB
-"Gambia,",1935-01-01,27.5,27.66,GMB
-"Gambia,",1936-01-01,27.77,27.71,GMB
-"Gambia,",1937-01-01,27.94,27.76,GMB
-"Gambia,",1938-01-01,27.91,27.8,GMB
-"Gambia,",1939-01-01,27.7,27.81,GMB
-"Gambia,",1940-01-01,27.67,27.82,GMB
-"Gambia,",1941-01-01,27.91,27.81,GMB
-"Gambia,",1942-01-01,27.62,27.81,GMB
-"Gambia,",1943-01-01,27.54,27.81,GMB
-"Gambia,",1944-01-01,28.03,27.83,GMB
-"Gambia,",1945-01-01,28.3,27.84,GMB
-"Gambia,",1946-01-01,27.74,27.85,GMB
-"Gambia,",1947-01-01,27.8,27.83,GMB
-"Gambia,",1948-01-01,27.65,27.79,GMB
-"Gambia,",1949-01-01,27.75,27.7,GMB
-"Gambia,",1950-01-01,27.56,27.57,GMB
-"Gambia,",1951-01-01,27.35,27.44,GMB
-"Gambia,",1952-01-01,27.2,27.33,GMB
-"Gambia,",1953-01-01,27.38,27.26,GMB
-"Gambia,",1954-01-01,27.37,27.25,GMB
-"Gambia,",1955-01-01,27.56,27.31,GMB
-"Gambia,",1956-01-01,27.27,27.41,GMB
-"Gambia,",1957-01-01,27.27,27.53,GMB
-"Gambia,",1958-01-01,27.77,27.63,GMB
-"Gambia,",1959-01-01,27.49,27.69,GMB
-"Gambia,",1960-01-01,27.64,27.7,GMB
-"Gambia,",1961-01-01,27.69,27.66,GMB
-"Gambia,",1962-01-01,27.81,27.61,GMB
-"Gambia,",1963-01-01,27.89,27.57,GMB
-"Gambia,",1964-01-01,27.7,27.55,GMB
-"Gambia,",1965-01-01,27.3,27.57,GMB
-"Gambia,",1966-01-01,27.75,27.63,GMB
-"Gambia,",1967-01-01,27.03,27.69,GMB
-"Gambia,",1968-01-01,27.39,27.74,GMB
-"Gambia,",1969-01-01,28.36,27.75,GMB
-"Gambia,",1970-01-01,28.12,27.69,GMB
-"Gambia,",1971-01-01,27.12,27.58,GMB
-"Gambia,",1972-01-01,27.55,27.45,GMB
-"Gambia,",1973-01-01,27.77,27.32,GMB
-"Gambia,",1974-01-01,26.94,27.24,GMB
-"Gambia,",1975-01-01,27.08,27.23,GMB
-"Gambia,",1976-01-01,27.03,27.3,GMB
-"Gambia,",1977-01-01,27.77,27.43,GMB
-"Gambia,",1978-01-01,27.5,27.57,GMB
-"Gambia,",1979-01-01,27.86,27.71,GMB
-"Gambia,",1980-01-01,27.81,27.8,GMB
-"Gambia,",1981-01-01,27.85,27.84,GMB
-"Gambia,",1982-01-01,27.35,27.83,GMB
-"Gambia,",1983-01-01,28.34,27.79,GMB
-"Gambia,",1984-01-01,27.69,27.75,GMB
-"Gambia,",1985-01-01,27.53,27.72,GMB
-"Gambia,",1986-01-01,27.45,27.72,GMB
-"Gambia,",1987-01-01,28.15,27.74,GMB
-"Gambia,",1988-01-01,27.8,27.79,GMB
-"Gambia,",1989-01-01,27.62,27.84,GMB
-"Gambia,",1990-01-01,28.19,27.91,GMB
-"Gambia,",1991-01-01,28.02,27.96,GMB
-"Gambia,",1992-01-01,27.94,28.01,GMB
-"Gambia,",1993-01-01,28.07,28.06,GMB
-"Gambia,",1994-01-01,27.75,28.1,GMB
-"Gambia,",1995-01-01,27.91,28.15,GMB
-"Gambia,",1996-01-01,28.34,28.19,GMB
-"Gambia,",1997-01-01,28.5,28.24,GMB
-"Gambia,",1998-01-01,28.88,28.29,GMB
-"Gambia,",1999-01-01,27.92,28.33,GMB
-"Gambia,",2000-01-01,28.07,28.38,GMB
-"Gambia,",2001-01-01,28.51,28.41,GMB
-"Gambia,",2002-01-01,28.47,28.44,GMB
-"Gambia,",2003-01-01,28.4,28.46,GMB
-"Gambia,",2004-01-01,28.47,28.47,GMB
-"Gambia,",2005-01-01,28.69,28.47,GMB
-"Gambia,",2006-01-01,28.38,28.47,GMB
-"Gambia,",2007-01-01,28.45,28.46,GMB
-"Gambia,",2008-01-01,28.45,28.44,GMB
-"Gambia,",2009-01-01,28.09,28.43,GMB
-"Gambia,",2010-01-01,28.86,28.42,GMB
-"Gambia,",2011-01-01,28.34,28.42,GMB
-"Gambia,",2012-01-01,28.33,28.43,GMB
-"Gambia,",2013-01-01,28.44,28.46,GMB
-"Gambia,",2014-01-01,28.41,28.49,GMB
-"Gambia,",2015-01-01,28.57,28.53,GMB
-"Gambia,",2016-01-01,28.8,28.57,GMB
-"Gambia,",2017-01-01,28.82,28.61,GMB
-"Gambia,",2018-01-01,28.23,28.64,GMB
-"Gambia,",2019-01-01,28.25,28.66,GMB
-"Gambia,",2020-01-01,29.06,28.68,GMB
-"Gambia,",2021-01-01,29.03,28.7,GMB
-"Gambia,",2022-01-01,28.46,28.71,GMB
+"Gambia, The",1901-01-01,27.8,27.96,GMB
+"Gambia, The",1902-01-01,28.07,27.88,GMB
+"Gambia, The",1903-01-01,27.88,27.81,GMB
+"Gambia, The",1904-01-01,27.61,27.75,GMB
+"Gambia, The",1905-01-01,27.82,27.71,GMB
+"Gambia, The",1906-01-01,27.92,27.69,GMB
+"Gambia, The",1907-01-01,27.18,27.7,GMB
+"Gambia, The",1908-01-01,27.98,27.74,GMB
+"Gambia, The",1909-01-01,27.73,27.78,GMB
+"Gambia, The",1910-01-01,27.94,27.83,GMB
+"Gambia, The",1911-01-01,27.72,27.87,GMB
+"Gambia, The",1912-01-01,27.99,27.89,GMB
+"Gambia, The",1913-01-01,27.97,27.89,GMB
+"Gambia, The",1914-01-01,27.66,27.88,GMB
+"Gambia, The",1915-01-01,28.15,27.86,GMB
+"Gambia, The",1916-01-01,27.65,27.82,GMB
+"Gambia, The",1917-01-01,27.56,27.78,GMB
+"Gambia, The",1918-01-01,27.82,27.74,GMB
+"Gambia, The",1919-01-01,28.16,27.69,GMB
+"Gambia, The",1920-01-01,27.51,27.65,GMB
+"Gambia, The",1921-01-01,27.49,27.61,GMB
+"Gambia, The",1922-01-01,27.17,27.57,GMB
+"Gambia, The",1923-01-01,27.73,27.54,GMB
+"Gambia, The",1924-01-01,27.41,27.51,GMB
+"Gambia, The",1925-01-01,27.58,27.49,GMB
+"Gambia, The",1926-01-01,27.95,27.47,GMB
+"Gambia, The",1927-01-01,27.54,27.46,GMB
+"Gambia, The",1928-01-01,27.27,27.45,GMB
+"Gambia, The",1929-01-01,27.16,27.45,GMB
+"Gambia, The",1930-01-01,27.07,27.46,GMB
+"Gambia, The",1931-01-01,27.73,27.47,GMB
+"Gambia, The",1932-01-01,27.65,27.5,GMB
+"Gambia, The",1933-01-01,27.72,27.54,GMB
+"Gambia, The",1934-01-01,27.49,27.6,GMB
+"Gambia, The",1935-01-01,27.5,27.66,GMB
+"Gambia, The",1936-01-01,27.77,27.71,GMB
+"Gambia, The",1937-01-01,27.94,27.76,GMB
+"Gambia, The",1938-01-01,27.91,27.8,GMB
+"Gambia, The",1939-01-01,27.7,27.81,GMB
+"Gambia, The",1940-01-01,27.67,27.82,GMB
+"Gambia, The",1941-01-01,27.91,27.81,GMB
+"Gambia, The",1942-01-01,27.62,27.81,GMB
+"Gambia, The",1943-01-01,27.54,27.81,GMB
+"Gambia, The",1944-01-01,28.03,27.83,GMB
+"Gambia, The",1945-01-01,28.3,27.84,GMB
+"Gambia, The",1946-01-01,27.74,27.85,GMB
+"Gambia, The",1947-01-01,27.8,27.83,GMB
+"Gambia, The",1948-01-01,27.65,27.79,GMB
+"Gambia, The",1949-01-01,27.75,27.7,GMB
+"Gambia, The",1950-01-01,27.56,27.57,GMB
+"Gambia, The",1951-01-01,27.35,27.44,GMB
+"Gambia, The",1952-01-01,27.2,27.33,GMB
+"Gambia, The",1953-01-01,27.38,27.26,GMB
+"Gambia, The",1954-01-01,27.37,27.25,GMB
+"Gambia, The",1955-01-01,27.56,27.31,GMB
+"Gambia, The",1956-01-01,27.27,27.41,GMB
+"Gambia, The",1957-01-01,27.27,27.53,GMB
+"Gambia, The",1958-01-01,27.77,27.63,GMB
+"Gambia, The",1959-01-01,27.49,27.69,GMB
+"Gambia, The",1960-01-01,27.64,27.7,GMB
+"Gambia, The",1961-01-01,27.69,27.66,GMB
+"Gambia, The",1962-01-01,27.81,27.61,GMB
+"Gambia, The",1963-01-01,27.89,27.57,GMB
+"Gambia, The",1964-01-01,27.7,27.55,GMB
+"Gambia, The",1965-01-01,27.3,27.57,GMB
+"Gambia, The",1966-01-01,27.75,27.63,GMB
+"Gambia, The",1967-01-01,27.03,27.69,GMB
+"Gambia, The",1968-01-01,27.39,27.74,GMB
+"Gambia, The",1969-01-01,28.36,27.75,GMB
+"Gambia, The",1970-01-01,28.12,27.69,GMB
+"Gambia, The",1971-01-01,27.12,27.58,GMB
+"Gambia, The",1972-01-01,27.55,27.45,GMB
+"Gambia, The",1973-01-01,27.77,27.32,GMB
+"Gambia, The",1974-01-01,26.94,27.24,GMB
+"Gambia, The",1975-01-01,27.08,27.23,GMB
+"Gambia, The",1976-01-01,27.03,27.3,GMB
+"Gambia, The",1977-01-01,27.77,27.43,GMB
+"Gambia, The",1978-01-01,27.5,27.57,GMB
+"Gambia, The",1979-01-01,27.86,27.71,GMB
+"Gambia, The",1980-01-01,27.81,27.8,GMB
+"Gambia, The",1981-01-01,27.85,27.84,GMB
+"Gambia, The",1982-01-01,27.35,27.83,GMB
+"Gambia, The",1983-01-01,28.34,27.79,GMB
+"Gambia, The",1984-01-01,27.69,27.75,GMB
+"Gambia, The",1985-01-01,27.53,27.72,GMB
+"Gambia, The",1986-01-01,27.45,27.72,GMB
+"Gambia, The",1987-01-01,28.15,27.74,GMB
+"Gambia, The",1988-01-01,27.8,27.79,GMB
+"Gambia, The",1989-01-01,27.62,27.84,GMB
+"Gambia, The",1990-01-01,28.19,27.91,GMB
+"Gambia, The",1991-01-01,28.02,27.96,GMB
+"Gambia, The",1992-01-01,27.94,28.01,GMB
+"Gambia, The",1993-01-01,28.07,28.06,GMB
+"Gambia, The",1994-01-01,27.75,28.1,GMB
+"Gambia, The",1995-01-01,27.91,28.15,GMB
+"Gambia, The",1996-01-01,28.34,28.19,GMB
+"Gambia, The",1997-01-01,28.5,28.24,GMB
+"Gambia, The",1998-01-01,28.88,28.29,GMB
+"Gambia, The",1999-01-01,27.92,28.33,GMB
+"Gambia, The",2000-01-01,28.07,28.38,GMB
+"Gambia, The",2001-01-01,28.51,28.41,GMB
+"Gambia, The",2002-01-01,28.47,28.44,GMB
+"Gambia, The",2003-01-01,28.4,28.46,GMB
+"Gambia, The",2004-01-01,28.47,28.47,GMB
+"Gambia, The",2005-01-01,28.69,28.47,GMB
+"Gambia, The",2006-01-01,28.38,28.47,GMB
+"Gambia, The",2007-01-01,28.45,28.46,GMB
+"Gambia, The",2008-01-01,28.45,28.44,GMB
+"Gambia, The",2009-01-01,28.09,28.43,GMB
+"Gambia, The",2010-01-01,28.86,28.42,GMB
+"Gambia, The",2011-01-01,28.34,28.42,GMB
+"Gambia, The",2012-01-01,28.33,28.43,GMB
+"Gambia, The",2013-01-01,28.44,28.46,GMB
+"Gambia, The",2014-01-01,28.41,28.49,GMB
+"Gambia, The",2015-01-01,28.57,28.53,GMB
+"Gambia, The",2016-01-01,28.8,28.57,GMB
+"Gambia, The",2017-01-01,28.82,28.61,GMB
+"Gambia, The",2018-01-01,28.23,28.64,GMB
+"Gambia, The",2019-01-01,28.25,28.66,GMB
+"Gambia, The",2020-01-01,29.06,28.68,GMB
+"Gambia, The",2021-01-01,29.03,28.7,GMB
+"Gambia, The",2022-01-01,28.46,28.71,GMB
 Philippines,1901-01-01,25.9,25.89,PHL
 Philippines,1902-01-01,25.89,25.72,PHL
 Philippines,1903-01-01,25.55,25.55,PHL
@@ -14517,128 +14517,128 @@ Panama,2019-01-01,25.9,25.79,PAN
 Panama,2020-01-01,25.89,25.68,PAN
 Panama,2021-01-01,25.59,25.55,PAN
 Panama,2022-01-01,25.33,25.41,PAN
-"Venezuela, Rb",1901-01-01,25.04,24.92,VEN
-"Venezuela, Rb",1902-01-01,24.69,24.83,VEN
-"Venezuela, Rb",1903-01-01,24.77,24.75,VEN
-"Venezuela, Rb",1904-01-01,24.64,24.67,VEN
-"Venezuela, Rb",1905-01-01,24.58,24.61,VEN
-"Venezuela, Rb",1906-01-01,24.59,24.57,VEN
-"Venezuela, Rb",1907-01-01,24.69,24.56,VEN
-"Venezuela, Rb",1908-01-01,24.49,24.57,VEN
-"Venezuela, Rb",1909-01-01,24.6,24.6,VEN
-"Venezuela, Rb",1910-01-01,24.62,24.64,VEN
-"Venezuela, Rb",1911-01-01,24.75,24.68,VEN
-"Venezuela, Rb",1912-01-01,24.71,24.73,VEN
-"Venezuela, Rb",1913-01-01,24.78,24.78,VEN
-"Venezuela, Rb",1914-01-01,24.56,24.82,VEN
-"Venezuela, Rb",1915-01-01,25.08,24.84,VEN
-"Venezuela, Rb",1916-01-01,24.9,24.85,VEN
-"Venezuela, Rb",1917-01-01,24.86,24.84,VEN
-"Venezuela, Rb",1918-01-01,24.87,24.8,VEN
-"Venezuela, Rb",1919-01-01,24.63,24.75,VEN
-"Venezuela, Rb",1920-01-01,24.56,24.69,VEN
-"Venezuela, Rb",1921-01-01,24.7,24.64,VEN
-"Venezuela, Rb",1922-01-01,24.51,24.62,VEN
-"Venezuela, Rb",1923-01-01,24.69,24.62,VEN
-"Venezuela, Rb",1924-01-01,24.68,24.64,VEN
-"Venezuela, Rb",1925-01-01,24.67,24.68,VEN
-"Venezuela, Rb",1926-01-01,25.11,24.73,VEN
-"Venezuela, Rb",1927-01-01,24.57,24.78,VEN
-"Venezuela, Rb",1928-01-01,24.73,24.82,VEN
-"Venezuela, Rb",1929-01-01,24.6,24.85,VEN
-"Venezuela, Rb",1930-01-01,24.85,24.88,VEN
-"Venezuela, Rb",1931-01-01,25.08,24.91,VEN
-"Venezuela, Rb",1932-01-01,25.23,24.93,VEN
-"Venezuela, Rb",1933-01-01,24.85,24.96,VEN
-"Venezuela, Rb",1934-01-01,24.99,24.98,VEN
-"Venezuela, Rb",1935-01-01,24.89,25.02,VEN
-"Venezuela, Rb",1936-01-01,25.06,25.06,VEN
-"Venezuela, Rb",1937-01-01,25.14,25.11,VEN
-"Venezuela, Rb",1938-01-01,24.92,25.17,VEN
-"Venezuela, Rb",1939-01-01,25.0,25.24,VEN
-"Venezuela, Rb",1940-01-01,25.61,25.31,VEN
-"Venezuela, Rb",1941-01-01,25.87,25.37,VEN
-"Venezuela, Rb",1942-01-01,25.55,25.41,VEN
-"Venezuela, Rb",1943-01-01,25.12,25.41,VEN
-"Venezuela, Rb",1944-01-01,25.26,25.36,VEN
-"Venezuela, Rb",1945-01-01,25.05,25.29,VEN
-"Venezuela, Rb",1946-01-01,25.06,25.19,VEN
-"Venezuela, Rb",1947-01-01,25.41,25.09,VEN
-"Venezuela, Rb",1948-01-01,25.03,25.01,VEN
-"Venezuela, Rb",1949-01-01,24.86,24.95,VEN
-"Venezuela, Rb",1950-01-01,24.52,24.92,VEN
-"Venezuela, Rb",1951-01-01,25.19,24.92,VEN
-"Venezuela, Rb",1952-01-01,25.4,24.94,VEN
-"Venezuela, Rb",1953-01-01,25.24,24.98,VEN
-"Venezuela, Rb",1954-01-01,24.85,25.03,VEN
-"Venezuela, Rb",1955-01-01,24.76,25.1,VEN
-"Venezuela, Rb",1956-01-01,24.76,25.16,VEN
-"Venezuela, Rb",1957-01-01,25.17,25.22,VEN
-"Venezuela, Rb",1958-01-01,25.77,25.26,VEN
-"Venezuela, Rb",1959-01-01,25.29,25.29,VEN
-"Venezuela, Rb",1960-01-01,25.27,25.29,VEN
-"Venezuela, Rb",1961-01-01,25.24,25.27,VEN
-"Venezuela, Rb",1962-01-01,25.18,25.24,VEN
-"Venezuela, Rb",1963-01-01,25.28,25.21,VEN
-"Venezuela, Rb",1964-01-01,25.19,25.19,VEN
-"Venezuela, Rb",1965-01-01,25.16,25.18,VEN
-"Venezuela, Rb",1966-01-01,25.35,25.18,VEN
-"Venezuela, Rb",1967-01-01,24.91,25.18,VEN
-"Venezuela, Rb",1968-01-01,24.99,25.18,VEN
-"Venezuela, Rb",1969-01-01,25.58,25.16,VEN
-"Venezuela, Rb",1970-01-01,25.18,25.13,VEN
-"Venezuela, Rb",1971-01-01,24.62,25.07,VEN
-"Venezuela, Rb",1972-01-01,25.11,25.02,VEN
-"Venezuela, Rb",1973-01-01,25.41,24.98,VEN
-"Venezuela, Rb",1974-01-01,24.89,24.97,VEN
-"Venezuela, Rb",1975-01-01,24.87,25.0,VEN
-"Venezuela, Rb",1976-01-01,24.78,25.07,VEN
-"Venezuela, Rb",1977-01-01,25.33,25.17,VEN
-"Venezuela, Rb",1978-01-01,25.29,25.27,VEN
-"Venezuela, Rb",1979-01-01,25.45,25.36,VEN
-"Venezuela, Rb",1980-01-01,25.54,25.41,VEN
-"Venezuela, Rb",1981-01-01,25.32,25.42,VEN
-"Venezuela, Rb",1982-01-01,25.22,25.38,VEN
-"Venezuela, Rb",1983-01-01,25.68,25.33,VEN
-"Venezuela, Rb",1984-01-01,25.04,25.27,VEN
-"Venezuela, Rb",1985-01-01,24.83,25.22,VEN
-"Venezuela, Rb",1986-01-01,25.06,25.19,VEN
-"Venezuela, Rb",1987-01-01,25.82,25.19,VEN
-"Venezuela, Rb",1988-01-01,25.4,25.2,VEN
-"Venezuela, Rb",1989-01-01,24.88,25.22,VEN
-"Venezuela, Rb",1990-01-01,25.4,25.25,VEN
-"Venezuela, Rb",1991-01-01,25.3,25.29,VEN
-"Venezuela, Rb",1992-01-01,25.22,25.32,VEN
-"Venezuela, Rb",1993-01-01,25.22,25.35,VEN
-"Venezuela, Rb",1994-01-01,25.2,25.39,VEN
-"Venezuela, Rb",1995-01-01,25.61,25.43,VEN
-"Venezuela, Rb",1996-01-01,25.42,25.47,VEN
-"Venezuela, Rb",1997-01-01,25.61,25.52,VEN
-"Venezuela, Rb",1998-01-01,26.1,25.57,VEN
-"Venezuela, Rb",1999-01-01,25.31,25.62,VEN
-"Venezuela, Rb",2000-01-01,25.27,25.67,VEN
-"Venezuela, Rb",2001-01-01,25.79,25.71,VEN
-"Venezuela, Rb",2002-01-01,25.77,25.75,VEN
-"Venezuela, Rb",2003-01-01,26.08,25.78,VEN
-"Venezuela, Rb",2004-01-01,25.72,25.81,VEN
-"Venezuela, Rb",2005-01-01,25.88,25.82,VEN
-"Venezuela, Rb",2006-01-01,25.77,25.83,VEN
-"Venezuela, Rb",2007-01-01,25.72,25.82,VEN
-"Venezuela, Rb",2008-01-01,25.59,25.81,VEN
-"Venezuela, Rb",2009-01-01,25.98,25.8,VEN
-"Venezuela, Rb",2010-01-01,26.17,25.79,VEN
-"Venezuela, Rb",2011-01-01,25.69,25.8,VEN
-"Venezuela, Rb",2012-01-01,25.59,25.83,VEN
-"Venezuela, Rb",2013-01-01,25.76,25.88,VEN
-"Venezuela, Rb",2014-01-01,25.85,25.93,VEN
-"Venezuela, Rb",2015-01-01,26.26,25.97,VEN
-"Venezuela, Rb",2016-01-01,26.29,25.99,VEN
-"Venezuela, Rb",2017-01-01,25.87,25.99,VEN
-"Venezuela, Rb",2018-01-01,25.57,25.94,VEN
-"Venezuela, Rb",2019-01-01,25.87,25.86,VEN
-"Venezuela, Rb",2020-01-01,25.92,25.76,VEN
-"Venezuela, Rb",2021-01-01,25.61,25.64,VEN
-"Venezuela, Rb",2022-01-01,25.52,25.51,VEN
+Venezuela,1901-01-01,25.04,24.92,VEN
+Venezuela,1902-01-01,24.69,24.83,VEN
+Venezuela,1903-01-01,24.77,24.75,VEN
+Venezuela,1904-01-01,24.64,24.67,VEN
+Venezuela,1905-01-01,24.58,24.61,VEN
+Venezuela,1906-01-01,24.59,24.57,VEN
+Venezuela,1907-01-01,24.69,24.56,VEN
+Venezuela,1908-01-01,24.49,24.57,VEN
+Venezuela,1909-01-01,24.6,24.6,VEN
+Venezuela,1910-01-01,24.62,24.64,VEN
+Venezuela,1911-01-01,24.75,24.68,VEN
+Venezuela,1912-01-01,24.71,24.73,VEN
+Venezuela,1913-01-01,24.78,24.78,VEN
+Venezuela,1914-01-01,24.56,24.82,VEN
+Venezuela,1915-01-01,25.08,24.84,VEN
+Venezuela,1916-01-01,24.9,24.85,VEN
+Venezuela,1917-01-01,24.86,24.84,VEN
+Venezuela,1918-01-01,24.87,24.8,VEN
+Venezuela,1919-01-01,24.63,24.75,VEN
+Venezuela,1920-01-01,24.56,24.69,VEN
+Venezuela,1921-01-01,24.7,24.64,VEN
+Venezuela,1922-01-01,24.51,24.62,VEN
+Venezuela,1923-01-01,24.69,24.62,VEN
+Venezuela,1924-01-01,24.68,24.64,VEN
+Venezuela,1925-01-01,24.67,24.68,VEN
+Venezuela,1926-01-01,25.11,24.73,VEN
+Venezuela,1927-01-01,24.57,24.78,VEN
+Venezuela,1928-01-01,24.73,24.82,VEN
+Venezuela,1929-01-01,24.6,24.85,VEN
+Venezuela,1930-01-01,24.85,24.88,VEN
+Venezuela,1931-01-01,25.08,24.91,VEN
+Venezuela,1932-01-01,25.23,24.93,VEN
+Venezuela,1933-01-01,24.85,24.96,VEN
+Venezuela,1934-01-01,24.99,24.98,VEN
+Venezuela,1935-01-01,24.89,25.02,VEN
+Venezuela,1936-01-01,25.06,25.06,VEN
+Venezuela,1937-01-01,25.14,25.11,VEN
+Venezuela,1938-01-01,24.92,25.17,VEN
+Venezuela,1939-01-01,25.0,25.24,VEN
+Venezuela,1940-01-01,25.61,25.31,VEN
+Venezuela,1941-01-01,25.87,25.37,VEN
+Venezuela,1942-01-01,25.55,25.41,VEN
+Venezuela,1943-01-01,25.12,25.41,VEN
+Venezuela,1944-01-01,25.26,25.36,VEN
+Venezuela,1945-01-01,25.05,25.29,VEN
+Venezuela,1946-01-01,25.06,25.19,VEN
+Venezuela,1947-01-01,25.41,25.09,VEN
+Venezuela,1948-01-01,25.03,25.01,VEN
+Venezuela,1949-01-01,24.86,24.95,VEN
+Venezuela,1950-01-01,24.52,24.92,VEN
+Venezuela,1951-01-01,25.19,24.92,VEN
+Venezuela,1952-01-01,25.4,24.94,VEN
+Venezuela,1953-01-01,25.24,24.98,VEN
+Venezuela,1954-01-01,24.85,25.03,VEN
+Venezuela,1955-01-01,24.76,25.1,VEN
+Venezuela,1956-01-01,24.76,25.16,VEN
+Venezuela,1957-01-01,25.17,25.22,VEN
+Venezuela,1958-01-01,25.77,25.26,VEN
+Venezuela,1959-01-01,25.29,25.29,VEN
+Venezuela,1960-01-01,25.27,25.29,VEN
+Venezuela,1961-01-01,25.24,25.27,VEN
+Venezuela,1962-01-01,25.18,25.24,VEN
+Venezuela,1963-01-01,25.28,25.21,VEN
+Venezuela,1964-01-01,25.19,25.19,VEN
+Venezuela,1965-01-01,25.16,25.18,VEN
+Venezuela,1966-01-01,25.35,25.18,VEN
+Venezuela,1967-01-01,24.91,25.18,VEN
+Venezuela,1968-01-01,24.99,25.18,VEN
+Venezuela,1969-01-01,25.58,25.16,VEN
+Venezuela,1970-01-01,25.18,25.13,VEN
+Venezuela,1971-01-01,24.62,25.07,VEN
+Venezuela,1972-01-01,25.11,25.02,VEN
+Venezuela,1973-01-01,25.41,24.98,VEN
+Venezuela,1974-01-01,24.89,24.97,VEN
+Venezuela,1975-01-01,24.87,25.0,VEN
+Venezuela,1976-01-01,24.78,25.07,VEN
+Venezuela,1977-01-01,25.33,25.17,VEN
+Venezuela,1978-01-01,25.29,25.27,VEN
+Venezuela,1979-01-01,25.45,25.36,VEN
+Venezuela,1980-01-01,25.54,25.41,VEN
+Venezuela,1981-01-01,25.32,25.42,VEN
+Venezuela,1982-01-01,25.22,25.38,VEN
+Venezuela,1983-01-01,25.68,25.33,VEN
+Venezuela,1984-01-01,25.04,25.27,VEN
+Venezuela,1985-01-01,24.83,25.22,VEN
+Venezuela,1986-01-01,25.06,25.19,VEN
+Venezuela,1987-01-01,25.82,25.19,VEN
+Venezuela,1988-01-01,25.4,25.2,VEN
+Venezuela,1989-01-01,24.88,25.22,VEN
+Venezuela,1990-01-01,25.4,25.25,VEN
+Venezuela,1991-01-01,25.3,25.29,VEN
+Venezuela,1992-01-01,25.22,25.32,VEN
+Venezuela,1993-01-01,25.22,25.35,VEN
+Venezuela,1994-01-01,25.2,25.39,VEN
+Venezuela,1995-01-01,25.61,25.43,VEN
+Venezuela,1996-01-01,25.42,25.47,VEN
+Venezuela,1997-01-01,25.61,25.52,VEN
+Venezuela,1998-01-01,26.1,25.57,VEN
+Venezuela,1999-01-01,25.31,25.62,VEN
+Venezuela,2000-01-01,25.27,25.67,VEN
+Venezuela,2001-01-01,25.79,25.71,VEN
+Venezuela,2002-01-01,25.77,25.75,VEN
+Venezuela,2003-01-01,26.08,25.78,VEN
+Venezuela,2004-01-01,25.72,25.81,VEN
+Venezuela,2005-01-01,25.88,25.82,VEN
+Venezuela,2006-01-01,25.77,25.83,VEN
+Venezuela,2007-01-01,25.72,25.82,VEN
+Venezuela,2008-01-01,25.59,25.81,VEN
+Venezuela,2009-01-01,25.98,25.8,VEN
+Venezuela,2010-01-01,26.17,25.79,VEN
+Venezuela,2011-01-01,25.69,25.8,VEN
+Venezuela,2012-01-01,25.59,25.83,VEN
+Venezuela,2013-01-01,25.76,25.88,VEN
+Venezuela,2014-01-01,25.85,25.93,VEN
+Venezuela,2015-01-01,26.26,25.97,VEN
+Venezuela,2016-01-01,26.29,25.99,VEN
+Venezuela,2017-01-01,25.87,25.99,VEN
+Venezuela,2018-01-01,25.57,25.94,VEN
+Venezuela,2019-01-01,25.87,25.86,VEN
+Venezuela,2020-01-01,25.92,25.76,VEN
+Venezuela,2021-01-01,25.61,25.64,VEN
+Venezuela,2022-01-01,25.52,25.51,VEN
 Ukraine,1901-01-01,8.64,8.23,UKR
 Ukraine,1902-01-01,7.06,8.12,UKR
 Ukraine,1903-01-01,8.73,8.01,UKR
@@ -15127,128 +15127,128 @@ Slovenia,2019-01-01,10.99,10.57,SVN
 Slovenia,2020-01-01,10.54,10.61,SVN
 Slovenia,2021-01-01,10.0,10.65,SVN
 Slovenia,2022-01-01,11.04,10.69,SVN
-Guinea Bissau,1901-01-01,27.48,27.62,GNB
-Guinea Bissau,1902-01-01,27.69,27.53,GNB
-Guinea Bissau,1903-01-01,27.52,27.46,GNB
-Guinea Bissau,1904-01-01,27.25,27.39,GNB
-Guinea Bissau,1905-01-01,27.46,27.35,GNB
-Guinea Bissau,1906-01-01,27.55,27.33,GNB
-Guinea Bissau,1907-01-01,26.87,27.34,GNB
-Guinea Bissau,1908-01-01,27.59,27.37,GNB
-Guinea Bissau,1909-01-01,27.36,27.42,GNB
-Guinea Bissau,1910-01-01,27.6,27.47,GNB
-Guinea Bissau,1911-01-01,27.36,27.52,GNB
-Guinea Bissau,1912-01-01,27.65,27.54,GNB
-Guinea Bissau,1913-01-01,27.6,27.54,GNB
-Guinea Bissau,1914-01-01,27.3,27.52,GNB
-Guinea Bissau,1915-01-01,27.8,27.49,GNB
-Guinea Bissau,1916-01-01,27.32,27.45,GNB
-Guinea Bissau,1917-01-01,27.23,27.41,GNB
-Guinea Bissau,1918-01-01,27.43,27.37,GNB
-Guinea Bissau,1919-01-01,27.71,27.33,GNB
-Guinea Bissau,1920-01-01,27.18,27.29,GNB
-Guinea Bissau,1921-01-01,27.12,27.25,GNB
-Guinea Bissau,1922-01-01,26.89,27.21,GNB
-Guinea Bissau,1923-01-01,27.36,27.17,GNB
-Guinea Bissau,1924-01-01,27.02,27.13,GNB
-Guinea Bissau,1925-01-01,27.2,27.09,GNB
-Guinea Bissau,1926-01-01,27.51,27.05,GNB
-Guinea Bissau,1927-01-01,27.07,27.03,GNB
-Guinea Bissau,1928-01-01,26.83,27.02,GNB
-Guinea Bissau,1929-01-01,26.74,27.02,GNB
-Guinea Bissau,1930-01-01,26.68,27.03,GNB
-Guinea Bissau,1931-01-01,27.28,27.05,GNB
-Guinea Bissau,1932-01-01,27.22,27.08,GNB
-Guinea Bissau,1933-01-01,27.32,27.13,GNB
-Guinea Bissau,1934-01-01,27.08,27.19,GNB
-Guinea Bissau,1935-01-01,27.1,27.24,GNB
-Guinea Bissau,1936-01-01,27.33,27.3,GNB
-Guinea Bissau,1937-01-01,27.52,27.36,GNB
-Guinea Bissau,1938-01-01,27.5,27.4,GNB
-Guinea Bissau,1939-01-01,27.31,27.43,GNB
-Guinea Bissau,1940-01-01,27.32,27.44,GNB
-Guinea Bissau,1941-01-01,27.57,27.45,GNB
-Guinea Bissau,1942-01-01,27.3,27.45,GNB
-Guinea Bissau,1943-01-01,27.15,27.45,GNB
-Guinea Bissau,1944-01-01,27.64,27.44,GNB
-Guinea Bissau,1945-01-01,27.85,27.44,GNB
-Guinea Bissau,1946-01-01,27.35,27.42,GNB
-Guinea Bissau,1947-01-01,27.37,27.39,GNB
-Guinea Bissau,1948-01-01,27.19,27.35,GNB
-Guinea Bissau,1949-01-01,27.27,27.29,GNB
-Guinea Bissau,1950-01-01,27.13,27.22,GNB
-Guinea Bissau,1951-01-01,27.2,27.15,GNB
-Guinea Bissau,1952-01-01,27.05,27.09,GNB
-Guinea Bissau,1953-01-01,27.27,27.06,GNB
-Guinea Bissau,1954-01-01,27.07,27.07,GNB
-Guinea Bissau,1955-01-01,27.22,27.11,GNB
-Guinea Bissau,1956-01-01,26.98,27.18,GNB
-Guinea Bissau,1957-01-01,27.09,27.25,GNB
-Guinea Bissau,1958-01-01,27.43,27.3,GNB
-Guinea Bissau,1959-01-01,27.22,27.32,GNB
-Guinea Bissau,1960-01-01,27.33,27.31,GNB
-Guinea Bissau,1961-01-01,27.17,27.26,GNB
-Guinea Bissau,1962-01-01,27.33,27.21,GNB
-Guinea Bissau,1963-01-01,27.51,27.17,GNB
-Guinea Bissau,1964-01-01,27.23,27.15,GNB
-Guinea Bissau,1965-01-01,26.99,27.17,GNB
-Guinea Bissau,1966-01-01,27.32,27.23,GNB
-Guinea Bissau,1967-01-01,26.76,27.29,GNB
-Guinea Bissau,1968-01-01,27.05,27.33,GNB
-Guinea Bissau,1969-01-01,27.8,27.34,GNB
-Guinea Bissau,1970-01-01,27.58,27.3,GNB
-Guinea Bissau,1971-01-01,26.83,27.21,GNB
-Guinea Bissau,1972-01-01,27.25,27.1,GNB
-Guinea Bissau,1973-01-01,27.42,27.0,GNB
-Guinea Bissau,1974-01-01,26.73,26.93,GNB
-Guinea Bissau,1975-01-01,26.71,26.91,GNB
-Guinea Bissau,1976-01-01,26.73,26.96,GNB
-Guinea Bissau,1977-01-01,27.34,27.05,GNB
-Guinea Bissau,1978-01-01,27.05,27.17,GNB
-Guinea Bissau,1979-01-01,27.37,27.28,GNB
-Guinea Bissau,1980-01-01,27.41,27.36,GNB
-Guinea Bissau,1981-01-01,27.43,27.41,GNB
-Guinea Bissau,1982-01-01,27.07,27.42,GNB
-Guinea Bissau,1983-01-01,27.86,27.41,GNB
-Guinea Bissau,1984-01-01,27.31,27.39,GNB
-Guinea Bissau,1985-01-01,27.21,27.37,GNB
-Guinea Bissau,1986-01-01,27.11,27.36,GNB
-Guinea Bissau,1987-01-01,27.73,27.37,GNB
-Guinea Bissau,1988-01-01,27.4,27.38,GNB
-Guinea Bissau,1989-01-01,27.19,27.42,GNB
-Guinea Bissau,1990-01-01,27.68,27.46,GNB
-Guinea Bissau,1991-01-01,27.65,27.51,GNB
-Guinea Bissau,1992-01-01,27.47,27.56,GNB
-Guinea Bissau,1993-01-01,27.63,27.63,GNB
-Guinea Bissau,1994-01-01,27.37,27.69,GNB
-Guinea Bissau,1995-01-01,27.57,27.75,GNB
-Guinea Bissau,1996-01-01,27.89,27.8,GNB
-Guinea Bissau,1997-01-01,28.07,27.84,GNB
-Guinea Bissau,1998-01-01,28.49,27.88,GNB
-Guinea Bissau,1999-01-01,27.49,27.92,GNB
-Guinea Bissau,2000-01-01,27.64,27.95,GNB
-Guinea Bissau,2001-01-01,28.03,27.98,GNB
-Guinea Bissau,2002-01-01,28.06,28.01,GNB
-Guinea Bissau,2003-01-01,28.01,28.03,GNB
-Guinea Bissau,2004-01-01,28.11,28.06,GNB
-Guinea Bissau,2005-01-01,28.27,28.07,GNB
-Guinea Bissau,2006-01-01,27.97,28.08,GNB
-Guinea Bissau,2007-01-01,28.04,28.07,GNB
-Guinea Bissau,2008-01-01,28.04,28.05,GNB
-Guinea Bissau,2009-01-01,27.69,28.03,GNB
-Guinea Bissau,2010-01-01,28.44,28.02,GNB
-Guinea Bissau,2011-01-01,28.0,28.01,GNB
-Guinea Bissau,2012-01-01,27.93,28.02,GNB
-Guinea Bissau,2013-01-01,28.02,28.05,GNB
-Guinea Bissau,2014-01-01,28.0,28.09,GNB
-Guinea Bissau,2015-01-01,28.16,28.13,GNB
-Guinea Bissau,2016-01-01,28.39,28.17,GNB
-Guinea Bissau,2017-01-01,28.39,28.21,GNB
-Guinea Bissau,2018-01-01,27.9,28.24,GNB
-Guinea Bissau,2019-01-01,27.85,28.27,GNB
-Guinea Bissau,2020-01-01,28.65,28.29,GNB
-Guinea Bissau,2021-01-01,28.68,28.31,GNB
-Guinea Bissau,2022-01-01,28.05,28.33,GNB
+Guinea-Bissau,1901-01-01,27.48,27.62,GNB
+Guinea-Bissau,1902-01-01,27.69,27.53,GNB
+Guinea-Bissau,1903-01-01,27.52,27.46,GNB
+Guinea-Bissau,1904-01-01,27.25,27.39,GNB
+Guinea-Bissau,1905-01-01,27.46,27.35,GNB
+Guinea-Bissau,1906-01-01,27.55,27.33,GNB
+Guinea-Bissau,1907-01-01,26.87,27.34,GNB
+Guinea-Bissau,1908-01-01,27.59,27.37,GNB
+Guinea-Bissau,1909-01-01,27.36,27.42,GNB
+Guinea-Bissau,1910-01-01,27.6,27.47,GNB
+Guinea-Bissau,1911-01-01,27.36,27.52,GNB
+Guinea-Bissau,1912-01-01,27.65,27.54,GNB
+Guinea-Bissau,1913-01-01,27.6,27.54,GNB
+Guinea-Bissau,1914-01-01,27.3,27.52,GNB
+Guinea-Bissau,1915-01-01,27.8,27.49,GNB
+Guinea-Bissau,1916-01-01,27.32,27.45,GNB
+Guinea-Bissau,1917-01-01,27.23,27.41,GNB
+Guinea-Bissau,1918-01-01,27.43,27.37,GNB
+Guinea-Bissau,1919-01-01,27.71,27.33,GNB
+Guinea-Bissau,1920-01-01,27.18,27.29,GNB
+Guinea-Bissau,1921-01-01,27.12,27.25,GNB
+Guinea-Bissau,1922-01-01,26.89,27.21,GNB
+Guinea-Bissau,1923-01-01,27.36,27.17,GNB
+Guinea-Bissau,1924-01-01,27.02,27.13,GNB
+Guinea-Bissau,1925-01-01,27.2,27.09,GNB
+Guinea-Bissau,1926-01-01,27.51,27.05,GNB
+Guinea-Bissau,1927-01-01,27.07,27.03,GNB
+Guinea-Bissau,1928-01-01,26.83,27.02,GNB
+Guinea-Bissau,1929-01-01,26.74,27.02,GNB
+Guinea-Bissau,1930-01-01,26.68,27.03,GNB
+Guinea-Bissau,1931-01-01,27.28,27.05,GNB
+Guinea-Bissau,1932-01-01,27.22,27.08,GNB
+Guinea-Bissau,1933-01-01,27.32,27.13,GNB
+Guinea-Bissau,1934-01-01,27.08,27.19,GNB
+Guinea-Bissau,1935-01-01,27.1,27.24,GNB
+Guinea-Bissau,1936-01-01,27.33,27.3,GNB
+Guinea-Bissau,1937-01-01,27.52,27.36,GNB
+Guinea-Bissau,1938-01-01,27.5,27.4,GNB
+Guinea-Bissau,1939-01-01,27.31,27.43,GNB
+Guinea-Bissau,1940-01-01,27.32,27.44,GNB
+Guinea-Bissau,1941-01-01,27.57,27.45,GNB
+Guinea-Bissau,1942-01-01,27.3,27.45,GNB
+Guinea-Bissau,1943-01-01,27.15,27.45,GNB
+Guinea-Bissau,1944-01-01,27.64,27.44,GNB
+Guinea-Bissau,1945-01-01,27.85,27.44,GNB
+Guinea-Bissau,1946-01-01,27.35,27.42,GNB
+Guinea-Bissau,1947-01-01,27.37,27.39,GNB
+Guinea-Bissau,1948-01-01,27.19,27.35,GNB
+Guinea-Bissau,1949-01-01,27.27,27.29,GNB
+Guinea-Bissau,1950-01-01,27.13,27.22,GNB
+Guinea-Bissau,1951-01-01,27.2,27.15,GNB
+Guinea-Bissau,1952-01-01,27.05,27.09,GNB
+Guinea-Bissau,1953-01-01,27.27,27.06,GNB
+Guinea-Bissau,1954-01-01,27.07,27.07,GNB
+Guinea-Bissau,1955-01-01,27.22,27.11,GNB
+Guinea-Bissau,1956-01-01,26.98,27.18,GNB
+Guinea-Bissau,1957-01-01,27.09,27.25,GNB
+Guinea-Bissau,1958-01-01,27.43,27.3,GNB
+Guinea-Bissau,1959-01-01,27.22,27.32,GNB
+Guinea-Bissau,1960-01-01,27.33,27.31,GNB
+Guinea-Bissau,1961-01-01,27.17,27.26,GNB
+Guinea-Bissau,1962-01-01,27.33,27.21,GNB
+Guinea-Bissau,1963-01-01,27.51,27.17,GNB
+Guinea-Bissau,1964-01-01,27.23,27.15,GNB
+Guinea-Bissau,1965-01-01,26.99,27.17,GNB
+Guinea-Bissau,1966-01-01,27.32,27.23,GNB
+Guinea-Bissau,1967-01-01,26.76,27.29,GNB
+Guinea-Bissau,1968-01-01,27.05,27.33,GNB
+Guinea-Bissau,1969-01-01,27.8,27.34,GNB
+Guinea-Bissau,1970-01-01,27.58,27.3,GNB
+Guinea-Bissau,1971-01-01,26.83,27.21,GNB
+Guinea-Bissau,1972-01-01,27.25,27.1,GNB
+Guinea-Bissau,1973-01-01,27.42,27.0,GNB
+Guinea-Bissau,1974-01-01,26.73,26.93,GNB
+Guinea-Bissau,1975-01-01,26.71,26.91,GNB
+Guinea-Bissau,1976-01-01,26.73,26.96,GNB
+Guinea-Bissau,1977-01-01,27.34,27.05,GNB
+Guinea-Bissau,1978-01-01,27.05,27.17,GNB
+Guinea-Bissau,1979-01-01,27.37,27.28,GNB
+Guinea-Bissau,1980-01-01,27.41,27.36,GNB
+Guinea-Bissau,1981-01-01,27.43,27.41,GNB
+Guinea-Bissau,1982-01-01,27.07,27.42,GNB
+Guinea-Bissau,1983-01-01,27.86,27.41,GNB
+Guinea-Bissau,1984-01-01,27.31,27.39,GNB
+Guinea-Bissau,1985-01-01,27.21,27.37,GNB
+Guinea-Bissau,1986-01-01,27.11,27.36,GNB
+Guinea-Bissau,1987-01-01,27.73,27.37,GNB
+Guinea-Bissau,1988-01-01,27.4,27.38,GNB
+Guinea-Bissau,1989-01-01,27.19,27.42,GNB
+Guinea-Bissau,1990-01-01,27.68,27.46,GNB
+Guinea-Bissau,1991-01-01,27.65,27.51,GNB
+Guinea-Bissau,1992-01-01,27.47,27.56,GNB
+Guinea-Bissau,1993-01-01,27.63,27.63,GNB
+Guinea-Bissau,1994-01-01,27.37,27.69,GNB
+Guinea-Bissau,1995-01-01,27.57,27.75,GNB
+Guinea-Bissau,1996-01-01,27.89,27.8,GNB
+Guinea-Bissau,1997-01-01,28.07,27.84,GNB
+Guinea-Bissau,1998-01-01,28.49,27.88,GNB
+Guinea-Bissau,1999-01-01,27.49,27.92,GNB
+Guinea-Bissau,2000-01-01,27.64,27.95,GNB
+Guinea-Bissau,2001-01-01,28.03,27.98,GNB
+Guinea-Bissau,2002-01-01,28.06,28.01,GNB
+Guinea-Bissau,2003-01-01,28.01,28.03,GNB
+Guinea-Bissau,2004-01-01,28.11,28.06,GNB
+Guinea-Bissau,2005-01-01,28.27,28.07,GNB
+Guinea-Bissau,2006-01-01,27.97,28.08,GNB
+Guinea-Bissau,2007-01-01,28.04,28.07,GNB
+Guinea-Bissau,2008-01-01,28.04,28.05,GNB
+Guinea-Bissau,2009-01-01,27.69,28.03,GNB
+Guinea-Bissau,2010-01-01,28.44,28.02,GNB
+Guinea-Bissau,2011-01-01,28.0,28.01,GNB
+Guinea-Bissau,2012-01-01,27.93,28.02,GNB
+Guinea-Bissau,2013-01-01,28.02,28.05,GNB
+Guinea-Bissau,2014-01-01,28.0,28.09,GNB
+Guinea-Bissau,2015-01-01,28.16,28.13,GNB
+Guinea-Bissau,2016-01-01,28.39,28.17,GNB
+Guinea-Bissau,2017-01-01,28.39,28.21,GNB
+Guinea-Bissau,2018-01-01,27.9,28.24,GNB
+Guinea-Bissau,2019-01-01,27.85,28.27,GNB
+Guinea-Bissau,2020-01-01,28.65,28.29,GNB
+Guinea-Bissau,2021-01-01,28.68,28.31,GNB
+Guinea-Bissau,2022-01-01,28.05,28.33,GNB
 Luxembourg,1901-01-01,8.06,8.23,LUX
 Luxembourg,1902-01-01,7.89,8.22,LUX
 Luxembourg,1903-01-01,8.54,8.22,LUX
@@ -16103,128 +16103,128 @@ Papua New Guinea,2019-01-01,24.75,24.77,PNG
 Papua New Guinea,2020-01-01,24.8,24.78,PNG
 Papua New Guinea,2021-01-01,24.79,24.78,PNG
 Papua New Guinea,2022-01-01,24.78,24.79,PNG
-"Korea, Rep.",1901-01-01,10.53,10.85,KOR
-"Korea, Rep.",1902-01-01,11.06,10.85,KOR
-"Korea, Rep.",1903-01-01,11.0,10.84,KOR
-"Korea, Rep.",1904-01-01,10.85,10.83,KOR
-"Korea, Rep.",1905-01-01,11.08,10.81,KOR
-"Korea, Rep.",1906-01-01,10.55,10.77,KOR
-"Korea, Rep.",1907-01-01,10.75,10.73,KOR
-"Korea, Rep.",1908-01-01,10.55,10.68,KOR
-"Korea, Rep.",1909-01-01,10.63,10.63,KOR
-"Korea, Rep.",1910-01-01,10.35,10.59,KOR
-"Korea, Rep.",1911-01-01,10.74,10.57,KOR
-"Korea, Rep.",1912-01-01,10.46,10.58,KOR
-"Korea, Rep.",1913-01-01,10.1,10.62,KOR
-"Korea, Rep.",1914-01-01,11.64,10.67,KOR
-"Korea, Rep.",1915-01-01,10.94,10.73,KOR
-"Korea, Rep.",1916-01-01,11.02,10.77,KOR
-"Korea, Rep.",1917-01-01,9.9,10.79,KOR
-"Korea, Rep.",1918-01-01,10.37,10.79,KOR
-"Korea, Rep.",1919-01-01,10.94,10.76,KOR
-"Korea, Rep.",1920-01-01,11.21,10.73,KOR
-"Korea, Rep.",1921-01-01,10.66,10.71,KOR
-"Korea, Rep.",1922-01-01,11.04,10.7,KOR
-"Korea, Rep.",1923-01-01,10.67,10.72,KOR
-"Korea, Rep.",1924-01-01,10.65,10.76,KOR
-"Korea, Rep.",1925-01-01,10.6,10.81,KOR
-"Korea, Rep.",1926-01-01,10.54,10.85,KOR
-"Korea, Rep.",1927-01-01,10.87,10.88,KOR
-"Korea, Rep.",1928-01-01,10.81,10.89,KOR
-"Korea, Rep.",1929-01-01,11.07,10.87,KOR
-"Korea, Rep.",1930-01-01,11.41,10.85,KOR
-"Korea, Rep.",1931-01-01,10.76,10.83,KOR
-"Korea, Rep.",1932-01-01,11.01,10.83,KOR
-"Korea, Rep.",1933-01-01,10.79,10.86,KOR
-"Korea, Rep.",1934-01-01,10.5,10.92,KOR
-"Korea, Rep.",1935-01-01,11.34,10.99,KOR
-"Korea, Rep.",1936-01-01,10.12,11.06,KOR
-"Korea, Rep.",1937-01-01,11.52,11.13,KOR
-"Korea, Rep.",1938-01-01,11.1,11.17,KOR
-"Korea, Rep.",1939-01-01,11.59,11.17,KOR
-"Korea, Rep.",1940-01-01,11.0,11.15,KOR
-"Korea, Rep.",1941-01-01,11.19,11.13,KOR
-"Korea, Rep.",1942-01-01,11.28,11.11,KOR
-"Korea, Rep.",1943-01-01,11.41,11.11,KOR
-"Korea, Rep.",1944-01-01,11.16,11.13,KOR
-"Korea, Rep.",1945-01-01,10.68,11.18,KOR
-"Korea, Rep.",1946-01-01,11.54,11.24,KOR
-"Korea, Rep.",1947-01-01,10.1,11.29,KOR
-"Korea, Rep.",1948-01-01,11.78,11.33,KOR
-"Korea, Rep.",1949-01-01,11.37,11.35,KOR
-"Korea, Rep.",1950-01-01,11.7,11.34,KOR
-"Korea, Rep.",1951-01-01,11.66,11.31,KOR
-"Korea, Rep.",1952-01-01,11.18,11.28,KOR
-"Korea, Rep.",1953-01-01,11.42,11.27,KOR
-"Korea, Rep.",1954-01-01,11.46,11.27,KOR
-"Korea, Rep.",1955-01-01,11.59,11.29,KOR
-"Korea, Rep.",1956-01-01,10.32,11.34,KOR
-"Korea, Rep.",1957-01-01,10.68,11.4,KOR
-"Korea, Rep.",1958-01-01,11.55,11.46,KOR
-"Korea, Rep.",1959-01-01,12.09,11.52,KOR
-"Korea, Rep.",1960-01-01,11.91,11.57,KOR
-"Korea, Rep.",1961-01-01,12.18,11.6,KOR
-"Korea, Rep.",1962-01-01,11.42,11.62,KOR
-"Korea, Rep.",1963-01-01,10.86,11.6,KOR
-"Korea, Rep.",1964-01-01,11.88,11.54,KOR
-"Korea, Rep.",1965-01-01,11.13,11.45,KOR
-"Korea, Rep.",1966-01-01,11.42,11.33,KOR
-"Korea, Rep.",1967-01-01,11.41,11.2,KOR
-"Korea, Rep.",1968-01-01,11.27,11.1,KOR
-"Korea, Rep.",1969-01-01,10.74,11.03,KOR
-"Korea, Rep.",1970-01-01,10.92,11.04,KOR
-"Korea, Rep.",1971-01-01,11.15,11.1,KOR
-"Korea, Rep.",1972-01-01,11.35,11.19,KOR
-"Korea, Rep.",1973-01-01,11.71,11.31,KOR
-"Korea, Rep.",1974-01-01,10.77,11.42,KOR
-"Korea, Rep.",1975-01-01,11.84,11.5,KOR
-"Korea, Rep.",1976-01-01,10.95,11.54,KOR
-"Korea, Rep.",1977-01-01,11.64,11.54,KOR
-"Korea, Rep.",1978-01-01,12.15,11.52,KOR
-"Korea, Rep.",1979-01-01,12.01,11.48,KOR
-"Korea, Rep.",1980-01-01,10.59,11.43,KOR
-"Korea, Rep.",1981-01-01,10.82,11.37,KOR
-"Korea, Rep.",1982-01-01,11.81,11.32,KOR
-"Korea, Rep.",1983-01-01,11.65,11.28,KOR
-"Korea, Rep.",1984-01-01,11.07,11.28,KOR
-"Korea, Rep.",1985-01-01,11.44,11.31,KOR
-"Korea, Rep.",1986-01-01,10.88,11.39,KOR
-"Korea, Rep.",1987-01-01,11.66,11.51,KOR
-"Korea, Rep.",1988-01-01,11.48,11.65,KOR
-"Korea, Rep.",1989-01-01,12.15,11.79,KOR
-"Korea, Rep.",1990-01-01,12.51,11.91,KOR
-"Korea, Rep.",1991-01-01,11.71,11.99,KOR
-"Korea, Rep.",1992-01-01,11.94,12.04,KOR
-"Korea, Rep.",1993-01-01,11.27,12.06,KOR
-"Korea, Rep.",1994-01-01,12.77,12.07,KOR
-"Korea, Rep.",1995-01-01,11.77,12.07,KOR
-"Korea, Rep.",1996-01-01,11.58,12.09,KOR
-"Korea, Rep.",1997-01-01,12.3,12.12,KOR
-"Korea, Rep.",1998-01-01,12.96,12.16,KOR
-"Korea, Rep.",1999-01-01,12.3,12.2,KOR
-"Korea, Rep.",2000-01-01,12.07,12.24,KOR
-"Korea, Rep.",2001-01-01,12.35,12.28,KOR
-"Korea, Rep.",2002-01-01,12.19,12.29,KOR
-"Korea, Rep.",2003-01-01,11.91,12.29,KOR
-"Korea, Rep.",2004-01-01,12.57,12.28,KOR
-"Korea, Rep.",2005-01-01,11.65,12.25,KOR
-"Korea, Rep.",2006-01-01,12.13,12.2,KOR
-"Korea, Rep.",2007-01-01,12.61,12.13,KOR
-"Korea, Rep.",2008-01-01,12.27,12.06,KOR
-"Korea, Rep.",2009-01-01,12.25,12.0,KOR
-"Korea, Rep.",2010-01-01,11.98,11.96,KOR
-"Korea, Rep.",2011-01-01,11.63,11.97,KOR
-"Korea, Rep.",2012-01-01,11.63,12.03,KOR
-"Korea, Rep.",2013-01-01,12.25,12.15,KOR
-"Korea, Rep.",2014-01-01,12.38,12.3,KOR
-"Korea, Rep.",2015-01-01,12.66,12.46,KOR
-"Korea, Rep.",2016-01-01,12.89,12.61,KOR
-"Korea, Rep.",2017-01-01,12.56,12.73,KOR
-"Korea, Rep.",2018-01-01,12.46,12.8,KOR
-"Korea, Rep.",2019-01-01,13.03,12.84,KOR
-"Korea, Rep.",2020-01-01,12.63,12.86,KOR
-"Korea, Rep.",2021-01-01,13.14,12.85,KOR
-"Korea, Rep.",2022-01-01,12.76,12.84,KOR
+South Korea,1901-01-01,10.53,10.85,KOR
+South Korea,1902-01-01,11.06,10.85,KOR
+South Korea,1903-01-01,11.0,10.84,KOR
+South Korea,1904-01-01,10.85,10.83,KOR
+South Korea,1905-01-01,11.08,10.81,KOR
+South Korea,1906-01-01,10.55,10.77,KOR
+South Korea,1907-01-01,10.75,10.73,KOR
+South Korea,1908-01-01,10.55,10.68,KOR
+South Korea,1909-01-01,10.63,10.63,KOR
+South Korea,1910-01-01,10.35,10.59,KOR
+South Korea,1911-01-01,10.74,10.57,KOR
+South Korea,1912-01-01,10.46,10.58,KOR
+South Korea,1913-01-01,10.1,10.62,KOR
+South Korea,1914-01-01,11.64,10.67,KOR
+South Korea,1915-01-01,10.94,10.73,KOR
+South Korea,1916-01-01,11.02,10.77,KOR
+South Korea,1917-01-01,9.9,10.79,KOR
+South Korea,1918-01-01,10.37,10.79,KOR
+South Korea,1919-01-01,10.94,10.76,KOR
+South Korea,1920-01-01,11.21,10.73,KOR
+South Korea,1921-01-01,10.66,10.71,KOR
+South Korea,1922-01-01,11.04,10.7,KOR
+South Korea,1923-01-01,10.67,10.72,KOR
+South Korea,1924-01-01,10.65,10.76,KOR
+South Korea,1925-01-01,10.6,10.81,KOR
+South Korea,1926-01-01,10.54,10.85,KOR
+South Korea,1927-01-01,10.87,10.88,KOR
+South Korea,1928-01-01,10.81,10.89,KOR
+South Korea,1929-01-01,11.07,10.87,KOR
+South Korea,1930-01-01,11.41,10.85,KOR
+South Korea,1931-01-01,10.76,10.83,KOR
+South Korea,1932-01-01,11.01,10.83,KOR
+South Korea,1933-01-01,10.79,10.86,KOR
+South Korea,1934-01-01,10.5,10.92,KOR
+South Korea,1935-01-01,11.34,10.99,KOR
+South Korea,1936-01-01,10.12,11.06,KOR
+South Korea,1937-01-01,11.52,11.13,KOR
+South Korea,1938-01-01,11.1,11.17,KOR
+South Korea,1939-01-01,11.59,11.17,KOR
+South Korea,1940-01-01,11.0,11.15,KOR
+South Korea,1941-01-01,11.19,11.13,KOR
+South Korea,1942-01-01,11.28,11.11,KOR
+South Korea,1943-01-01,11.41,11.11,KOR
+South Korea,1944-01-01,11.16,11.13,KOR
+South Korea,1945-01-01,10.68,11.18,KOR
+South Korea,1946-01-01,11.54,11.24,KOR
+South Korea,1947-01-01,10.1,11.29,KOR
+South Korea,1948-01-01,11.78,11.33,KOR
+South Korea,1949-01-01,11.37,11.35,KOR
+South Korea,1950-01-01,11.7,11.34,KOR
+South Korea,1951-01-01,11.66,11.31,KOR
+South Korea,1952-01-01,11.18,11.28,KOR
+South Korea,1953-01-01,11.42,11.27,KOR
+South Korea,1954-01-01,11.46,11.27,KOR
+South Korea,1955-01-01,11.59,11.29,KOR
+South Korea,1956-01-01,10.32,11.34,KOR
+South Korea,1957-01-01,10.68,11.4,KOR
+South Korea,1958-01-01,11.55,11.46,KOR
+South Korea,1959-01-01,12.09,11.52,KOR
+South Korea,1960-01-01,11.91,11.57,KOR
+South Korea,1961-01-01,12.18,11.6,KOR
+South Korea,1962-01-01,11.42,11.62,KOR
+South Korea,1963-01-01,10.86,11.6,KOR
+South Korea,1964-01-01,11.88,11.54,KOR
+South Korea,1965-01-01,11.13,11.45,KOR
+South Korea,1966-01-01,11.42,11.33,KOR
+South Korea,1967-01-01,11.41,11.2,KOR
+South Korea,1968-01-01,11.27,11.1,KOR
+South Korea,1969-01-01,10.74,11.03,KOR
+South Korea,1970-01-01,10.92,11.04,KOR
+South Korea,1971-01-01,11.15,11.1,KOR
+South Korea,1972-01-01,11.35,11.19,KOR
+South Korea,1973-01-01,11.71,11.31,KOR
+South Korea,1974-01-01,10.77,11.42,KOR
+South Korea,1975-01-01,11.84,11.5,KOR
+South Korea,1976-01-01,10.95,11.54,KOR
+South Korea,1977-01-01,11.64,11.54,KOR
+South Korea,1978-01-01,12.15,11.52,KOR
+South Korea,1979-01-01,12.01,11.48,KOR
+South Korea,1980-01-01,10.59,11.43,KOR
+South Korea,1981-01-01,10.82,11.37,KOR
+South Korea,1982-01-01,11.81,11.32,KOR
+South Korea,1983-01-01,11.65,11.28,KOR
+South Korea,1984-01-01,11.07,11.28,KOR
+South Korea,1985-01-01,11.44,11.31,KOR
+South Korea,1986-01-01,10.88,11.39,KOR
+South Korea,1987-01-01,11.66,11.51,KOR
+South Korea,1988-01-01,11.48,11.65,KOR
+South Korea,1989-01-01,12.15,11.79,KOR
+South Korea,1990-01-01,12.51,11.91,KOR
+South Korea,1991-01-01,11.71,11.99,KOR
+South Korea,1992-01-01,11.94,12.04,KOR
+South Korea,1993-01-01,11.27,12.06,KOR
+South Korea,1994-01-01,12.77,12.07,KOR
+South Korea,1995-01-01,11.77,12.07,KOR
+South Korea,1996-01-01,11.58,12.09,KOR
+South Korea,1997-01-01,12.3,12.12,KOR
+South Korea,1998-01-01,12.96,12.16,KOR
+South Korea,1999-01-01,12.3,12.2,KOR
+South Korea,2000-01-01,12.07,12.24,KOR
+South Korea,2001-01-01,12.35,12.28,KOR
+South Korea,2002-01-01,12.19,12.29,KOR
+South Korea,2003-01-01,11.91,12.29,KOR
+South Korea,2004-01-01,12.57,12.28,KOR
+South Korea,2005-01-01,11.65,12.25,KOR
+South Korea,2006-01-01,12.13,12.2,KOR
+South Korea,2007-01-01,12.61,12.13,KOR
+South Korea,2008-01-01,12.27,12.06,KOR
+South Korea,2009-01-01,12.25,12.0,KOR
+South Korea,2010-01-01,11.98,11.96,KOR
+South Korea,2011-01-01,11.63,11.97,KOR
+South Korea,2012-01-01,11.63,12.03,KOR
+South Korea,2013-01-01,12.25,12.15,KOR
+South Korea,2014-01-01,12.38,12.3,KOR
+South Korea,2015-01-01,12.66,12.46,KOR
+South Korea,2016-01-01,12.89,12.61,KOR
+South Korea,2017-01-01,12.56,12.73,KOR
+South Korea,2018-01-01,12.46,12.8,KOR
+South Korea,2019-01-01,13.03,12.84,KOR
+South Korea,2020-01-01,12.63,12.86,KOR
+South Korea,2021-01-01,13.14,12.85,KOR
+South Korea,2022-01-01,12.76,12.84,KOR
 Moldova,1901-01-01,10.17,9.8,MDA
 Moldova,1902-01-01,8.89,9.77,MDA
 Moldova,1903-01-01,10.39,9.75,MDA
@@ -18543,250 +18543,250 @@ Mauritania,2019-01-01,28.67,28.95,MRT
 Mauritania,2020-01-01,29.11,28.98,MRT
 Mauritania,2021-01-01,29.3,29.01,MRT
 Mauritania,2022-01-01,28.9,29.05,MRT
-"Bahamas,",1901-01-01,23.81,24.08,BHS
-"Bahamas,",1902-01-01,24.48,24.17,BHS
-"Bahamas,",1903-01-01,24.25,24.25,BHS
-"Bahamas,",1904-01-01,24.2,24.33,BHS
-"Bahamas,",1905-01-01,24.74,24.41,BHS
-"Bahamas,",1906-01-01,24.26,24.47,BHS
-"Bahamas,",1907-01-01,24.67,24.52,BHS
-"Bahamas,",1908-01-01,24.64,24.55,BHS
-"Bahamas,",1909-01-01,24.53,24.57,BHS
-"Bahamas,",1910-01-01,23.61,24.57,BHS
-"Bahamas,",1911-01-01,24.87,24.55,BHS
-"Bahamas,",1912-01-01,25.0,24.51,BHS
-"Bahamas,",1913-01-01,24.64,24.46,BHS
-"Bahamas,",1914-01-01,24.29,24.41,BHS
-"Bahamas,",1915-01-01,24.29,24.37,BHS
-"Bahamas,",1916-01-01,24.35,24.35,BHS
-"Bahamas,",1917-01-01,24.13,24.37,BHS
-"Bahamas,",1918-01-01,24.51,24.42,BHS
-"Bahamas,",1919-01-01,24.7,24.51,BHS
-"Bahamas,",1920-01-01,24.44,24.6,BHS
-"Bahamas,",1921-01-01,24.83,24.69,BHS
-"Bahamas,",1922-01-01,24.73,24.77,BHS
-"Bahamas,",1923-01-01,24.62,24.81,BHS
-"Bahamas,",1924-01-01,24.91,24.83,BHS
-"Bahamas,",1925-01-01,24.93,24.83,BHS
-"Bahamas,",1926-01-01,24.85,24.82,BHS
-"Bahamas,",1927-01-01,24.81,24.8,BHS
-"Bahamas,",1928-01-01,24.52,24.79,BHS
-"Bahamas,",1929-01-01,25.13,24.78,BHS
-"Bahamas,",1930-01-01,24.6,24.77,BHS
-"Bahamas,",1931-01-01,24.56,24.77,BHS
-"Bahamas,",1932-01-01,25.0,24.77,BHS
-"Bahamas,",1933-01-01,25.0,24.78,BHS
-"Bahamas,",1934-01-01,24.65,24.78,BHS
-"Bahamas,",1935-01-01,24.53,24.78,BHS
-"Bahamas,",1936-01-01,24.82,24.78,BHS
-"Bahamas,",1937-01-01,24.83,24.76,BHS
-"Bahamas,",1938-01-01,24.74,24.73,BHS
-"Bahamas,",1939-01-01,25.01,24.68,BHS
-"Bahamas,",1940-01-01,24.17,24.63,BHS
-"Bahamas,",1941-01-01,24.77,24.59,BHS
-"Bahamas,",1942-01-01,24.64,24.58,BHS
-"Bahamas,",1943-01-01,24.48,24.62,BHS
-"Bahamas,",1944-01-01,24.69,24.71,BHS
-"Bahamas,",1945-01-01,24.73,24.84,BHS
-"Bahamas,",1946-01-01,25.17,24.97,BHS
-"Bahamas,",1947-01-01,25.0,25.08,BHS
-"Bahamas,",1948-01-01,25.59,25.14,BHS
-"Bahamas,",1949-01-01,25.08,25.11,BHS
-"Bahamas,",1950-01-01,24.57,25.01,BHS
-"Bahamas,",1951-01-01,24.67,24.87,BHS
-"Bahamas,",1952-01-01,24.75,24.73,BHS
-"Bahamas,",1953-01-01,25.0,24.62,BHS
-"Bahamas,",1954-01-01,24.55,24.57,BHS
-"Bahamas,",1955-01-01,24.54,24.59,BHS
-"Bahamas,",1956-01-01,24.4,24.66,BHS
-"Bahamas,",1957-01-01,25.09,24.76,BHS
-"Bahamas,",1958-01-01,24.67,24.85,BHS
-"Bahamas,",1959-01-01,25.19,24.91,BHS
-"Bahamas,",1960-01-01,24.72,24.93,BHS
-"Bahamas,",1961-01-01,24.96,24.91,BHS
-"Bahamas,",1962-01-01,24.67,24.86,BHS
-"Bahamas,",1963-01-01,24.62,24.8,BHS
-"Bahamas,",1964-01-01,25.05,24.74,BHS
-"Bahamas,",1965-01-01,24.91,24.68,BHS
-"Bahamas,",1966-01-01,24.52,24.64,BHS
-"Bahamas,",1967-01-01,24.85,24.62,BHS
-"Bahamas,",1968-01-01,24.14,24.62,BHS
-"Bahamas,",1969-01-01,24.54,24.64,BHS
-"Bahamas,",1970-01-01,24.51,24.68,BHS
-"Bahamas,",1971-01-01,24.85,24.74,BHS
-"Bahamas,",1972-01-01,25.24,24.81,BHS
-"Bahamas,",1973-01-01,24.95,24.88,BHS
-"Bahamas,",1974-01-01,25.01,24.94,BHS
-"Bahamas,",1975-01-01,25.26,24.97,BHS
-"Bahamas,",1976-01-01,24.51,24.97,BHS
-"Bahamas,",1977-01-01,24.67,24.96,BHS
-"Bahamas,",1978-01-01,24.8,24.93,BHS
-"Bahamas,",1979-01-01,24.96,24.9,BHS
-"Bahamas,",1980-01-01,24.98,24.89,BHS
-"Bahamas,",1981-01-01,24.72,24.88,BHS
-"Bahamas,",1982-01-01,25.53,24.9,BHS
-"Bahamas,",1983-01-01,24.97,24.93,BHS
-"Bahamas,",1984-01-01,24.77,24.98,BHS
-"Bahamas,",1985-01-01,24.9,25.05,BHS
-"Bahamas,",1986-01-01,25.23,25.13,BHS
-"Bahamas,",1987-01-01,25.11,25.22,BHS
-"Bahamas,",1988-01-01,25.14,25.31,BHS
-"Bahamas,",1989-01-01,25.35,25.4,BHS
-"Bahamas,",1990-01-01,25.78,25.46,BHS
-"Bahamas,",1991-01-01,25.74,25.49,BHS
-"Bahamas,",1992-01-01,25.12,25.5,BHS
-"Bahamas,",1993-01-01,25.33,25.49,BHS
-"Bahamas,",1994-01-01,25.87,25.47,BHS
-"Bahamas,",1995-01-01,25.4,25.44,BHS
-"Bahamas,",1996-01-01,25.02,25.42,BHS
-"Bahamas,",1997-01-01,25.57,25.41,BHS
-"Bahamas,",1998-01-01,25.77,25.41,BHS
-"Bahamas,",1999-01-01,25.31,25.41,BHS
-"Bahamas,",2000-01-01,25.19,25.42,BHS
-"Bahamas,",2001-01-01,25.31,25.44,BHS
-"Bahamas,",2002-01-01,25.69,25.46,BHS
-"Bahamas,",2003-01-01,25.58,25.47,BHS
-"Bahamas,",2004-01-01,25.35,25.48,BHS
-"Bahamas,",2005-01-01,25.35,25.48,BHS
-"Bahamas,",2006-01-01,25.5,25.46,BHS
-"Bahamas,",2007-01-01,25.67,25.42,BHS
-"Bahamas,",2008-01-01,25.33,25.37,BHS
-"Bahamas,",2009-01-01,25.49,25.33,BHS
-"Bahamas,",2010-01-01,24.67,25.32,BHS
-"Bahamas,",2011-01-01,25.56,25.35,BHS
-"Bahamas,",2012-01-01,25.42,25.43,BHS
-"Bahamas,",2013-01-01,25.62,25.58,BHS
-"Bahamas,",2014-01-01,25.69,25.75,BHS
-"Bahamas,",2015-01-01,26.47,25.92,BHS
-"Bahamas,",2016-01-01,25.95,26.07,BHS
-"Bahamas,",2017-01-01,26.03,26.17,BHS
-"Bahamas,",2018-01-01,25.85,26.2,BHS
-"Bahamas,",2019-01-01,26.28,26.18,BHS
-"Bahamas,",2020-01-01,26.32,26.13,BHS
-"Bahamas,",2021-01-01,25.87,26.05,BHS
-"Bahamas,",2022-01-01,26.05,25.95,BHS
-Myanmar,1901-01-01,23.53,23.38,MMR
-Myanmar,1902-01-01,23.28,23.37,MMR
-Myanmar,1903-01-01,23.36,23.36,MMR
-Myanmar,1904-01-01,23.14,23.35,MMR
-Myanmar,1905-01-01,23.2,23.33,MMR
-Myanmar,1906-01-01,23.57,23.32,MMR
-Myanmar,1907-01-01,23.22,23.31,MMR
-Myanmar,1908-01-01,23.39,23.3,MMR
-Myanmar,1909-01-01,23.5,23.29,MMR
-Myanmar,1910-01-01,23.16,23.28,MMR
-Myanmar,1911-01-01,23.19,23.27,MMR
-Myanmar,1912-01-01,23.29,23.27,MMR
-Myanmar,1913-01-01,23.17,23.27,MMR
-Myanmar,1914-01-01,23.19,23.28,MMR
-Myanmar,1915-01-01,23.53,23.3,MMR
-Myanmar,1916-01-01,23.41,23.33,MMR
-Myanmar,1917-01-01,23.2,23.37,MMR
-Myanmar,1918-01-01,23.23,23.42,MMR
-Myanmar,1919-01-01,23.72,23.47,MMR
-Myanmar,1920-01-01,23.5,23.53,MMR
-Myanmar,1921-01-01,23.54,23.56,MMR
-Myanmar,1922-01-01,23.69,23.58,MMR
-Myanmar,1923-01-01,23.52,23.57,MMR
-Myanmar,1924-01-01,23.67,23.55,MMR
-Myanmar,1925-01-01,23.16,23.52,MMR
-Myanmar,1926-01-01,23.66,23.5,MMR
-Myanmar,1927-01-01,23.41,23.5,MMR
-Myanmar,1928-01-01,23.69,23.53,MMR
-Myanmar,1929-01-01,23.61,23.59,MMR
-Myanmar,1930-01-01,23.53,23.65,MMR
-Myanmar,1931-01-01,23.9,23.71,MMR
-Myanmar,1932-01-01,23.65,23.74,MMR
-Myanmar,1933-01-01,23.7,23.74,MMR
-Myanmar,1934-01-01,23.54,23.7,MMR
-Myanmar,1935-01-01,23.8,23.64,MMR
-Myanmar,1936-01-01,23.52,23.57,MMR
-Myanmar,1937-01-01,23.73,23.51,MMR
-Myanmar,1938-01-01,23.39,23.48,MMR
-Myanmar,1939-01-01,23.34,23.48,MMR
-Myanmar,1940-01-01,23.32,23.51,MMR
-Myanmar,1941-01-01,23.9,23.55,MMR
-Myanmar,1942-01-01,23.72,23.59,MMR
-Myanmar,1943-01-01,23.36,23.62,MMR
-Myanmar,1944-01-01,23.56,23.64,MMR
-Myanmar,1945-01-01,23.53,23.62,MMR
-Myanmar,1946-01-01,23.84,23.6,MMR
-Myanmar,1947-01-01,23.81,23.56,MMR
-Myanmar,1948-01-01,23.33,23.5,MMR
-Myanmar,1949-01-01,23.19,23.44,MMR
-Myanmar,1950-01-01,23.29,23.38,MMR
-Myanmar,1951-01-01,23.4,23.33,MMR
-Myanmar,1952-01-01,23.46,23.29,MMR
-Myanmar,1953-01-01,23.5,23.26,MMR
-Myanmar,1954-01-01,23.31,23.27,MMR
-Myanmar,1955-01-01,23.03,23.3,MMR
-Myanmar,1956-01-01,23.07,23.35,MMR
-Myanmar,1957-01-01,23.4,23.39,MMR
-Myanmar,1958-01-01,23.7,23.44,MMR
-Myanmar,1959-01-01,23.41,23.46,MMR
-Myanmar,1960-01-01,23.68,23.45,MMR
-Myanmar,1961-01-01,23.35,23.42,MMR
-Myanmar,1962-01-01,23.25,23.39,MMR
-Myanmar,1963-01-01,23.24,23.35,MMR
-Myanmar,1964-01-01,23.33,23.32,MMR
-Myanmar,1965-01-01,23.22,23.31,MMR
-Myanmar,1966-01-01,23.7,23.31,MMR
-Myanmar,1967-01-01,23.19,23.32,MMR
-Myanmar,1968-01-01,23.22,23.32,MMR
-Myanmar,1969-01-01,23.52,23.32,MMR
-Myanmar,1970-01-01,23.3,23.31,MMR
-Myanmar,1971-01-01,22.9,23.3,MMR
-Myanmar,1972-01-01,23.41,23.27,MMR
-Myanmar,1973-01-01,23.55,23.26,MMR
-Myanmar,1974-01-01,23.11,23.26,MMR
-Myanmar,1975-01-01,23.32,23.28,MMR
-Myanmar,1976-01-01,23.22,23.32,MMR
-Myanmar,1977-01-01,23.13,23.38,MMR
-Myanmar,1978-01-01,23.49,23.44,MMR
-Myanmar,1979-01-01,23.98,23.49,MMR
-Myanmar,1980-01-01,23.7,23.53,MMR
-Myanmar,1981-01-01,23.39,23.54,MMR
-Myanmar,1982-01-01,23.29,23.53,MMR
-Myanmar,1983-01-01,23.37,23.52,MMR
-Myanmar,1984-01-01,23.4,23.51,MMR
-Myanmar,1985-01-01,23.45,23.51,MMR
-Myanmar,1986-01-01,23.44,23.52,MMR
-Myanmar,1987-01-01,23.9,23.55,MMR
-Myanmar,1988-01-01,23.88,23.59,MMR
-Myanmar,1989-01-01,23.53,23.62,MMR
-Myanmar,1990-01-01,23.75,23.65,MMR
-Myanmar,1991-01-01,23.7,23.67,MMR
-Myanmar,1992-01-01,23.28,23.67,MMR
-Myanmar,1993-01-01,23.47,23.66,MMR
-Myanmar,1994-01-01,23.73,23.65,MMR
-Myanmar,1995-01-01,23.79,23.64,MMR
-Myanmar,1996-01-01,23.57,23.65,MMR
-Myanmar,1997-01-01,23.48,23.67,MMR
-Myanmar,1998-01-01,24.19,23.7,MMR
-Myanmar,1999-01-01,23.84,23.73,MMR
-Myanmar,2000-01-01,23.46,23.76,MMR
-Myanmar,2001-01-01,23.87,23.79,MMR
-Myanmar,2002-01-01,23.8,23.8,MMR
-Myanmar,2003-01-01,23.74,23.81,MMR
-Myanmar,2004-01-01,23.59,23.82,MMR
-Myanmar,2005-01-01,24.02,23.83,MMR
-Myanmar,2006-01-01,23.96,23.84,MMR
-Myanmar,2007-01-01,23.72,23.86,MMR
-Myanmar,2008-01-01,23.63,23.89,MMR
-Myanmar,2009-01-01,24.15,23.91,MMR
-Myanmar,2010-01-01,24.44,23.94,MMR
-Myanmar,2011-01-01,23.68,23.96,MMR
-Myanmar,2012-01-01,23.93,23.96,MMR
-Myanmar,2013-01-01,23.72,23.96,MMR
-Myanmar,2014-01-01,23.98,23.96,MMR
-Myanmar,2015-01-01,23.93,23.95,MMR
-Myanmar,2016-01-01,24.13,23.95,MMR
-Myanmar,2017-01-01,23.94,23.95,MMR
-Myanmar,2018-01-01,23.7,23.96,MMR
-Myanmar,2019-01-01,24.2,23.99,MMR
-Myanmar,2020-01-01,24.08,24.02,MMR
-Myanmar,2021-01-01,24.11,24.05,MMR
-Myanmar,2022-01-01,23.96,24.08,MMR
+The Bahamas,1901-01-01,23.81,24.08,BHS
+The Bahamas,1902-01-01,24.48,24.17,BHS
+The Bahamas,1903-01-01,24.25,24.25,BHS
+The Bahamas,1904-01-01,24.2,24.33,BHS
+The Bahamas,1905-01-01,24.74,24.41,BHS
+The Bahamas,1906-01-01,24.26,24.47,BHS
+The Bahamas,1907-01-01,24.67,24.52,BHS
+The Bahamas,1908-01-01,24.64,24.55,BHS
+The Bahamas,1909-01-01,24.53,24.57,BHS
+The Bahamas,1910-01-01,23.61,24.57,BHS
+The Bahamas,1911-01-01,24.87,24.55,BHS
+The Bahamas,1912-01-01,25.0,24.51,BHS
+The Bahamas,1913-01-01,24.64,24.46,BHS
+The Bahamas,1914-01-01,24.29,24.41,BHS
+The Bahamas,1915-01-01,24.29,24.37,BHS
+The Bahamas,1916-01-01,24.35,24.35,BHS
+The Bahamas,1917-01-01,24.13,24.37,BHS
+The Bahamas,1918-01-01,24.51,24.42,BHS
+The Bahamas,1919-01-01,24.7,24.51,BHS
+The Bahamas,1920-01-01,24.44,24.6,BHS
+The Bahamas,1921-01-01,24.83,24.69,BHS
+The Bahamas,1922-01-01,24.73,24.77,BHS
+The Bahamas,1923-01-01,24.62,24.81,BHS
+The Bahamas,1924-01-01,24.91,24.83,BHS
+The Bahamas,1925-01-01,24.93,24.83,BHS
+The Bahamas,1926-01-01,24.85,24.82,BHS
+The Bahamas,1927-01-01,24.81,24.8,BHS
+The Bahamas,1928-01-01,24.52,24.79,BHS
+The Bahamas,1929-01-01,25.13,24.78,BHS
+The Bahamas,1930-01-01,24.6,24.77,BHS
+The Bahamas,1931-01-01,24.56,24.77,BHS
+The Bahamas,1932-01-01,25.0,24.77,BHS
+The Bahamas,1933-01-01,25.0,24.78,BHS
+The Bahamas,1934-01-01,24.65,24.78,BHS
+The Bahamas,1935-01-01,24.53,24.78,BHS
+The Bahamas,1936-01-01,24.82,24.78,BHS
+The Bahamas,1937-01-01,24.83,24.76,BHS
+The Bahamas,1938-01-01,24.74,24.73,BHS
+The Bahamas,1939-01-01,25.01,24.68,BHS
+The Bahamas,1940-01-01,24.17,24.63,BHS
+The Bahamas,1941-01-01,24.77,24.59,BHS
+The Bahamas,1942-01-01,24.64,24.58,BHS
+The Bahamas,1943-01-01,24.48,24.62,BHS
+The Bahamas,1944-01-01,24.69,24.71,BHS
+The Bahamas,1945-01-01,24.73,24.84,BHS
+The Bahamas,1946-01-01,25.17,24.97,BHS
+The Bahamas,1947-01-01,25.0,25.08,BHS
+The Bahamas,1948-01-01,25.59,25.14,BHS
+The Bahamas,1949-01-01,25.08,25.11,BHS
+The Bahamas,1950-01-01,24.57,25.01,BHS
+The Bahamas,1951-01-01,24.67,24.87,BHS
+The Bahamas,1952-01-01,24.75,24.73,BHS
+The Bahamas,1953-01-01,25.0,24.62,BHS
+The Bahamas,1954-01-01,24.55,24.57,BHS
+The Bahamas,1955-01-01,24.54,24.59,BHS
+The Bahamas,1956-01-01,24.4,24.66,BHS
+The Bahamas,1957-01-01,25.09,24.76,BHS
+The Bahamas,1958-01-01,24.67,24.85,BHS
+The Bahamas,1959-01-01,25.19,24.91,BHS
+The Bahamas,1960-01-01,24.72,24.93,BHS
+The Bahamas,1961-01-01,24.96,24.91,BHS
+The Bahamas,1962-01-01,24.67,24.86,BHS
+The Bahamas,1963-01-01,24.62,24.8,BHS
+The Bahamas,1964-01-01,25.05,24.74,BHS
+The Bahamas,1965-01-01,24.91,24.68,BHS
+The Bahamas,1966-01-01,24.52,24.64,BHS
+The Bahamas,1967-01-01,24.85,24.62,BHS
+The Bahamas,1968-01-01,24.14,24.62,BHS
+The Bahamas,1969-01-01,24.54,24.64,BHS
+The Bahamas,1970-01-01,24.51,24.68,BHS
+The Bahamas,1971-01-01,24.85,24.74,BHS
+The Bahamas,1972-01-01,25.24,24.81,BHS
+The Bahamas,1973-01-01,24.95,24.88,BHS
+The Bahamas,1974-01-01,25.01,24.94,BHS
+The Bahamas,1975-01-01,25.26,24.97,BHS
+The Bahamas,1976-01-01,24.51,24.97,BHS
+The Bahamas,1977-01-01,24.67,24.96,BHS
+The Bahamas,1978-01-01,24.8,24.93,BHS
+The Bahamas,1979-01-01,24.96,24.9,BHS
+The Bahamas,1980-01-01,24.98,24.89,BHS
+The Bahamas,1981-01-01,24.72,24.88,BHS
+The Bahamas,1982-01-01,25.53,24.9,BHS
+The Bahamas,1983-01-01,24.97,24.93,BHS
+The Bahamas,1984-01-01,24.77,24.98,BHS
+The Bahamas,1985-01-01,24.9,25.05,BHS
+The Bahamas,1986-01-01,25.23,25.13,BHS
+The Bahamas,1987-01-01,25.11,25.22,BHS
+The Bahamas,1988-01-01,25.14,25.31,BHS
+The Bahamas,1989-01-01,25.35,25.4,BHS
+The Bahamas,1990-01-01,25.78,25.46,BHS
+The Bahamas,1991-01-01,25.74,25.49,BHS
+The Bahamas,1992-01-01,25.12,25.5,BHS
+The Bahamas,1993-01-01,25.33,25.49,BHS
+The Bahamas,1994-01-01,25.87,25.47,BHS
+The Bahamas,1995-01-01,25.4,25.44,BHS
+The Bahamas,1996-01-01,25.02,25.42,BHS
+The Bahamas,1997-01-01,25.57,25.41,BHS
+The Bahamas,1998-01-01,25.77,25.41,BHS
+The Bahamas,1999-01-01,25.31,25.41,BHS
+The Bahamas,2000-01-01,25.19,25.42,BHS
+The Bahamas,2001-01-01,25.31,25.44,BHS
+The Bahamas,2002-01-01,25.69,25.46,BHS
+The Bahamas,2003-01-01,25.58,25.47,BHS
+The Bahamas,2004-01-01,25.35,25.48,BHS
+The Bahamas,2005-01-01,25.35,25.48,BHS
+The Bahamas,2006-01-01,25.5,25.46,BHS
+The Bahamas,2007-01-01,25.67,25.42,BHS
+The Bahamas,2008-01-01,25.33,25.37,BHS
+The Bahamas,2009-01-01,25.49,25.33,BHS
+The Bahamas,2010-01-01,24.67,25.32,BHS
+The Bahamas,2011-01-01,25.56,25.35,BHS
+The Bahamas,2012-01-01,25.42,25.43,BHS
+The Bahamas,2013-01-01,25.62,25.58,BHS
+The Bahamas,2014-01-01,25.69,25.75,BHS
+The Bahamas,2015-01-01,26.47,25.92,BHS
+The Bahamas,2016-01-01,25.95,26.07,BHS
+The Bahamas,2017-01-01,26.03,26.17,BHS
+The Bahamas,2018-01-01,25.85,26.2,BHS
+The Bahamas,2019-01-01,26.28,26.18,BHS
+The Bahamas,2020-01-01,26.32,26.13,BHS
+The Bahamas,2021-01-01,25.87,26.05,BHS
+The Bahamas,2022-01-01,26.05,25.95,BHS
+Burma,1901-01-01,23.53,23.38,MMR
+Burma,1902-01-01,23.28,23.37,MMR
+Burma,1903-01-01,23.36,23.36,MMR
+Burma,1904-01-01,23.14,23.35,MMR
+Burma,1905-01-01,23.2,23.33,MMR
+Burma,1906-01-01,23.57,23.32,MMR
+Burma,1907-01-01,23.22,23.31,MMR
+Burma,1908-01-01,23.39,23.3,MMR
+Burma,1909-01-01,23.5,23.29,MMR
+Burma,1910-01-01,23.16,23.28,MMR
+Burma,1911-01-01,23.19,23.27,MMR
+Burma,1912-01-01,23.29,23.27,MMR
+Burma,1913-01-01,23.17,23.27,MMR
+Burma,1914-01-01,23.19,23.28,MMR
+Burma,1915-01-01,23.53,23.3,MMR
+Burma,1916-01-01,23.41,23.33,MMR
+Burma,1917-01-01,23.2,23.37,MMR
+Burma,1918-01-01,23.23,23.42,MMR
+Burma,1919-01-01,23.72,23.47,MMR
+Burma,1920-01-01,23.5,23.53,MMR
+Burma,1921-01-01,23.54,23.56,MMR
+Burma,1922-01-01,23.69,23.58,MMR
+Burma,1923-01-01,23.52,23.57,MMR
+Burma,1924-01-01,23.67,23.55,MMR
+Burma,1925-01-01,23.16,23.52,MMR
+Burma,1926-01-01,23.66,23.5,MMR
+Burma,1927-01-01,23.41,23.5,MMR
+Burma,1928-01-01,23.69,23.53,MMR
+Burma,1929-01-01,23.61,23.59,MMR
+Burma,1930-01-01,23.53,23.65,MMR
+Burma,1931-01-01,23.9,23.71,MMR
+Burma,1932-01-01,23.65,23.74,MMR
+Burma,1933-01-01,23.7,23.74,MMR
+Burma,1934-01-01,23.54,23.7,MMR
+Burma,1935-01-01,23.8,23.64,MMR
+Burma,1936-01-01,23.52,23.57,MMR
+Burma,1937-01-01,23.73,23.51,MMR
+Burma,1938-01-01,23.39,23.48,MMR
+Burma,1939-01-01,23.34,23.48,MMR
+Burma,1940-01-01,23.32,23.51,MMR
+Burma,1941-01-01,23.9,23.55,MMR
+Burma,1942-01-01,23.72,23.59,MMR
+Burma,1943-01-01,23.36,23.62,MMR
+Burma,1944-01-01,23.56,23.64,MMR
+Burma,1945-01-01,23.53,23.62,MMR
+Burma,1946-01-01,23.84,23.6,MMR
+Burma,1947-01-01,23.81,23.56,MMR
+Burma,1948-01-01,23.33,23.5,MMR
+Burma,1949-01-01,23.19,23.44,MMR
+Burma,1950-01-01,23.29,23.38,MMR
+Burma,1951-01-01,23.4,23.33,MMR
+Burma,1952-01-01,23.46,23.29,MMR
+Burma,1953-01-01,23.5,23.26,MMR
+Burma,1954-01-01,23.31,23.27,MMR
+Burma,1955-01-01,23.03,23.3,MMR
+Burma,1956-01-01,23.07,23.35,MMR
+Burma,1957-01-01,23.4,23.39,MMR
+Burma,1958-01-01,23.7,23.44,MMR
+Burma,1959-01-01,23.41,23.46,MMR
+Burma,1960-01-01,23.68,23.45,MMR
+Burma,1961-01-01,23.35,23.42,MMR
+Burma,1962-01-01,23.25,23.39,MMR
+Burma,1963-01-01,23.24,23.35,MMR
+Burma,1964-01-01,23.33,23.32,MMR
+Burma,1965-01-01,23.22,23.31,MMR
+Burma,1966-01-01,23.7,23.31,MMR
+Burma,1967-01-01,23.19,23.32,MMR
+Burma,1968-01-01,23.22,23.32,MMR
+Burma,1969-01-01,23.52,23.32,MMR
+Burma,1970-01-01,23.3,23.31,MMR
+Burma,1971-01-01,22.9,23.3,MMR
+Burma,1972-01-01,23.41,23.27,MMR
+Burma,1973-01-01,23.55,23.26,MMR
+Burma,1974-01-01,23.11,23.26,MMR
+Burma,1975-01-01,23.32,23.28,MMR
+Burma,1976-01-01,23.22,23.32,MMR
+Burma,1977-01-01,23.13,23.38,MMR
+Burma,1978-01-01,23.49,23.44,MMR
+Burma,1979-01-01,23.98,23.49,MMR
+Burma,1980-01-01,23.7,23.53,MMR
+Burma,1981-01-01,23.39,23.54,MMR
+Burma,1982-01-01,23.29,23.53,MMR
+Burma,1983-01-01,23.37,23.52,MMR
+Burma,1984-01-01,23.4,23.51,MMR
+Burma,1985-01-01,23.45,23.51,MMR
+Burma,1986-01-01,23.44,23.52,MMR
+Burma,1987-01-01,23.9,23.55,MMR
+Burma,1988-01-01,23.88,23.59,MMR
+Burma,1989-01-01,23.53,23.62,MMR
+Burma,1990-01-01,23.75,23.65,MMR
+Burma,1991-01-01,23.7,23.67,MMR
+Burma,1992-01-01,23.28,23.67,MMR
+Burma,1993-01-01,23.47,23.66,MMR
+Burma,1994-01-01,23.73,23.65,MMR
+Burma,1995-01-01,23.79,23.64,MMR
+Burma,1996-01-01,23.57,23.65,MMR
+Burma,1997-01-01,23.48,23.67,MMR
+Burma,1998-01-01,24.19,23.7,MMR
+Burma,1999-01-01,23.84,23.73,MMR
+Burma,2000-01-01,23.46,23.76,MMR
+Burma,2001-01-01,23.87,23.79,MMR
+Burma,2002-01-01,23.8,23.8,MMR
+Burma,2003-01-01,23.74,23.81,MMR
+Burma,2004-01-01,23.59,23.82,MMR
+Burma,2005-01-01,24.02,23.83,MMR
+Burma,2006-01-01,23.96,23.84,MMR
+Burma,2007-01-01,23.72,23.86,MMR
+Burma,2008-01-01,23.63,23.89,MMR
+Burma,2009-01-01,24.15,23.91,MMR
+Burma,2010-01-01,24.44,23.94,MMR
+Burma,2011-01-01,23.68,23.96,MMR
+Burma,2012-01-01,23.93,23.96,MMR
+Burma,2013-01-01,23.72,23.96,MMR
+Burma,2014-01-01,23.98,23.96,MMR
+Burma,2015-01-01,23.93,23.95,MMR
+Burma,2016-01-01,24.13,23.95,MMR
+Burma,2017-01-01,23.94,23.95,MMR
+Burma,2018-01-01,23.7,23.96,MMR
+Burma,2019-01-01,24.2,23.99,MMR
+Burma,2020-01-01,24.08,24.02,MMR
+Burma,2021-01-01,24.11,24.05,MMR
+Burma,2022-01-01,23.96,24.08,MMR
 Egypt,1901-01-01,22.15,21.67,EGY
 Egypt,1902-01-01,21.76,21.7,EGY
 Egypt,1903-01-01,21.12,21.73,EGY
@@ -18909,128 +18909,128 @@ Egypt,2019-01-01,23.38,23.53,EGY
 Egypt,2020-01-01,23.18,23.5,EGY
 Egypt,2021-01-01,23.88,23.46,EGY
 Egypt,2022-01-01,23.23,23.43,EGY
-"Iran, Islamic Rep.",1901-01-01,17.67,17.45,IRN
-"Iran, Islamic Rep.",1902-01-01,17.37,17.27,IRN
-"Iran, Islamic Rep.",1903-01-01,16.66,17.09,IRN
-"Iran, Islamic Rep.",1904-01-01,16.76,16.93,IRN
-"Iran, Islamic Rep.",1905-01-01,16.8,16.8,IRN
-"Iran, Islamic Rep.",1906-01-01,16.96,16.72,IRN
-"Iran, Islamic Rep.",1907-01-01,16.57,16.68,IRN
-"Iran, Islamic Rep.",1908-01-01,16.77,16.69,IRN
-"Iran, Islamic Rep.",1909-01-01,17.32,16.73,IRN
-"Iran, Islamic Rep.",1910-01-01,16.78,16.79,IRN
-"Iran, Islamic Rep.",1911-01-01,15.99,16.87,IRN
-"Iran, Islamic Rep.",1912-01-01,17.0,16.95,IRN
-"Iran, Islamic Rep.",1913-01-01,16.85,17.02,IRN
-"Iran, Islamic Rep.",1914-01-01,17.39,17.08,IRN
-"Iran, Islamic Rep.",1915-01-01,17.78,17.13,IRN
-"Iran, Islamic Rep.",1916-01-01,16.87,17.16,IRN
-"Iran, Islamic Rep.",1917-01-01,17.39,17.16,IRN
-"Iran, Islamic Rep.",1918-01-01,16.81,17.15,IRN
-"Iran, Islamic Rep.",1919-01-01,17.22,17.12,IRN
-"Iran, Islamic Rep.",1920-01-01,16.48,17.08,IRN
-"Iran, Islamic Rep.",1921-01-01,16.97,17.06,IRN
-"Iran, Islamic Rep.",1922-01-01,17.54,17.05,IRN
-"Iran, Islamic Rep.",1923-01-01,16.92,17.06,IRN
-"Iran, Islamic Rep.",1924-01-01,17.16,17.08,IRN
-"Iran, Islamic Rep.",1925-01-01,17.32,17.1,IRN
-"Iran, Islamic Rep.",1926-01-01,17.14,17.08,IRN
-"Iran, Islamic Rep.",1927-01-01,17.21,17.03,IRN
-"Iran, Islamic Rep.",1928-01-01,16.54,16.91,IRN
-"Iran, Islamic Rep.",1929-01-01,16.53,16.75,IRN
-"Iran, Islamic Rep.",1930-01-01,16.64,16.58,IRN
-"Iran, Islamic Rep.",1931-01-01,16.41,16.45,IRN
-"Iran, Islamic Rep.",1932-01-01,16.46,16.38,IRN
-"Iran, Islamic Rep.",1933-01-01,16.58,16.41,IRN
-"Iran, Islamic Rep.",1934-01-01,16.38,16.55,IRN
-"Iran, Islamic Rep.",1935-01-01,17.02,16.76,IRN
-"Iran, Islamic Rep.",1936-01-01,17.04,17.0,IRN
-"Iran, Islamic Rep.",1937-01-01,16.92,17.23,IRN
-"Iran, Islamic Rep.",1938-01-01,17.34,17.4,IRN
-"Iran, Islamic Rep.",1939-01-01,17.37,17.49,IRN
-"Iran, Islamic Rep.",1940-01-01,17.79,17.52,IRN
-"Iran, Islamic Rep.",1941-01-01,17.86,17.49,IRN
-"Iran, Islamic Rep.",1942-01-01,17.35,17.42,IRN
-"Iran, Islamic Rep.",1943-01-01,16.73,17.33,IRN
-"Iran, Islamic Rep.",1944-01-01,17.5,17.22,IRN
-"Iran, Islamic Rep.",1945-01-01,16.76,17.12,IRN
-"Iran, Islamic Rep.",1946-01-01,17.08,17.03,IRN
-"Iran, Islamic Rep.",1947-01-01,17.74,16.96,IRN
-"Iran, Islamic Rep.",1948-01-01,17.17,16.94,IRN
-"Iran, Islamic Rep.",1949-01-01,16.37,16.96,IRN
-"Iran, Islamic Rep.",1950-01-01,16.41,17.03,IRN
-"Iran, Islamic Rep.",1951-01-01,17.41,17.11,IRN
-"Iran, Islamic Rep.",1952-01-01,17.31,17.2,IRN
-"Iran, Islamic Rep.",1953-01-01,17.45,17.27,IRN
-"Iran, Islamic Rep.",1954-01-01,17.35,17.3,IRN
-"Iran, Islamic Rep.",1955-01-01,17.73,17.3,IRN
-"Iran, Islamic Rep.",1956-01-01,16.93,17.26,IRN
-"Iran, Islamic Rep.",1957-01-01,16.51,17.22,IRN
-"Iran, Islamic Rep.",1958-01-01,17.63,17.19,IRN
-"Iran, Islamic Rep.",1959-01-01,16.94,17.18,IRN
-"Iran, Islamic Rep.",1960-01-01,17.34,17.21,IRN
-"Iran, Islamic Rep.",1961-01-01,17.43,17.26,IRN
-"Iran, Islamic Rep.",1962-01-01,17.48,17.32,IRN
-"Iran, Islamic Rep.",1963-01-01,17.92,17.38,IRN
-"Iran, Islamic Rep.",1964-01-01,16.47,17.43,IRN
-"Iran, Islamic Rep.",1965-01-01,17.4,17.45,IRN
-"Iran, Islamic Rep.",1966-01-01,18.07,17.44,IRN
-"Iran, Islamic Rep.",1967-01-01,16.98,17.4,IRN
-"Iran, Islamic Rep.",1968-01-01,17.18,17.35,IRN
-"Iran, Islamic Rep.",1969-01-01,17.09,17.27,IRN
-"Iran, Islamic Rep.",1970-01-01,18.01,17.18,IRN
-"Iran, Islamic Rep.",1971-01-01,17.49,17.08,IRN
-"Iran, Islamic Rep.",1972-01-01,15.93,17.0,IRN
-"Iran, Islamic Rep.",1973-01-01,17.33,16.95,IRN
-"Iran, Islamic Rep.",1974-01-01,16.53,16.95,IRN
-"Iran, Islamic Rep.",1975-01-01,17.05,17.01,IRN
-"Iran, Islamic Rep.",1976-01-01,16.93,17.14,IRN
-"Iran, Islamic Rep.",1977-01-01,17.81,17.31,IRN
-"Iran, Islamic Rep.",1978-01-01,17.72,17.47,IRN
-"Iran, Islamic Rep.",1979-01-01,17.73,17.6,IRN
-"Iran, Islamic Rep.",1980-01-01,17.77,17.67,IRN
-"Iran, Islamic Rep.",1981-01-01,17.92,17.66,IRN
-"Iran, Islamic Rep.",1982-01-01,16.75,17.58,IRN
-"Iran, Islamic Rep.",1983-01-01,17.37,17.48,IRN
-"Iran, Islamic Rep.",1984-01-01,17.03,17.37,IRN
-"Iran, Islamic Rep.",1985-01-01,17.48,17.28,IRN
-"Iran, Islamic Rep.",1986-01-01,17.04,17.25,IRN
-"Iran, Islamic Rep.",1987-01-01,17.76,17.26,IRN
-"Iran, Islamic Rep.",1988-01-01,17.83,17.3,IRN
-"Iran, Islamic Rep.",1989-01-01,17.2,17.36,IRN
-"Iran, Islamic Rep.",1990-01-01,17.76,17.42,IRN
-"Iran, Islamic Rep.",1991-01-01,17.58,17.47,IRN
-"Iran, Islamic Rep.",1992-01-01,16.56,17.51,IRN
-"Iran, Islamic Rep.",1993-01-01,17.27,17.54,IRN
-"Iran, Islamic Rep.",1994-01-01,17.79,17.6,IRN
-"Iran, Islamic Rep.",1995-01-01,17.91,17.69,IRN
-"Iran, Islamic Rep.",1996-01-01,17.64,17.84,IRN
-"Iran, Islamic Rep.",1997-01-01,17.95,18.03,IRN
-"Iran, Islamic Rep.",1998-01-01,18.69,18.24,IRN
-"Iran, Islamic Rep.",1999-01-01,18.77,18.44,IRN
-"Iran, Islamic Rep.",2000-01-01,18.43,18.6,IRN
-"Iran, Islamic Rep.",2001-01-01,18.84,18.68,IRN
-"Iran, Islamic Rep.",2002-01-01,18.48,18.67,IRN
-"Iran, Islamic Rep.",2003-01-01,18.2,18.59,IRN
-"Iran, Islamic Rep.",2004-01-01,18.44,18.47,IRN
-"Iran, Islamic Rep.",2005-01-01,18.25,18.35,IRN
-"Iran, Islamic Rep.",2006-01-01,18.51,18.26,IRN
-"Iran, Islamic Rep.",2007-01-01,18.08,18.23,IRN
-"Iran, Islamic Rep.",2008-01-01,18.26,18.26,IRN
-"Iran, Islamic Rep.",2009-01-01,18.41,18.32,IRN
-"Iran, Islamic Rep.",2010-01-01,19.32,18.41,IRN
-"Iran, Islamic Rep.",2011-01-01,18.09,18.51,IRN
-"Iran, Islamic Rep.",2012-01-01,18.12,18.59,IRN
-"Iran, Islamic Rep.",2013-01-01,18.65,18.66,IRN
-"Iran, Islamic Rep.",2014-01-01,18.48,18.71,IRN
-"Iran, Islamic Rep.",2015-01-01,18.93,18.76,IRN
-"Iran, Islamic Rep.",2016-01-01,19.03,18.81,IRN
-"Iran, Islamic Rep.",2017-01-01,18.84,18.87,IRN
-"Iran, Islamic Rep.",2018-01-01,19.34,18.93,IRN
-"Iran, Islamic Rep.",2019-01-01,18.84,19.0,IRN
-"Iran, Islamic Rep.",2020-01-01,18.38,19.08,IRN
-"Iran, Islamic Rep.",2021-01-01,19.57,19.17,IRN
-"Iran, Islamic Rep.",2022-01-01,19.3,19.25,IRN
+Iran,1901-01-01,17.67,17.45,IRN
+Iran,1902-01-01,17.37,17.27,IRN
+Iran,1903-01-01,16.66,17.09,IRN
+Iran,1904-01-01,16.76,16.93,IRN
+Iran,1905-01-01,16.8,16.8,IRN
+Iran,1906-01-01,16.96,16.72,IRN
+Iran,1907-01-01,16.57,16.68,IRN
+Iran,1908-01-01,16.77,16.69,IRN
+Iran,1909-01-01,17.32,16.73,IRN
+Iran,1910-01-01,16.78,16.79,IRN
+Iran,1911-01-01,15.99,16.87,IRN
+Iran,1912-01-01,17.0,16.95,IRN
+Iran,1913-01-01,16.85,17.02,IRN
+Iran,1914-01-01,17.39,17.08,IRN
+Iran,1915-01-01,17.78,17.13,IRN
+Iran,1916-01-01,16.87,17.16,IRN
+Iran,1917-01-01,17.39,17.16,IRN
+Iran,1918-01-01,16.81,17.15,IRN
+Iran,1919-01-01,17.22,17.12,IRN
+Iran,1920-01-01,16.48,17.08,IRN
+Iran,1921-01-01,16.97,17.06,IRN
+Iran,1922-01-01,17.54,17.05,IRN
+Iran,1923-01-01,16.92,17.06,IRN
+Iran,1924-01-01,17.16,17.08,IRN
+Iran,1925-01-01,17.32,17.1,IRN
+Iran,1926-01-01,17.14,17.08,IRN
+Iran,1927-01-01,17.21,17.03,IRN
+Iran,1928-01-01,16.54,16.91,IRN
+Iran,1929-01-01,16.53,16.75,IRN
+Iran,1930-01-01,16.64,16.58,IRN
+Iran,1931-01-01,16.41,16.45,IRN
+Iran,1932-01-01,16.46,16.38,IRN
+Iran,1933-01-01,16.58,16.41,IRN
+Iran,1934-01-01,16.38,16.55,IRN
+Iran,1935-01-01,17.02,16.76,IRN
+Iran,1936-01-01,17.04,17.0,IRN
+Iran,1937-01-01,16.92,17.23,IRN
+Iran,1938-01-01,17.34,17.4,IRN
+Iran,1939-01-01,17.37,17.49,IRN
+Iran,1940-01-01,17.79,17.52,IRN
+Iran,1941-01-01,17.86,17.49,IRN
+Iran,1942-01-01,17.35,17.42,IRN
+Iran,1943-01-01,16.73,17.33,IRN
+Iran,1944-01-01,17.5,17.22,IRN
+Iran,1945-01-01,16.76,17.12,IRN
+Iran,1946-01-01,17.08,17.03,IRN
+Iran,1947-01-01,17.74,16.96,IRN
+Iran,1948-01-01,17.17,16.94,IRN
+Iran,1949-01-01,16.37,16.96,IRN
+Iran,1950-01-01,16.41,17.03,IRN
+Iran,1951-01-01,17.41,17.11,IRN
+Iran,1952-01-01,17.31,17.2,IRN
+Iran,1953-01-01,17.45,17.27,IRN
+Iran,1954-01-01,17.35,17.3,IRN
+Iran,1955-01-01,17.73,17.3,IRN
+Iran,1956-01-01,16.93,17.26,IRN
+Iran,1957-01-01,16.51,17.22,IRN
+Iran,1958-01-01,17.63,17.19,IRN
+Iran,1959-01-01,16.94,17.18,IRN
+Iran,1960-01-01,17.34,17.21,IRN
+Iran,1961-01-01,17.43,17.26,IRN
+Iran,1962-01-01,17.48,17.32,IRN
+Iran,1963-01-01,17.92,17.38,IRN
+Iran,1964-01-01,16.47,17.43,IRN
+Iran,1965-01-01,17.4,17.45,IRN
+Iran,1966-01-01,18.07,17.44,IRN
+Iran,1967-01-01,16.98,17.4,IRN
+Iran,1968-01-01,17.18,17.35,IRN
+Iran,1969-01-01,17.09,17.27,IRN
+Iran,1970-01-01,18.01,17.18,IRN
+Iran,1971-01-01,17.49,17.08,IRN
+Iran,1972-01-01,15.93,17.0,IRN
+Iran,1973-01-01,17.33,16.95,IRN
+Iran,1974-01-01,16.53,16.95,IRN
+Iran,1975-01-01,17.05,17.01,IRN
+Iran,1976-01-01,16.93,17.14,IRN
+Iran,1977-01-01,17.81,17.31,IRN
+Iran,1978-01-01,17.72,17.47,IRN
+Iran,1979-01-01,17.73,17.6,IRN
+Iran,1980-01-01,17.77,17.67,IRN
+Iran,1981-01-01,17.92,17.66,IRN
+Iran,1982-01-01,16.75,17.58,IRN
+Iran,1983-01-01,17.37,17.48,IRN
+Iran,1984-01-01,17.03,17.37,IRN
+Iran,1985-01-01,17.48,17.28,IRN
+Iran,1986-01-01,17.04,17.25,IRN
+Iran,1987-01-01,17.76,17.26,IRN
+Iran,1988-01-01,17.83,17.3,IRN
+Iran,1989-01-01,17.2,17.36,IRN
+Iran,1990-01-01,17.76,17.42,IRN
+Iran,1991-01-01,17.58,17.47,IRN
+Iran,1992-01-01,16.56,17.51,IRN
+Iran,1993-01-01,17.27,17.54,IRN
+Iran,1994-01-01,17.79,17.6,IRN
+Iran,1995-01-01,17.91,17.69,IRN
+Iran,1996-01-01,17.64,17.84,IRN
+Iran,1997-01-01,17.95,18.03,IRN
+Iran,1998-01-01,18.69,18.24,IRN
+Iran,1999-01-01,18.77,18.44,IRN
+Iran,2000-01-01,18.43,18.6,IRN
+Iran,2001-01-01,18.84,18.68,IRN
+Iran,2002-01-01,18.48,18.67,IRN
+Iran,2003-01-01,18.2,18.59,IRN
+Iran,2004-01-01,18.44,18.47,IRN
+Iran,2005-01-01,18.25,18.35,IRN
+Iran,2006-01-01,18.51,18.26,IRN
+Iran,2007-01-01,18.08,18.23,IRN
+Iran,2008-01-01,18.26,18.26,IRN
+Iran,2009-01-01,18.41,18.32,IRN
+Iran,2010-01-01,19.32,18.41,IRN
+Iran,2011-01-01,18.09,18.51,IRN
+Iran,2012-01-01,18.12,18.59,IRN
+Iran,2013-01-01,18.65,18.66,IRN
+Iran,2014-01-01,18.48,18.71,IRN
+Iran,2015-01-01,18.93,18.76,IRN
+Iran,2016-01-01,19.03,18.81,IRN
+Iran,2017-01-01,18.84,18.87,IRN
+Iran,2018-01-01,19.34,18.93,IRN
+Iran,2019-01-01,18.84,19.0,IRN
+Iran,2020-01-01,18.38,19.08,IRN
+Iran,2021-01-01,19.57,19.17,IRN
+Iran,2022-01-01,19.3,19.25,IRN
 Greece,1901-01-01,13.49,13.45,GRC
 Greece,1902-01-01,13.27,13.43,GRC
 Greece,1903-01-01,13.53,13.4,GRC
@@ -19275,128 +19275,128 @@ Israel,2019-01-01,20.42,20.48,ISR
 Israel,2020-01-01,20.41,20.5,ISR
 Israel,2021-01-01,20.86,20.52,ISR
 Israel,2022-01-01,20.23,20.55,ISR
-"Congo, Dem. Rep.",1901-01-01,24.02,24.07,DRC
-"Congo, Dem. Rep.",1902-01-01,24.07,24.04,DRC
-"Congo, Dem. Rep.",1903-01-01,24.04,24.02,DRC
-"Congo, Dem. Rep.",1904-01-01,24.02,23.99,DRC
-"Congo, Dem. Rep.",1905-01-01,24.01,23.97,DRC
-"Congo, Dem. Rep.",1906-01-01,23.92,23.96,DRC
-"Congo, Dem. Rep.",1907-01-01,23.9,23.95,DRC
-"Congo, Dem. Rep.",1908-01-01,23.99,23.95,DRC
-"Congo, Dem. Rep.",1909-01-01,23.96,23.96,DRC
-"Congo, Dem. Rep.",1910-01-01,23.94,23.96,DRC
-"Congo, Dem. Rep.",1911-01-01,23.95,23.97,DRC
-"Congo, Dem. Rep.",1912-01-01,23.98,23.97,DRC
-"Congo, Dem. Rep.",1913-01-01,23.96,23.96,DRC
-"Congo, Dem. Rep.",1914-01-01,23.98,23.95,DRC
-"Congo, Dem. Rep.",1915-01-01,23.97,23.95,DRC
-"Congo, Dem. Rep.",1916-01-01,23.95,23.94,DRC
-"Congo, Dem. Rep.",1917-01-01,23.94,23.94,DRC
-"Congo, Dem. Rep.",1918-01-01,23.91,23.94,DRC
-"Congo, Dem. Rep.",1919-01-01,23.93,23.95,DRC
-"Congo, Dem. Rep.",1920-01-01,23.95,23.96,DRC
-"Congo, Dem. Rep.",1921-01-01,23.99,23.97,DRC
-"Congo, Dem. Rep.",1922-01-01,24.01,23.98,DRC
-"Congo, Dem. Rep.",1923-01-01,23.99,23.99,DRC
-"Congo, Dem. Rep.",1924-01-01,24.01,24.0,DRC
-"Congo, Dem. Rep.",1925-01-01,23.97,24.01,DRC
-"Congo, Dem. Rep.",1926-01-01,24.0,24.01,DRC
-"Congo, Dem. Rep.",1927-01-01,23.99,24.0,DRC
-"Congo, Dem. Rep.",1928-01-01,24.04,23.99,DRC
-"Congo, Dem. Rep.",1929-01-01,23.94,23.98,DRC
-"Congo, Dem. Rep.",1930-01-01,23.94,23.96,DRC
-"Congo, Dem. Rep.",1931-01-01,24.01,23.95,DRC
-"Congo, Dem. Rep.",1932-01-01,23.94,23.93,DRC
-"Congo, Dem. Rep.",1933-01-01,23.94,23.93,DRC
-"Congo, Dem. Rep.",1934-01-01,23.93,23.93,DRC
-"Congo, Dem. Rep.",1935-01-01,23.95,23.94,DRC
-"Congo, Dem. Rep.",1936-01-01,23.92,23.96,DRC
-"Congo, Dem. Rep.",1937-01-01,23.91,23.98,DRC
-"Congo, Dem. Rep.",1938-01-01,23.98,24.01,DRC
-"Congo, Dem. Rep.",1939-01-01,23.97,24.04,DRC
-"Congo, Dem. Rep.",1940-01-01,24.05,24.06,DRC
-"Congo, Dem. Rep.",1941-01-01,24.4,24.09,DRC
-"Congo, Dem. Rep.",1942-01-01,24.24,24.11,DRC
-"Congo, Dem. Rep.",1943-01-01,23.93,24.13,DRC
-"Congo, Dem. Rep.",1944-01-01,24.13,24.13,DRC
-"Congo, Dem. Rep.",1945-01-01,24.06,24.13,DRC
-"Congo, Dem. Rep.",1946-01-01,24.04,24.12,DRC
-"Congo, Dem. Rep.",1947-01-01,24.11,24.1,DRC
-"Congo, Dem. Rep.",1948-01-01,23.97,24.07,DRC
-"Congo, Dem. Rep.",1949-01-01,24.27,24.03,DRC
-"Congo, Dem. Rep.",1950-01-01,23.87,23.99,DRC
-"Congo, Dem. Rep.",1951-01-01,23.92,23.95,DRC
-"Congo, Dem. Rep.",1952-01-01,24.11,23.92,DRC
-"Congo, Dem. Rep.",1953-01-01,24.01,23.89,DRC
-"Congo, Dem. Rep.",1954-01-01,23.81,23.89,DRC
-"Congo, Dem. Rep.",1955-01-01,23.75,23.91,DRC
-"Congo, Dem. Rep.",1956-01-01,23.72,23.94,DRC
-"Congo, Dem. Rep.",1957-01-01,24.04,23.97,DRC
-"Congo, Dem. Rep.",1958-01-01,24.24,23.99,DRC
-"Congo, Dem. Rep.",1959-01-01,24.02,23.99,DRC
-"Congo, Dem. Rep.",1960-01-01,23.92,23.97,DRC
-"Congo, Dem. Rep.",1961-01-01,23.85,23.94,DRC
-"Congo, Dem. Rep.",1962-01-01,23.85,23.9,DRC
-"Congo, Dem. Rep.",1963-01-01,23.93,23.87,DRC
-"Congo, Dem. Rep.",1964-01-01,23.85,23.86,DRC
-"Congo, Dem. Rep.",1965-01-01,23.92,23.89,DRC
-"Congo, Dem. Rep.",1966-01-01,24.08,23.93,DRC
-"Congo, Dem. Rep.",1967-01-01,23.83,23.98,DRC
-"Congo, Dem. Rep.",1968-01-01,23.82,24.02,DRC
-"Congo, Dem. Rep.",1969-01-01,24.22,24.04,DRC
-"Congo, Dem. Rep.",1970-01-01,24.14,24.02,DRC
-"Congo, Dem. Rep.",1971-01-01,23.78,23.98,DRC
-"Congo, Dem. Rep.",1972-01-01,23.95,23.91,DRC
-"Congo, Dem. Rep.",1973-01-01,24.07,23.85,DRC
-"Congo, Dem. Rep.",1974-01-01,23.68,23.81,DRC
-"Congo, Dem. Rep.",1975-01-01,23.69,23.81,DRC
-"Congo, Dem. Rep.",1976-01-01,23.75,23.84,DRC
-"Congo, Dem. Rep.",1977-01-01,24.08,23.9,DRC
-"Congo, Dem. Rep.",1978-01-01,24.02,23.98,DRC
-"Congo, Dem. Rep.",1979-01-01,24.1,24.06,DRC
-"Congo, Dem. Rep.",1980-01-01,24.13,24.13,DRC
-"Congo, Dem. Rep.",1981-01-01,24.13,24.18,DRC
-"Congo, Dem. Rep.",1982-01-01,24.1,24.21,DRC
-"Congo, Dem. Rep.",1983-01-01,24.43,24.23,DRC
-"Congo, Dem. Rep.",1984-01-01,24.14,24.24,DRC
-"Congo, Dem. Rep.",1985-01-01,24.04,24.23,DRC
-"Congo, Dem. Rep.",1986-01-01,24.07,24.23,DRC
-"Congo, Dem. Rep.",1987-01-01,24.59,24.22,DRC
-"Congo, Dem. Rep.",1988-01-01,24.35,24.21,DRC
-"Congo, Dem. Rep.",1989-01-01,24.0,24.19,DRC
-"Congo, Dem. Rep.",1990-01-01,24.34,24.18,DRC
-"Congo, Dem. Rep.",1991-01-01,24.13,24.17,DRC
-"Congo, Dem. Rep.",1992-01-01,24.07,24.16,DRC
-"Congo, Dem. Rep.",1993-01-01,24.03,24.16,DRC
-"Congo, Dem. Rep.",1994-01-01,24.06,24.16,DRC
-"Congo, Dem. Rep.",1995-01-01,24.36,24.16,DRC
-"Congo, Dem. Rep.",1996-01-01,24.08,24.18,DRC
-"Congo, Dem. Rep.",1997-01-01,24.27,24.21,DRC
-"Congo, Dem. Rep.",1998-01-01,24.57,24.25,DRC
-"Congo, Dem. Rep.",1999-01-01,24.04,24.3,DRC
-"Congo, Dem. Rep.",2000-01-01,24.27,24.35,DRC
-"Congo, Dem. Rep.",2001-01-01,24.38,24.4,DRC
-"Congo, Dem. Rep.",2002-01-01,24.51,24.45,DRC
-"Congo, Dem. Rep.",2003-01-01,24.53,24.5,DRC
-"Congo, Dem. Rep.",2004-01-01,24.52,24.54,DRC
-"Congo, Dem. Rep.",2005-01-01,24.73,24.56,DRC
-"Congo, Dem. Rep.",2006-01-01,24.44,24.57,DRC
-"Congo, Dem. Rep.",2007-01-01,24.46,24.54,DRC
-"Congo, Dem. Rep.",2008-01-01,24.34,24.5,DRC
-"Congo, Dem. Rep.",2009-01-01,24.56,24.45,DRC
-"Congo, Dem. Rep.",2010-01-01,24.74,24.39,DRC
-"Congo, Dem. Rep.",2011-01-01,24.25,24.35,DRC
-"Congo, Dem. Rep.",2012-01-01,24.19,24.32,DRC
-"Congo, Dem. Rep.",2013-01-01,24.3,24.32,DRC
-"Congo, Dem. Rep.",2014-01-01,24.24,24.33,DRC
-"Congo, Dem. Rep.",2015-01-01,24.33,24.35,DRC
-"Congo, Dem. Rep.",2016-01-01,24.54,24.37,DRC
-"Congo, Dem. Rep.",2017-01-01,24.41,24.39,DRC
-"Congo, Dem. Rep.",2018-01-01,24.32,24.4,DRC
-"Congo, Dem. Rep.",2019-01-01,24.37,24.41,DRC
-"Congo, Dem. Rep.",2020-01-01,24.48,24.42,DRC
-"Congo, Dem. Rep.",2021-01-01,24.46,24.42,DRC
-"Congo, Dem. Rep.",2022-01-01,24.38,24.42,DRC
+Congo-Kinshasa,1901-01-01,24.02,24.07,DRC
+Congo-Kinshasa,1902-01-01,24.07,24.04,DRC
+Congo-Kinshasa,1903-01-01,24.04,24.02,DRC
+Congo-Kinshasa,1904-01-01,24.02,23.99,DRC
+Congo-Kinshasa,1905-01-01,24.01,23.97,DRC
+Congo-Kinshasa,1906-01-01,23.92,23.96,DRC
+Congo-Kinshasa,1907-01-01,23.9,23.95,DRC
+Congo-Kinshasa,1908-01-01,23.99,23.95,DRC
+Congo-Kinshasa,1909-01-01,23.96,23.96,DRC
+Congo-Kinshasa,1910-01-01,23.94,23.96,DRC
+Congo-Kinshasa,1911-01-01,23.95,23.97,DRC
+Congo-Kinshasa,1912-01-01,23.98,23.97,DRC
+Congo-Kinshasa,1913-01-01,23.96,23.96,DRC
+Congo-Kinshasa,1914-01-01,23.98,23.95,DRC
+Congo-Kinshasa,1915-01-01,23.97,23.95,DRC
+Congo-Kinshasa,1916-01-01,23.95,23.94,DRC
+Congo-Kinshasa,1917-01-01,23.94,23.94,DRC
+Congo-Kinshasa,1918-01-01,23.91,23.94,DRC
+Congo-Kinshasa,1919-01-01,23.93,23.95,DRC
+Congo-Kinshasa,1920-01-01,23.95,23.96,DRC
+Congo-Kinshasa,1921-01-01,23.99,23.97,DRC
+Congo-Kinshasa,1922-01-01,24.01,23.98,DRC
+Congo-Kinshasa,1923-01-01,23.99,23.99,DRC
+Congo-Kinshasa,1924-01-01,24.01,24.0,DRC
+Congo-Kinshasa,1925-01-01,23.97,24.01,DRC
+Congo-Kinshasa,1926-01-01,24.0,24.01,DRC
+Congo-Kinshasa,1927-01-01,23.99,24.0,DRC
+Congo-Kinshasa,1928-01-01,24.04,23.99,DRC
+Congo-Kinshasa,1929-01-01,23.94,23.98,DRC
+Congo-Kinshasa,1930-01-01,23.94,23.96,DRC
+Congo-Kinshasa,1931-01-01,24.01,23.95,DRC
+Congo-Kinshasa,1932-01-01,23.94,23.93,DRC
+Congo-Kinshasa,1933-01-01,23.94,23.93,DRC
+Congo-Kinshasa,1934-01-01,23.93,23.93,DRC
+Congo-Kinshasa,1935-01-01,23.95,23.94,DRC
+Congo-Kinshasa,1936-01-01,23.92,23.96,DRC
+Congo-Kinshasa,1937-01-01,23.91,23.98,DRC
+Congo-Kinshasa,1938-01-01,23.98,24.01,DRC
+Congo-Kinshasa,1939-01-01,23.97,24.04,DRC
+Congo-Kinshasa,1940-01-01,24.05,24.06,DRC
+Congo-Kinshasa,1941-01-01,24.4,24.09,DRC
+Congo-Kinshasa,1942-01-01,24.24,24.11,DRC
+Congo-Kinshasa,1943-01-01,23.93,24.13,DRC
+Congo-Kinshasa,1944-01-01,24.13,24.13,DRC
+Congo-Kinshasa,1945-01-01,24.06,24.13,DRC
+Congo-Kinshasa,1946-01-01,24.04,24.12,DRC
+Congo-Kinshasa,1947-01-01,24.11,24.1,DRC
+Congo-Kinshasa,1948-01-01,23.97,24.07,DRC
+Congo-Kinshasa,1949-01-01,24.27,24.03,DRC
+Congo-Kinshasa,1950-01-01,23.87,23.99,DRC
+Congo-Kinshasa,1951-01-01,23.92,23.95,DRC
+Congo-Kinshasa,1952-01-01,24.11,23.92,DRC
+Congo-Kinshasa,1953-01-01,24.01,23.89,DRC
+Congo-Kinshasa,1954-01-01,23.81,23.89,DRC
+Congo-Kinshasa,1955-01-01,23.75,23.91,DRC
+Congo-Kinshasa,1956-01-01,23.72,23.94,DRC
+Congo-Kinshasa,1957-01-01,24.04,23.97,DRC
+Congo-Kinshasa,1958-01-01,24.24,23.99,DRC
+Congo-Kinshasa,1959-01-01,24.02,23.99,DRC
+Congo-Kinshasa,1960-01-01,23.92,23.97,DRC
+Congo-Kinshasa,1961-01-01,23.85,23.94,DRC
+Congo-Kinshasa,1962-01-01,23.85,23.9,DRC
+Congo-Kinshasa,1963-01-01,23.93,23.87,DRC
+Congo-Kinshasa,1964-01-01,23.85,23.86,DRC
+Congo-Kinshasa,1965-01-01,23.92,23.89,DRC
+Congo-Kinshasa,1966-01-01,24.08,23.93,DRC
+Congo-Kinshasa,1967-01-01,23.83,23.98,DRC
+Congo-Kinshasa,1968-01-01,23.82,24.02,DRC
+Congo-Kinshasa,1969-01-01,24.22,24.04,DRC
+Congo-Kinshasa,1970-01-01,24.14,24.02,DRC
+Congo-Kinshasa,1971-01-01,23.78,23.98,DRC
+Congo-Kinshasa,1972-01-01,23.95,23.91,DRC
+Congo-Kinshasa,1973-01-01,24.07,23.85,DRC
+Congo-Kinshasa,1974-01-01,23.68,23.81,DRC
+Congo-Kinshasa,1975-01-01,23.69,23.81,DRC
+Congo-Kinshasa,1976-01-01,23.75,23.84,DRC
+Congo-Kinshasa,1977-01-01,24.08,23.9,DRC
+Congo-Kinshasa,1978-01-01,24.02,23.98,DRC
+Congo-Kinshasa,1979-01-01,24.1,24.06,DRC
+Congo-Kinshasa,1980-01-01,24.13,24.13,DRC
+Congo-Kinshasa,1981-01-01,24.13,24.18,DRC
+Congo-Kinshasa,1982-01-01,24.1,24.21,DRC
+Congo-Kinshasa,1983-01-01,24.43,24.23,DRC
+Congo-Kinshasa,1984-01-01,24.14,24.24,DRC
+Congo-Kinshasa,1985-01-01,24.04,24.23,DRC
+Congo-Kinshasa,1986-01-01,24.07,24.23,DRC
+Congo-Kinshasa,1987-01-01,24.59,24.22,DRC
+Congo-Kinshasa,1988-01-01,24.35,24.21,DRC
+Congo-Kinshasa,1989-01-01,24.0,24.19,DRC
+Congo-Kinshasa,1990-01-01,24.34,24.18,DRC
+Congo-Kinshasa,1991-01-01,24.13,24.17,DRC
+Congo-Kinshasa,1992-01-01,24.07,24.16,DRC
+Congo-Kinshasa,1993-01-01,24.03,24.16,DRC
+Congo-Kinshasa,1994-01-01,24.06,24.16,DRC
+Congo-Kinshasa,1995-01-01,24.36,24.16,DRC
+Congo-Kinshasa,1996-01-01,24.08,24.18,DRC
+Congo-Kinshasa,1997-01-01,24.27,24.21,DRC
+Congo-Kinshasa,1998-01-01,24.57,24.25,DRC
+Congo-Kinshasa,1999-01-01,24.04,24.3,DRC
+Congo-Kinshasa,2000-01-01,24.27,24.35,DRC
+Congo-Kinshasa,2001-01-01,24.38,24.4,DRC
+Congo-Kinshasa,2002-01-01,24.51,24.45,DRC
+Congo-Kinshasa,2003-01-01,24.53,24.5,DRC
+Congo-Kinshasa,2004-01-01,24.52,24.54,DRC
+Congo-Kinshasa,2005-01-01,24.73,24.56,DRC
+Congo-Kinshasa,2006-01-01,24.44,24.57,DRC
+Congo-Kinshasa,2007-01-01,24.46,24.54,DRC
+Congo-Kinshasa,2008-01-01,24.34,24.5,DRC
+Congo-Kinshasa,2009-01-01,24.56,24.45,DRC
+Congo-Kinshasa,2010-01-01,24.74,24.39,DRC
+Congo-Kinshasa,2011-01-01,24.25,24.35,DRC
+Congo-Kinshasa,2012-01-01,24.19,24.32,DRC
+Congo-Kinshasa,2013-01-01,24.3,24.32,DRC
+Congo-Kinshasa,2014-01-01,24.24,24.33,DRC
+Congo-Kinshasa,2015-01-01,24.33,24.35,DRC
+Congo-Kinshasa,2016-01-01,24.54,24.37,DRC
+Congo-Kinshasa,2017-01-01,24.41,24.39,DRC
+Congo-Kinshasa,2018-01-01,24.32,24.4,DRC
+Congo-Kinshasa,2019-01-01,24.37,24.41,DRC
+Congo-Kinshasa,2020-01-01,24.48,24.42,DRC
+Congo-Kinshasa,2021-01-01,24.46,24.42,DRC
+Congo-Kinshasa,2022-01-01,24.38,24.42,DRC
 Niger,1901-01-01,27.36,27.4,NER
 Niger,1902-01-01,27.39,27.39,NER
 Niger,1903-01-01,27.45,27.38,NER
@@ -19763,128 +19763,128 @@ Italy,2019-01-01,13.94,13.85,ITA
 Italy,2020-01-01,13.83,13.91,ITA
 Italy,2021-01-01,13.52,13.98,ITA
 Italy,2022-01-01,14.38,14.04,ITA
-Slovak Republic,1901-01-01,7.46,7.27,SVK
-Slovak Republic,1902-01-01,6.57,7.34,SVK
-Slovak Republic,1903-01-01,7.91,7.41,SVK
-Slovak Republic,1904-01-01,7.72,7.47,SVK
-Slovak Republic,1905-01-01,7.61,7.51,SVK
-Slovak Republic,1906-01-01,7.75,7.54,SVK
-Slovak Republic,1907-01-01,7.23,7.55,SVK
-Slovak Republic,1908-01-01,6.97,7.55,SVK
-Slovak Republic,1909-01-01,7.26,7.53,SVK
-Slovak Republic,1910-01-01,8.18,7.53,SVK
-Slovak Republic,1911-01-01,8.26,7.54,SVK
-Slovak Republic,1912-01-01,6.97,7.57,SVK
-Slovak Republic,1913-01-01,7.62,7.62,SVK
-Slovak Republic,1914-01-01,7.39,7.68,SVK
-Slovak Republic,1915-01-01,7.56,7.74,SVK
-Slovak Republic,1916-01-01,8.38,7.78,SVK
-Slovak Republic,1917-01-01,7.43,7.8,SVK
-Slovak Republic,1918-01-01,8.16,7.78,SVK
-Slovak Republic,1919-01-01,7.14,7.74,SVK
-Slovak Republic,1920-01-01,8.05,7.69,SVK
-Slovak Republic,1921-01-01,8.21,7.65,SVK
-Slovak Republic,1922-01-01,6.82,7.63,SVK
-Slovak Republic,1923-01-01,8.06,7.64,SVK
-Slovak Republic,1924-01-01,6.94,7.67,SVK
-Slovak Republic,1925-01-01,7.89,7.71,SVK
-Slovak Republic,1926-01-01,8.39,7.76,SVK
-Slovak Republic,1927-01-01,7.93,7.8,SVK
-Slovak Republic,1928-01-01,7.87,7.81,SVK
-Slovak Republic,1929-01-01,7.07,7.81,SVK
-Slovak Republic,1930-01-01,8.46,7.79,SVK
-Slovak Republic,1931-01-01,7.31,7.79,SVK
-Slovak Republic,1932-01-01,7.77,7.8,SVK
-Slovak Republic,1933-01-01,6.63,7.83,SVK
-Slovak Republic,1934-01-01,9.26,7.89,SVK
-Slovak Republic,1935-01-01,7.79,7.94,SVK
-Slovak Republic,1936-01-01,8.19,7.97,SVK
-Slovak Republic,1937-01-01,8.31,7.94,SVK
-Slovak Republic,1938-01-01,8.17,7.83,SVK
-Slovak Republic,1939-01-01,8.16,7.63,SVK
-Slovak Republic,1940-01-01,5.68,7.41,SVK
-Slovak Republic,1941-01-01,6.5,7.21,SVK
-Slovak Republic,1942-01-01,6.87,7.11,SVK
-Slovak Republic,1943-01-01,8.16,7.15,SVK
-Slovak Republic,1944-01-01,7.87,7.38,SVK
-Slovak Republic,1945-01-01,8.12,7.74,SVK
-Slovak Republic,1946-01-01,8.32,8.14,SVK
-Slovak Republic,1947-01-01,7.98,8.5,SVK
-Slovak Republic,1948-01-01,8.25,8.73,SVK
-Slovak Republic,1949-01-01,8.46,8.73,SVK
-Slovak Republic,1950-01-01,8.5,8.54,SVK
-Slovak Republic,1951-01-01,8.94,8.24,SVK
-Slovak Republic,1952-01-01,7.81,7.9,SVK
-Slovak Republic,1953-01-01,8.26,7.62,SVK
-Slovak Republic,1954-01-01,7.13,7.47,SVK
-Slovak Republic,1955-01-01,7.37,7.49,SVK
-Slovak Republic,1956-01-01,6.63,7.61,SVK
-Slovak Republic,1957-01-01,8.2,7.78,SVK
-Slovak Republic,1958-01-01,8.1,7.93,SVK
-Slovak Republic,1959-01-01,8.16,8.01,SVK
-Slovak Republic,1960-01-01,8.06,7.97,SVK
-Slovak Republic,1961-01-01,8.5,7.85,SVK
-Slovak Republic,1962-01-01,7.16,7.69,SVK
-Slovak Republic,1963-01-01,7.09,7.55,SVK
-Slovak Republic,1964-01-01,7.26,7.45,SVK
-Slovak Republic,1965-01-01,6.8,7.45,SVK
-Slovak Republic,1966-01-01,8.44,7.53,SVK
-Slovak Republic,1967-01-01,8.43,7.66,SVK
-Slovak Republic,1968-01-01,8.04,7.8,SVK
-Slovak Republic,1969-01-01,7.4,7.93,SVK
-Slovak Republic,1970-01-01,7.52,8.02,SVK
-Slovak Republic,1971-01-01,8.0,8.06,SVK
-Slovak Republic,1972-01-01,8.01,8.07,SVK
-Slovak Republic,1973-01-01,7.85,8.05,SVK
-Slovak Republic,1974-01-01,8.47,8.03,SVK
-Slovak Republic,1975-01-01,8.68,8.0,SVK
-Slovak Republic,1976-01-01,7.66,7.98,SVK
-Slovak Republic,1977-01-01,8.25,7.97,SVK
-Slovak Republic,1978-01-01,7.17,7.94,SVK
-Slovak Republic,1979-01-01,8.07,7.91,SVK
-Slovak Republic,1980-01-01,6.76,7.86,SVK
-Slovak Republic,1981-01-01,8.13,7.8,SVK
-Slovak Republic,1982-01-01,8.27,7.73,SVK
-Slovak Republic,1983-01-01,8.87,7.68,SVK
-Slovak Republic,1984-01-01,7.74,7.66,SVK
-Slovak Republic,1985-01-01,7.0,7.7,SVK
-Slovak Republic,1986-01-01,7.74,7.81,SVK
-Slovak Republic,1987-01-01,7.26,7.96,SVK
-Slovak Republic,1988-01-01,8.11,8.13,SVK
-Slovak Republic,1989-01-01,8.6,8.28,SVK
-Slovak Republic,1990-01-01,8.8,8.39,SVK
-Slovak Republic,1991-01-01,7.67,8.42,SVK
-Slovak Republic,1992-01-01,8.71,8.37,SVK
-Slovak Republic,1993-01-01,8.08,8.28,SVK
-Slovak Republic,1994-01-01,9.31,8.18,SVK
-Slovak Republic,1995-01-01,8.26,8.12,SVK
-Slovak Republic,1996-01-01,7.0,8.12,SVK
-Slovak Republic,1997-01-01,7.79,8.19,SVK
-Slovak Republic,1998-01-01,8.36,8.31,SVK
-Slovak Republic,1999-01-01,8.66,8.46,SVK
-Slovak Republic,2000-01-01,9.47,8.59,SVK
-Slovak Republic,2001-01-01,8.36,8.69,SVK
-Slovak Republic,2002-01-01,9.13,8.74,SVK
-Slovak Republic,2003-01-01,8.52,8.74,SVK
-Slovak Republic,2004-01-01,8.27,8.71,SVK
-Slovak Republic,2005-01-01,7.96,8.68,SVK
-Slovak Republic,2006-01-01,8.43,8.66,SVK
-Slovak Republic,2007-01-01,9.45,8.67,SVK
-Slovak Republic,2008-01-01,9.46,8.72,SVK
-Slovak Republic,2009-01-01,9.12,8.79,SVK
-Slovak Republic,2010-01-01,8.11,8.89,SVK
-Slovak Republic,2011-01-01,8.85,9.0,SVK
-Slovak Republic,2012-01-01,9.02,9.14,SVK
-Slovak Republic,2013-01-01,8.95,9.27,SVK
-Slovak Republic,2014-01-01,10.08,9.41,SVK
-Slovak Republic,2015-01-01,9.83,9.53,SVK
-Slovak Republic,2016-01-01,9.21,9.62,SVK
-Slovak Republic,2017-01-01,9.09,9.67,SVK
-Slovak Republic,2018-01-01,10.06,9.68,SVK
-Slovak Republic,2019-01-01,10.17,9.66,SVK
-Slovak Republic,2020-01-01,9.63,9.6,SVK
-Slovak Republic,2021-01-01,8.79,9.53,SVK
-Slovak Republic,2022-01-01,9.81,9.45,SVK
+Slovakia,1901-01-01,7.46,7.27,SVK
+Slovakia,1902-01-01,6.57,7.34,SVK
+Slovakia,1903-01-01,7.91,7.41,SVK
+Slovakia,1904-01-01,7.72,7.47,SVK
+Slovakia,1905-01-01,7.61,7.51,SVK
+Slovakia,1906-01-01,7.75,7.54,SVK
+Slovakia,1907-01-01,7.23,7.55,SVK
+Slovakia,1908-01-01,6.97,7.55,SVK
+Slovakia,1909-01-01,7.26,7.53,SVK
+Slovakia,1910-01-01,8.18,7.53,SVK
+Slovakia,1911-01-01,8.26,7.54,SVK
+Slovakia,1912-01-01,6.97,7.57,SVK
+Slovakia,1913-01-01,7.62,7.62,SVK
+Slovakia,1914-01-01,7.39,7.68,SVK
+Slovakia,1915-01-01,7.56,7.74,SVK
+Slovakia,1916-01-01,8.38,7.78,SVK
+Slovakia,1917-01-01,7.43,7.8,SVK
+Slovakia,1918-01-01,8.16,7.78,SVK
+Slovakia,1919-01-01,7.14,7.74,SVK
+Slovakia,1920-01-01,8.05,7.69,SVK
+Slovakia,1921-01-01,8.21,7.65,SVK
+Slovakia,1922-01-01,6.82,7.63,SVK
+Slovakia,1923-01-01,8.06,7.64,SVK
+Slovakia,1924-01-01,6.94,7.67,SVK
+Slovakia,1925-01-01,7.89,7.71,SVK
+Slovakia,1926-01-01,8.39,7.76,SVK
+Slovakia,1927-01-01,7.93,7.8,SVK
+Slovakia,1928-01-01,7.87,7.81,SVK
+Slovakia,1929-01-01,7.07,7.81,SVK
+Slovakia,1930-01-01,8.46,7.79,SVK
+Slovakia,1931-01-01,7.31,7.79,SVK
+Slovakia,1932-01-01,7.77,7.8,SVK
+Slovakia,1933-01-01,6.63,7.83,SVK
+Slovakia,1934-01-01,9.26,7.89,SVK
+Slovakia,1935-01-01,7.79,7.94,SVK
+Slovakia,1936-01-01,8.19,7.97,SVK
+Slovakia,1937-01-01,8.31,7.94,SVK
+Slovakia,1938-01-01,8.17,7.83,SVK
+Slovakia,1939-01-01,8.16,7.63,SVK
+Slovakia,1940-01-01,5.68,7.41,SVK
+Slovakia,1941-01-01,6.5,7.21,SVK
+Slovakia,1942-01-01,6.87,7.11,SVK
+Slovakia,1943-01-01,8.16,7.15,SVK
+Slovakia,1944-01-01,7.87,7.38,SVK
+Slovakia,1945-01-01,8.12,7.74,SVK
+Slovakia,1946-01-01,8.32,8.14,SVK
+Slovakia,1947-01-01,7.98,8.5,SVK
+Slovakia,1948-01-01,8.25,8.73,SVK
+Slovakia,1949-01-01,8.46,8.73,SVK
+Slovakia,1950-01-01,8.5,8.54,SVK
+Slovakia,1951-01-01,8.94,8.24,SVK
+Slovakia,1952-01-01,7.81,7.9,SVK
+Slovakia,1953-01-01,8.26,7.62,SVK
+Slovakia,1954-01-01,7.13,7.47,SVK
+Slovakia,1955-01-01,7.37,7.49,SVK
+Slovakia,1956-01-01,6.63,7.61,SVK
+Slovakia,1957-01-01,8.2,7.78,SVK
+Slovakia,1958-01-01,8.1,7.93,SVK
+Slovakia,1959-01-01,8.16,8.01,SVK
+Slovakia,1960-01-01,8.06,7.97,SVK
+Slovakia,1961-01-01,8.5,7.85,SVK
+Slovakia,1962-01-01,7.16,7.69,SVK
+Slovakia,1963-01-01,7.09,7.55,SVK
+Slovakia,1964-01-01,7.26,7.45,SVK
+Slovakia,1965-01-01,6.8,7.45,SVK
+Slovakia,1966-01-01,8.44,7.53,SVK
+Slovakia,1967-01-01,8.43,7.66,SVK
+Slovakia,1968-01-01,8.04,7.8,SVK
+Slovakia,1969-01-01,7.4,7.93,SVK
+Slovakia,1970-01-01,7.52,8.02,SVK
+Slovakia,1971-01-01,8.0,8.06,SVK
+Slovakia,1972-01-01,8.01,8.07,SVK
+Slovakia,1973-01-01,7.85,8.05,SVK
+Slovakia,1974-01-01,8.47,8.03,SVK
+Slovakia,1975-01-01,8.68,8.0,SVK
+Slovakia,1976-01-01,7.66,7.98,SVK
+Slovakia,1977-01-01,8.25,7.97,SVK
+Slovakia,1978-01-01,7.17,7.94,SVK
+Slovakia,1979-01-01,8.07,7.91,SVK
+Slovakia,1980-01-01,6.76,7.86,SVK
+Slovakia,1981-01-01,8.13,7.8,SVK
+Slovakia,1982-01-01,8.27,7.73,SVK
+Slovakia,1983-01-01,8.87,7.68,SVK
+Slovakia,1984-01-01,7.74,7.66,SVK
+Slovakia,1985-01-01,7.0,7.7,SVK
+Slovakia,1986-01-01,7.74,7.81,SVK
+Slovakia,1987-01-01,7.26,7.96,SVK
+Slovakia,1988-01-01,8.11,8.13,SVK
+Slovakia,1989-01-01,8.6,8.28,SVK
+Slovakia,1990-01-01,8.8,8.39,SVK
+Slovakia,1991-01-01,7.67,8.42,SVK
+Slovakia,1992-01-01,8.71,8.37,SVK
+Slovakia,1993-01-01,8.08,8.28,SVK
+Slovakia,1994-01-01,9.31,8.18,SVK
+Slovakia,1995-01-01,8.26,8.12,SVK
+Slovakia,1996-01-01,7.0,8.12,SVK
+Slovakia,1997-01-01,7.79,8.19,SVK
+Slovakia,1998-01-01,8.36,8.31,SVK
+Slovakia,1999-01-01,8.66,8.46,SVK
+Slovakia,2000-01-01,9.47,8.59,SVK
+Slovakia,2001-01-01,8.36,8.69,SVK
+Slovakia,2002-01-01,9.13,8.74,SVK
+Slovakia,2003-01-01,8.52,8.74,SVK
+Slovakia,2004-01-01,8.27,8.71,SVK
+Slovakia,2005-01-01,7.96,8.68,SVK
+Slovakia,2006-01-01,8.43,8.66,SVK
+Slovakia,2007-01-01,9.45,8.67,SVK
+Slovakia,2008-01-01,9.46,8.72,SVK
+Slovakia,2009-01-01,9.12,8.79,SVK
+Slovakia,2010-01-01,8.11,8.89,SVK
+Slovakia,2011-01-01,8.85,9.0,SVK
+Slovakia,2012-01-01,9.02,9.14,SVK
+Slovakia,2013-01-01,8.95,9.27,SVK
+Slovakia,2014-01-01,10.08,9.41,SVK
+Slovakia,2015-01-01,9.83,9.53,SVK
+Slovakia,2016-01-01,9.21,9.62,SVK
+Slovakia,2017-01-01,9.09,9.67,SVK
+Slovakia,2018-01-01,10.06,9.68,SVK
+Slovakia,2019-01-01,10.17,9.66,SVK
+Slovakia,2020-01-01,9.63,9.6,SVK
+Slovakia,2021-01-01,8.79,9.53,SVK
+Slovakia,2022-01-01,9.81,9.45,SVK
 Costa Rica,1901-01-01,24.25,24.25,CRI
 Costa Rica,1902-01-01,24.25,24.25,CRI
 Costa Rica,1903-01-01,24.25,24.25,CRI
@@ -20251,128 +20251,128 @@ Cote d'Ivoire,2019-01-01,26.83,27.12,CIV
 Cote d'Ivoire,2020-01-01,27.18,27.09,CIV
 Cote d'Ivoire,2021-01-01,27.37,27.06,CIV
 Cote d'Ivoire,2022-01-01,26.84,27.02,CIV
-Kyrgyz Republic,1901-01-01,0.97,1.07,KGZ
-Kyrgyz Republic,1902-01-01,1.58,0.95,KGZ
-Kyrgyz Republic,1903-01-01,-0.03,0.85,KGZ
-Kyrgyz Republic,1904-01-01,1.14,0.78,KGZ
-Kyrgyz Republic,1905-01-01,0.4,0.75,KGZ
-Kyrgyz Republic,1906-01-01,1.35,0.79,KGZ
-Kyrgyz Republic,1907-01-01,0.56,0.91,KGZ
-Kyrgyz Republic,1908-01-01,1.04,1.08,KGZ
-Kyrgyz Republic,1909-01-01,1.99,1.29,KGZ
-Kyrgyz Republic,1910-01-01,1.27,1.49,KGZ
-Kyrgyz Republic,1911-01-01,1.15,1.67,KGZ
-Kyrgyz Republic,1912-01-01,1.71,1.79,KGZ
-Kyrgyz Republic,1913-01-01,1.21,1.84,KGZ
-Kyrgyz Republic,1914-01-01,2.21,1.82,KGZ
-Kyrgyz Republic,1915-01-01,2.83,1.76,KGZ
-Kyrgyz Republic,1916-01-01,1.43,1.66,KGZ
-Kyrgyz Republic,1917-01-01,2.39,1.53,KGZ
-Kyrgyz Republic,1918-01-01,0.88,1.39,KGZ
-Kyrgyz Republic,1919-01-01,0.89,1.26,KGZ
-Kyrgyz Republic,1920-01-01,-0.16,1.15,KGZ
-Kyrgyz Republic,1921-01-01,0.87,1.09,KGZ
-Kyrgyz Republic,1922-01-01,2.12,1.09,KGZ
-Kyrgyz Republic,1923-01-01,1.11,1.16,KGZ
-Kyrgyz Republic,1924-01-01,1.33,1.28,KGZ
-Kyrgyz Republic,1925-01-01,1.95,1.4,KGZ
-Kyrgyz Republic,1926-01-01,1.82,1.47,KGZ
-Kyrgyz Republic,1927-01-01,1.72,1.44,KGZ
-Kyrgyz Republic,1928-01-01,0.6,1.28,KGZ
-Kyrgyz Republic,1929-01-01,0.21,1.02,KGZ
-Kyrgyz Republic,1930-01-01,0.46,0.71,KGZ
-Kyrgyz Republic,1931-01-01,0.45,0.43,KGZ
-Kyrgyz Republic,1932-01-01,0.88,0.23,KGZ
-Kyrgyz Republic,1933-01-01,1.18,0.17,KGZ
-Kyrgyz Republic,1934-01-01,-0.16,0.28,KGZ
-Kyrgyz Republic,1935-01-01,0.26,0.5,KGZ
-Kyrgyz Republic,1936-01-01,0.77,0.79,KGZ
-Kyrgyz Republic,1937-01-01,0.12,1.1,KGZ
-Kyrgyz Republic,1938-01-01,1.45,1.38,KGZ
-Kyrgyz Republic,1939-01-01,1.75,1.6,KGZ
-Kyrgyz Republic,1940-01-01,2.36,1.75,KGZ
-Kyrgyz Republic,1941-01-01,2.84,1.82,KGZ
-Kyrgyz Republic,1942-01-01,1.49,1.83,KGZ
-Kyrgyz Republic,1943-01-01,1.03,1.76,KGZ
-Kyrgyz Republic,1944-01-01,1.55,1.61,KGZ
-Kyrgyz Republic,1945-01-01,0.75,1.42,KGZ
-Kyrgyz Republic,1946-01-01,1.37,1.2,KGZ
-Kyrgyz Republic,1947-01-01,1.87,1.0,KGZ
-Kyrgyz Republic,1948-01-01,1.16,0.84,KGZ
-Kyrgyz Republic,1949-01-01,0.21,0.74,KGZ
-Kyrgyz Republic,1950-01-01,0.47,0.72,KGZ
-Kyrgyz Republic,1951-01-01,0.75,0.75,KGZ
-Kyrgyz Republic,1952-01-01,0.88,0.81,KGZ
-Kyrgyz Republic,1953-01-01,1.2,0.89,KGZ
-Kyrgyz Republic,1954-01-01,0.09,0.96,KGZ
-Kyrgyz Republic,1955-01-01,1.72,1.02,KGZ
-Kyrgyz Republic,1956-01-01,1.57,1.08,KGZ
-Kyrgyz Republic,1957-01-01,0.49,1.14,KGZ
-Kyrgyz Republic,1958-01-01,1.51,1.21,KGZ
-Kyrgyz Republic,1959-01-01,1.13,1.28,KGZ
-Kyrgyz Republic,1960-01-01,0.74,1.38,KGZ
-Kyrgyz Republic,1961-01-01,1.92,1.48,KGZ
-Kyrgyz Republic,1962-01-01,1.73,1.57,KGZ
-Kyrgyz Republic,1963-01-01,2.34,1.64,KGZ
-Kyrgyz Republic,1964-01-01,0.67,1.67,KGZ
-Kyrgyz Republic,1965-01-01,2.01,1.67,KGZ
-Kyrgyz Republic,1966-01-01,1.84,1.63,KGZ
-Kyrgyz Republic,1967-01-01,1.3,1.57,KGZ
-Kyrgyz Republic,1968-01-01,1.62,1.5,KGZ
-Kyrgyz Republic,1969-01-01,0.46,1.43,KGZ
-Kyrgyz Republic,1970-01-01,1.91,1.38,KGZ
-Kyrgyz Republic,1971-01-01,2.39,1.36,KGZ
-Kyrgyz Republic,1972-01-01,0.45,1.37,KGZ
-Kyrgyz Republic,1973-01-01,2.08,1.41,KGZ
-Kyrgyz Republic,1974-01-01,1.02,1.49,KGZ
-Kyrgyz Republic,1975-01-01,1.66,1.61,KGZ
-Kyrgyz Republic,1976-01-01,1.41,1.77,KGZ
-Kyrgyz Republic,1977-01-01,2.23,1.93,KGZ
-Kyrgyz Republic,1978-01-01,2.05,2.08,KGZ
-Kyrgyz Republic,1979-01-01,2.15,2.19,KGZ
-Kyrgyz Republic,1980-01-01,2.63,2.23,KGZ
-Kyrgyz Republic,1981-01-01,2.12,2.18,KGZ
-Kyrgyz Republic,1982-01-01,1.72,2.08,KGZ
-Kyrgyz Republic,1983-01-01,2.5,1.95,KGZ
-Kyrgyz Republic,1984-01-01,1.02,1.83,KGZ
-Kyrgyz Republic,1985-01-01,1.66,1.75,KGZ
-Kyrgyz Republic,1986-01-01,1.9,1.73,KGZ
-Kyrgyz Republic,1987-01-01,1.97,1.77,KGZ
-Kyrgyz Republic,1988-01-01,2.24,1.85,KGZ
-Kyrgyz Republic,1989-01-01,1.53,1.92,KGZ
-Kyrgyz Republic,1990-01-01,2.55,1.98,KGZ
-Kyrgyz Republic,1991-01-01,2.0,1.99,KGZ
-Kyrgyz Republic,1992-01-01,1.82,1.97,KGZ
-Kyrgyz Republic,1993-01-01,1.2,1.92,KGZ
-Kyrgyz Republic,1994-01-01,1.91,1.9,KGZ
-Kyrgyz Republic,1995-01-01,2.2,1.91,KGZ
-Kyrgyz Republic,1996-01-01,1.36,1.99,KGZ
-Kyrgyz Republic,1997-01-01,2.79,2.15,KGZ
-Kyrgyz Republic,1998-01-01,2.38,2.35,KGZ
-Kyrgyz Republic,1999-01-01,2.95,2.57,KGZ
-Kyrgyz Republic,2000-01-01,2.82,2.78,KGZ
-Kyrgyz Republic,2001-01-01,3.01,2.95,KGZ
-Kyrgyz Republic,2002-01-01,3.06,3.05,KGZ
-Kyrgyz Republic,2003-01-01,2.14,3.1,KGZ
-Kyrgyz Republic,2004-01-01,3.34,3.1,KGZ
-Kyrgyz Republic,2005-01-01,2.88,3.07,KGZ
-Kyrgyz Republic,2006-01-01,3.2,3.01,KGZ
-Kyrgyz Republic,2007-01-01,3.37,2.95,KGZ
-Kyrgyz Republic,2008-01-01,2.89,2.89,KGZ
-Kyrgyz Republic,2009-01-01,2.73,2.83,KGZ
-Kyrgyz Republic,2010-01-01,3.02,2.78,KGZ
-Kyrgyz Republic,2011-01-01,2.61,2.75,KGZ
-Kyrgyz Republic,2012-01-01,2.02,2.73,KGZ
-Kyrgyz Republic,2013-01-01,3.36,2.74,KGZ
-Kyrgyz Republic,2014-01-01,2.15,2.77,KGZ
-Kyrgyz Republic,2015-01-01,3.36,2.81,KGZ
-Kyrgyz Republic,2016-01-01,3.4,2.88,KGZ
-Kyrgyz Republic,2017-01-01,2.8,2.96,KGZ
-Kyrgyz Republic,2018-01-01,2.75,3.06,KGZ
-Kyrgyz Republic,2019-01-01,3.36,3.17,KGZ
-Kyrgyz Republic,2020-01-01,2.75,3.3,KGZ
-Kyrgyz Republic,2021-01-01,3.36,3.43,KGZ
-Kyrgyz Republic,2022-01-01,3.93,3.56,KGZ
+Kyrgyzstan,1901-01-01,0.97,1.07,KGZ
+Kyrgyzstan,1902-01-01,1.58,0.95,KGZ
+Kyrgyzstan,1903-01-01,-0.03,0.85,KGZ
+Kyrgyzstan,1904-01-01,1.14,0.78,KGZ
+Kyrgyzstan,1905-01-01,0.4,0.75,KGZ
+Kyrgyzstan,1906-01-01,1.35,0.79,KGZ
+Kyrgyzstan,1907-01-01,0.56,0.91,KGZ
+Kyrgyzstan,1908-01-01,1.04,1.08,KGZ
+Kyrgyzstan,1909-01-01,1.99,1.29,KGZ
+Kyrgyzstan,1910-01-01,1.27,1.49,KGZ
+Kyrgyzstan,1911-01-01,1.15,1.67,KGZ
+Kyrgyzstan,1912-01-01,1.71,1.79,KGZ
+Kyrgyzstan,1913-01-01,1.21,1.84,KGZ
+Kyrgyzstan,1914-01-01,2.21,1.82,KGZ
+Kyrgyzstan,1915-01-01,2.83,1.76,KGZ
+Kyrgyzstan,1916-01-01,1.43,1.66,KGZ
+Kyrgyzstan,1917-01-01,2.39,1.53,KGZ
+Kyrgyzstan,1918-01-01,0.88,1.39,KGZ
+Kyrgyzstan,1919-01-01,0.89,1.26,KGZ
+Kyrgyzstan,1920-01-01,-0.16,1.15,KGZ
+Kyrgyzstan,1921-01-01,0.87,1.09,KGZ
+Kyrgyzstan,1922-01-01,2.12,1.09,KGZ
+Kyrgyzstan,1923-01-01,1.11,1.16,KGZ
+Kyrgyzstan,1924-01-01,1.33,1.28,KGZ
+Kyrgyzstan,1925-01-01,1.95,1.4,KGZ
+Kyrgyzstan,1926-01-01,1.82,1.47,KGZ
+Kyrgyzstan,1927-01-01,1.72,1.44,KGZ
+Kyrgyzstan,1928-01-01,0.6,1.28,KGZ
+Kyrgyzstan,1929-01-01,0.21,1.02,KGZ
+Kyrgyzstan,1930-01-01,0.46,0.71,KGZ
+Kyrgyzstan,1931-01-01,0.45,0.43,KGZ
+Kyrgyzstan,1932-01-01,0.88,0.23,KGZ
+Kyrgyzstan,1933-01-01,1.18,0.17,KGZ
+Kyrgyzstan,1934-01-01,-0.16,0.28,KGZ
+Kyrgyzstan,1935-01-01,0.26,0.5,KGZ
+Kyrgyzstan,1936-01-01,0.77,0.79,KGZ
+Kyrgyzstan,1937-01-01,0.12,1.1,KGZ
+Kyrgyzstan,1938-01-01,1.45,1.38,KGZ
+Kyrgyzstan,1939-01-01,1.75,1.6,KGZ
+Kyrgyzstan,1940-01-01,2.36,1.75,KGZ
+Kyrgyzstan,1941-01-01,2.84,1.82,KGZ
+Kyrgyzstan,1942-01-01,1.49,1.83,KGZ
+Kyrgyzstan,1943-01-01,1.03,1.76,KGZ
+Kyrgyzstan,1944-01-01,1.55,1.61,KGZ
+Kyrgyzstan,1945-01-01,0.75,1.42,KGZ
+Kyrgyzstan,1946-01-01,1.37,1.2,KGZ
+Kyrgyzstan,1947-01-01,1.87,1.0,KGZ
+Kyrgyzstan,1948-01-01,1.16,0.84,KGZ
+Kyrgyzstan,1949-01-01,0.21,0.74,KGZ
+Kyrgyzstan,1950-01-01,0.47,0.72,KGZ
+Kyrgyzstan,1951-01-01,0.75,0.75,KGZ
+Kyrgyzstan,1952-01-01,0.88,0.81,KGZ
+Kyrgyzstan,1953-01-01,1.2,0.89,KGZ
+Kyrgyzstan,1954-01-01,0.09,0.96,KGZ
+Kyrgyzstan,1955-01-01,1.72,1.02,KGZ
+Kyrgyzstan,1956-01-01,1.57,1.08,KGZ
+Kyrgyzstan,1957-01-01,0.49,1.14,KGZ
+Kyrgyzstan,1958-01-01,1.51,1.21,KGZ
+Kyrgyzstan,1959-01-01,1.13,1.28,KGZ
+Kyrgyzstan,1960-01-01,0.74,1.38,KGZ
+Kyrgyzstan,1961-01-01,1.92,1.48,KGZ
+Kyrgyzstan,1962-01-01,1.73,1.57,KGZ
+Kyrgyzstan,1963-01-01,2.34,1.64,KGZ
+Kyrgyzstan,1964-01-01,0.67,1.67,KGZ
+Kyrgyzstan,1965-01-01,2.01,1.67,KGZ
+Kyrgyzstan,1966-01-01,1.84,1.63,KGZ
+Kyrgyzstan,1967-01-01,1.3,1.57,KGZ
+Kyrgyzstan,1968-01-01,1.62,1.5,KGZ
+Kyrgyzstan,1969-01-01,0.46,1.43,KGZ
+Kyrgyzstan,1970-01-01,1.91,1.38,KGZ
+Kyrgyzstan,1971-01-01,2.39,1.36,KGZ
+Kyrgyzstan,1972-01-01,0.45,1.37,KGZ
+Kyrgyzstan,1973-01-01,2.08,1.41,KGZ
+Kyrgyzstan,1974-01-01,1.02,1.49,KGZ
+Kyrgyzstan,1975-01-01,1.66,1.61,KGZ
+Kyrgyzstan,1976-01-01,1.41,1.77,KGZ
+Kyrgyzstan,1977-01-01,2.23,1.93,KGZ
+Kyrgyzstan,1978-01-01,2.05,2.08,KGZ
+Kyrgyzstan,1979-01-01,2.15,2.19,KGZ
+Kyrgyzstan,1980-01-01,2.63,2.23,KGZ
+Kyrgyzstan,1981-01-01,2.12,2.18,KGZ
+Kyrgyzstan,1982-01-01,1.72,2.08,KGZ
+Kyrgyzstan,1983-01-01,2.5,1.95,KGZ
+Kyrgyzstan,1984-01-01,1.02,1.83,KGZ
+Kyrgyzstan,1985-01-01,1.66,1.75,KGZ
+Kyrgyzstan,1986-01-01,1.9,1.73,KGZ
+Kyrgyzstan,1987-01-01,1.97,1.77,KGZ
+Kyrgyzstan,1988-01-01,2.24,1.85,KGZ
+Kyrgyzstan,1989-01-01,1.53,1.92,KGZ
+Kyrgyzstan,1990-01-01,2.55,1.98,KGZ
+Kyrgyzstan,1991-01-01,2.0,1.99,KGZ
+Kyrgyzstan,1992-01-01,1.82,1.97,KGZ
+Kyrgyzstan,1993-01-01,1.2,1.92,KGZ
+Kyrgyzstan,1994-01-01,1.91,1.9,KGZ
+Kyrgyzstan,1995-01-01,2.2,1.91,KGZ
+Kyrgyzstan,1996-01-01,1.36,1.99,KGZ
+Kyrgyzstan,1997-01-01,2.79,2.15,KGZ
+Kyrgyzstan,1998-01-01,2.38,2.35,KGZ
+Kyrgyzstan,1999-01-01,2.95,2.57,KGZ
+Kyrgyzstan,2000-01-01,2.82,2.78,KGZ
+Kyrgyzstan,2001-01-01,3.01,2.95,KGZ
+Kyrgyzstan,2002-01-01,3.06,3.05,KGZ
+Kyrgyzstan,2003-01-01,2.14,3.1,KGZ
+Kyrgyzstan,2004-01-01,3.34,3.1,KGZ
+Kyrgyzstan,2005-01-01,2.88,3.07,KGZ
+Kyrgyzstan,2006-01-01,3.2,3.01,KGZ
+Kyrgyzstan,2007-01-01,3.37,2.95,KGZ
+Kyrgyzstan,2008-01-01,2.89,2.89,KGZ
+Kyrgyzstan,2009-01-01,2.73,2.83,KGZ
+Kyrgyzstan,2010-01-01,3.02,2.78,KGZ
+Kyrgyzstan,2011-01-01,2.61,2.75,KGZ
+Kyrgyzstan,2012-01-01,2.02,2.73,KGZ
+Kyrgyzstan,2013-01-01,3.36,2.74,KGZ
+Kyrgyzstan,2014-01-01,2.15,2.77,KGZ
+Kyrgyzstan,2015-01-01,3.36,2.81,KGZ
+Kyrgyzstan,2016-01-01,3.4,2.88,KGZ
+Kyrgyzstan,2017-01-01,2.8,2.96,KGZ
+Kyrgyzstan,2018-01-01,2.75,3.06,KGZ
+Kyrgyzstan,2019-01-01,3.36,3.17,KGZ
+Kyrgyzstan,2020-01-01,2.75,3.3,KGZ
+Kyrgyzstan,2021-01-01,3.36,3.43,KGZ
+Kyrgyzstan,2022-01-01,3.93,3.56,KGZ
 Croatia,1901-01-01,10.04,10.19,HRV
 Croatia,1902-01-01,10.0,10.24,HRV
 Croatia,1903-01-01,10.59,10.29,HRV
