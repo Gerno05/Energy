@@ -1,4 +1,4 @@
-Country,Energy Type,Year,Energy Consumption,Energy Production,GDP,Population,Energy Intensity Per Capita,Energy Intensity By GDP,CO2 Emission
+Country,Energy_Type,Year,Energy_Consumption,Energy_Production,GDP,Population,Energy_Intensity_Per_Capita,Energy_Intensity_By_GDP,CO2_Emission
 Afghanistan,all_energy_types,1980-01-01,0.0265832166775618,0.0725611561466706,47.7571,13356.5,0.001990283133872032,0.0005566338131411204,
 Afghanistan,coal,1980-01-01,0.0024792482148388,0.0023552858074806,47.7571,13356.5,0.00018562109945261107,5.191370947647156e-05,
 Afghanistan,natural_gas,1980-01-01,0.002094,0.06282,47.7571,13356.5,0.00015677759892187323,4.3846883500045015e-05,
