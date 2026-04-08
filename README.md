@@ -82,7 +82,6 @@ energy-analysis/
 - Standardized column names
 
 ### Temperature Dataset
-- Renamed columns to remove spaces and special characters
 - Converted Year to integer format
 - Verified no missing values across all columns
 
@@ -140,13 +139,13 @@ energy-analysis/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourname/energy-analysis.git
+git clone https://github.com/Gerno05/energy-analysis.git
 cd energy-analysis
 ```
 
 **2. Install required libraries**
 ```bash
-pip install pandas numpy matplotlib jupyter
+pip install pandas numpy 
 ```
 
 **3. Run the notebooks in order**
@@ -154,15 +153,10 @@ pip install pandas numpy matplotlib jupyter
 jupyter notebook
 ```
 Open and run:
-1. `notebooks/energy_cleaning.ipynb`
-2. `notebooks/temperature_cleaning.ipynb`
-3. `notebooks/analysis.ipynb`
+1. `notebooks/ENERGY.ipynb`
+2. `notebooks/TEMPERATURE.ipynb`
+3. `notebooks/MERGED_DATASET.ipynb`
 
-**4. View dashboards**
-Open Tableau Public link above or load 
-`merged_final.csv` into Tableau directly
-
----
 
 ## 📋 Requirements
 python >= 3.8
@@ -173,18 +167,18 @@ jupyter >= 1.0.0
 ---
 
 ## 👤 Author
-**Your Name**
-- GitHub: github.com/yourname
-- Tableau: public.tableau.com/yourname
-- LinkedIn: linkedin.com/in/yourname
+George Alaneme
+- GitHub: github.com/Gerno05
+- Tableau: public.tableau.com/George Alaneme
+- LinkedIn: linkedin.com/in/George Alaneme
 
 ---
 
 ## 📄 Data Sources
-- Energy Data: U.S. Energy Information Administration
-  https://www.eia.gov
-- Temperature Data: World Bank Climate Portal
-  https://climateknowledgeportal.worldbank.org
+- Countries CO2 Emission and more...
+  https://www.kaggle.com/datasets/lobosi/c02-emission-by-countrys-grouth-and-population
+- Mean temperature for countries by year 1901-2022
+ https://www.kaggle.com/datasets/palinatx/mean-temperature-for-countries-by-year-2014-2022
 
 ---
 
