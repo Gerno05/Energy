@@ -40,12 +40,6 @@ energy-analysis/
 │   ├── temperature_cleaning.ipynb  # Temperature data cleaning
 │   └── analysis.ipynb              # Exploratory data analysis
 │
-├── dashboard/
-│   └── screenshots/
-│       ├── dashboard1.png          # Global Energy Overview
-│       └── dashboard2.png          # CO2 vs Temperature
-│
-└── README.md
 
 ---
 
