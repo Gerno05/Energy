@@ -86,24 +86,6 @@ energy-analysis/
 
 ---
 
-## 📈 Dashboards
-
-### Dashboard 1 — Global Energy & Emissions Overview
-- World map showing CO2 emissions by country
-- Global CO2 trend line (1980-2019)
-- Top 10 highest CO2 emitting countries
-- Interactive year filter
-
-### Dashboard 2 — CO2 vs Temperature Analysis
-- Dual axis line chart: CO2 and temperature over time
-- Scatter plot: CO2 emissions vs average temperature
-- Temperature map by country (Blue = cold, Red = hot)
-- Interactive year filter
-
-🔗 **View Live Dashboard:** [Tableau Public Link]
-
----
-
 ## 🔍 Key Findings
 - Global CO2 emissions rose from ~5,000 to ~35,000 
   million tonnes between 1980 and 2019
