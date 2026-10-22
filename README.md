@@ -225,9 +225,7 @@ Python 3.8 or later, plus the packages in `requirements.txt`
 
 ## 👤 Author
 George Alaneme
-- GitHub: github.com/Gerno05
-- Tableau: public.tableau.com/George Alaneme
-- LinkedIn: linkedin.com/in/George Alaneme
+- GitHub: [github.com/Gerno05](https://github.com/Gerno05)
 
 ---
 
