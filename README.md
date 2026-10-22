@@ -100,6 +100,23 @@ Energy/
 
 ---
 
+## 📈 Tableau Dashboards
+Built in Tableau Public from `data/merged_final.csv`.
+
+**Global Energy & Emission Analysis**: CO2 by country, the global CO2
+trend and the ten highest-emitting countries, with a year filter
+(shown here for 1993-2019).
+
+![Global Energy & Emission Analysis dashboard](images/tableau_dashboard_emissions.png)
+
+**CO2 Emissions vs Temperature**: average temperature by country, CO2
+against temperature for each country, and global CO2 alongside average
+temperature over time.
+
+![CO2 Emissions vs Temperature dashboard](images/tableau_dashboard_temperature.png)
+
+---
+
 ## 🔍 Key Findings
 
 ### Global
